@@ -82,14 +82,13 @@ def train(args, encoder, classifier, src_data_loader, tgt_data_train_loader, tgt
             mmd_sum += loss_mmd.item()
             if (step + 1) % args.log_step == 0:
                 print("Epoch [%.2d/%.2d] Step [%.3d/%.3d]: "
-                      "mmd_loss=%.4f cls_loss=%.4f js=%.4f"
+                      "mmd_loss=%.4f cls_loss=%.4f"
                       % (epoch + 1,
                          args.num_epochs,
                          step + 1,
                          len_data_loader,
                          loss_mmd.item(),
-                         cls_loss.item(),
-                         0))
+                         cls_loss.item()))
         f1_train,eloss_train = evaluate(args, encoder, classifier, tgt_data_train_loader, src_data_loader,epoch=epoch, pattern=1000)
         f1_valid,eloss_valid = evaluate(args, encoder, classifier, tgt_data_valid_loader, src_data_loader,epoch=epoch, pattern=1000)
         if f1_valid>bestf1:

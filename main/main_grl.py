@@ -97,10 +97,7 @@ def main():
     print("temperature: " + str(args.temperature))
     set_seed(args.train_seed)
 
-    if args.model in ['roberta', 'distilroberta']:
-        tokenizer = RobertaTokenizer.from_pretrained('roberta-base')
-    else:
-        tokenizer = BertTokenizer.from_pretrained('bert-base-multilingual-cased')
+    tokenizer = BertTokenizer.from_pretrained('bert-base-multilingual-cased')
 
     # preprocess data
     print("=== Processing datasets ===")
