@@ -1,0 +1,601 @@
+pairs,labels
+"""John G. Blystone Buster Keaton"" Our Hospitality [SEP] 1923 John G. Blystone The Last Man on Earth",0
+"Charles Chaplin City Lights 1931 [SEP] ""F.W. Murnau Friedrich Wilhelm Murnau"" City Girl",0
+William A. Wellman Night Nurse 1931 [SEP] William Wellman The Conquerors 1931 1932 1933,0
+James Whale Waterloo Bridge 1931 [SEP] James Whale The Old Dark House 1931 1932 1933,0
+William A. Wellman Heroes for Sale 1933 [SEP] William Wellman The Conquerors 1931 1932 1933,0
+James Whale The Invisible Man 1933 [SEP] James Whale The Old Dark House 1931 1932 1933,0
+John S. Robertson Our Little Girl 1935 [SEP] Irving Cummings Poor Little Rich Girl 1935 1936 1937,0
+"Lambert Hillyer The Invisible Ray 1936 [SEP] ""Lew Landers Louis Friedlander"" The Raven",0
+"Charles Chaplin Modern Times 1936 [SEP] ""George Stevens George Stevens Jr."" Swing Time",0
+"Norman Z. McLeod Pennies from Heaven 1936 [SEP] ""Norman McLeod Norman Z. McLeod"" Pennies From Heaven",1
+"George Stevens Swing Time 1936 [SEP] ""Charlie Chaplin Charles Chaplin"" Modern Times",0
+"""John Cromwell W.S. Van Dyke"" The Prisoner of Zenda [SEP] 1937 John Cromwell Banjo on My Knee",0
+Allan Dwan Rebecca of Sunnybrook Farm 1938 [SEP] Allan Dwan Heidi 1936 1937 1938,0
+"""Victor Fleming George Cukor"" Gone with the Wind [SEP] 1939 George Cukor Holiday",0
+Edmund Goulding The Old Maid 1939 [SEP] Edmund Goulding The Old Maid 1938 1939 1940,1
+"""Dorothy Arzner Roy Del Ruth"" ""Dance [SEP]  Girl  Dance"" 1940",0
+"""Norman Ferguson James Algar"" Fantasia [SEP] 1940 ""Deems Taylor Hugh Douglas",1
+A. Edward Sutherland The Invisible Woman 1940 [SEP] Joe May The Invisible Man Returns 1939 1940 1941,0
+"Michael Curtiz Casablanca 1942 [SEP] ""Michael Curtiz Hugh MacMullan"" Yankee Doodle Dandy",0
+"Arthur Lubin Phantom of the Opera 1943 [SEP] ""Anthony D.P. Mann Arthur Lubin"" Phantom of the Opera",1
+Roy William Neill The Spider Woman 1944 [SEP] Roy William Neill Sherlock Holmes and the Spider Woman 1943 1944 1945,0
+Roy William Neill The Spider Woman 1944 [SEP] Roy William Neill Sherlock Holmes and the Woman in Green 1944 1945 1946,0
+Michael Curtiz Mildred Pierce 1945 [SEP] Michael Curtiz Night and Day 1945 1946 1947,0
+Michael Curtiz Night and Day 1946 [SEP] Michael Curtiz Night and Day 1945 1946 1947,1
+Billy Wilder A Foreign Affair 1948 [SEP] Billy Wilder A Foreign Affair 1947 1948 1949,1
+John Ford Fort Apache 1948 [SEP] John Ford Fort Apache 1947 1948 1949,1
+"Vincente Minnelli The Pirate 1948 [SEP] ""Norman McLeod Norman Z. McLeod"" The Paleface",0
+Fred C. Brannon King of the Rocket Men 1949 [SEP] Vincente Minnelli Father of the Bride 1949 1950 1951,0
+Andrew L. Stone Highway 301 1950 [SEP] Andrew L. Stone Highway 301 1949 1950 1951,1
+John Farrow Where Danger Lives 1950 [SEP] John Farrow Copper Canyon 1949 1950 1951,0
+"""Clyde Geronimi Wilfred Jackson"" Alice in Wonderland [SEP] 1951 ""Clyde Geronimi Wilfred Jackson",0
+"Billy Wilder Ace in the Hole 1951 [SEP] ""George Stevens George Stevens Jr."" A Place in the Sun",0
+"Edgar G. Ulmer The Man from Planet X 1951 [SEP] ""Fred Brannon Fred C. Brannon"" Radar Men from the Moon",0
+Edgar G. Ulmer The Man from Planet X 1951 [SEP] Harry Horner Red Planet Mars 1951 1952 1953,0
+"George Stevens A Place in the Sun 1951 [SEP] ""George Stevens George Stevens Jr."" A Place in the Sun",1
+Cecil B. DeMille The Greatest Show on Earth 1952 [SEP] Cecil B. DeMille The Greatest Show on Earth 1951 1952 1953,1
+Hal Walker Road to Bali 1952 [SEP] Hal Walker That's My Boy 1950 1951 1952,0
+Douglas Sirk All I Desire 1953 [SEP] Douglas Sirk Magnificent Obsession 1953 1954 1955,0
+Howard Hawks Gentlemen Prefer Blondes 1953 [SEP] Howard Hawks Monkey Business 1951 1952 1953,0
+William Dieterle Salome 1953 [SEP] William Dieterle Salome 1952 1953 1954,1
+"""Otto Preminger Jean Negulesco"" River of No Return [SEP] 1954 Otto Preminger River of No Return",1
+Robert Aldrich Kiss Me Deadly 1955 [SEP] Robert Aldrich Kiss Me Deadly 1954 1955 1956,1
+Jack Arnold Revenge of the Creature 1955 [SEP] Jack Arnold Creature from the Black Lagoon 1953 1954 1955,0
+Alfred Hitchcock To Catch a Thief 1955 [SEP] Alfred Hitchcock Dial M for Murder 1953 1954 1955,0
+Alfred Hitchcock To Catch a Thief 1955 [SEP] Alfred Hitchcock The Man Who Knew Too Much 1955 1956 1957,0
+"""Michael Anderson John Farrow"" Around the World in Eighty Days [SEP] 1956 Michael Anderson 1984",0
+Robert Aldrich Autumn Leaves 1956 [SEP] Robert Aldrich Kiss Me Deadly 1954 1955 1956,0
+Stanley Kubrick The Killing 1956 [SEP] Stanley Kubrick Killer's Kiss 1954 1955 1956,0
+"Roger Corman Attack of the Crab Monsters 1957 [SEP] ""Ishir Honda Terry O. Morse"" ""Godzilla",0
+"Elia Kazan A Face in the Crowd 1957 [SEP] ""Ben Hecht Rudolph Mat"" Miracle in the Rain",0
+Kurt Neumann The Fly 1958 [SEP] Kurt Neumann The Fly 1957 1958 1959,1
+Kurt Neumann The Fly 1958 [SEP] Kurt Neumann Kronos 1957 1958 1959,0
+"Vincente Minnelli Gigi 1958 [SEP] ""Corinne Marchand Charles Walters Edwin Jerome",1
+Roger Corman A Bucket of Blood 1959 [SEP] Roger Corman A Bucket of Blood 1958 1959 1960,1
+George Marshall The Mating Game 1959 [SEP] George Marshall The Mating Game 1958 1959 1960,1
+Terence Fisher The Mummy 1959 [SEP] Kurt Neumann The Fly 1957 1958 1959,0
+Terence Fisher The Mummy 1959 [SEP] Terence Fisher The Hound of the Baskervilles 1958 1959 1960,0
+William Castle The Tingler 1959 [SEP] William Castle 13 Ghosts 1959 1960 1961,0
+"David Swift Pollyanna 1960 [SEP] ""David Swift (II) David Swift"" Pollyanna",1
+Stanley Kramer Judgment at Nuremberg 1961 [SEP] Stanley Kramer Inherit the Wind 1959 1960 1961,0
+Roger Corman Pit and the Pendulum 1961 [SEP] Roger Corman Tower of London 1961 1962 1963,0
+John Frankenheimer The Young Savages 1961 [SEP] John Frankenheimer The Young Savages 1960 1961 1962,1
+Edward L. Cahn Beauty and the Beast 1962 [SEP] Roger Corman Pit and the Pendulum (The Pit and the Pendulum) 1960 1961 1962,0
+J. Lee Thompson Cape Fear 1962 [SEP] J. Lee Thompson Kings of the Sun 1962 1963 1964,0
+"Stanley Kramer ""It's a Mad  Mad [SEP]  Mad  Mad World"" 1963",1
+Roger Corman The Raven 1963 [SEP] Roger Corman Tales of Terror 1961 1962 1963,0
+Roger Corman The Raven 1963 [SEP] Roger Corman The Intruder 1961 1962 1963,0
+Robert Stevenson Son of Flubber 1963 [SEP] Robert Stevenson Mary Poppins 1963 1964 1965,0
+Roger Corman X: The Man with the X-Ray Eyes 1963 [SEP] Roger Corman The Masque of the Red Death 1963 1964 1965,0
+Byron Haskin Robinson Crusoe on Mars 1964 [SEP] Byron Haskin Robinson Crusoe on Mars 1963 1964 1965,1
+George Roy Hill Thoroughly Modern Millie 1967 [SEP] George Roy Hill Thoroughly Modern Millie 1966 1967 1968,1
+"John Waters Multiple Maniacs 1970 [SEP] ""Robert Vincent O'Neill Robert Vincent O'Neil"" Blood Mania",0
+Boris Sagal The Omega Man 1971 [SEP] Boris Sagal Scarecrow 1971 1972 1973,0
+Sam Peckinpah Straw Dogs 1971 [SEP] Sam Peckinpah The Getaway 1971 1972 1973,0
+"Richard C. Sarafian Vanishing Point 1971 [SEP] ""Richard C. Sarafian Stephen A. Smith Julia Szucs""",1
+George Roy Hill Slaughterhouse-Five 1972 [SEP] George Roy Hill Slaughterhouse-Five 1971 1972 1973,1
+Martin Ritt Sounder 1972 [SEP] Martin Ritt Sounder 1971 1972 1973,1
+"""Jack Deerson Barbara Peeters"" The Dark Side of Tomorrow [SEP] 1970 ""Dan Curtis Alex Stevens""",0
+Clint Eastwood The Eiger Sanction 1975 [SEP] Michael Apted The Collection 1975 1976 1977,0
+Brian De Palma Carrie 1976 [SEP] Brian DePalma Carrie 1975 1976 1977,1
+Bert I. Gordon The Food of the Gods 1976 [SEP] Bert I. Gordon The Food of the Gods 1975 1976 1977,1
+Richard Donner The Omen 1976 [SEP] Peter Yates The Deep 1976 1977 1978,0
+Roger Watkins The Last House on Dead End Street 1977 [SEP] William Fruet Death Weekend (The House by the Lake) 1975 1976 1977,0
+George A. Romero Dawn of the Dead 1978 [SEP] George A. Romero Dawn of the Dead 1978 1979 1980,1
+Michael Cimino The Deer Hunter 1978 [SEP] Michael Cimino The Deer Hunter 1977 1978 1979,1
+"""Warren Beatty Buck Henry"" Heaven Can Wait [SEP] 1978 ""Warren Beatty Buck Henry""",1
+Philip Kaufman Invasion of the Body Snatchers 1978 [SEP] George A. Romero Dawn of the Dead 1978 1979 1980,0
+Ralph Bakshi The Lord of the Rings 1978 [SEP] Ralph Bakshi The Lord of the Rings 1977 1978 1979,1
+Steven Spielberg 1941 1979 [SEP] Steven Spielberg 1941 1978 1979 1980,1
+"Abel Ferrara The Driller Killer 1979 [SEP] ""Abel Ferrara Sean Weathers"" The Driller Killer",1
+Jonathan Kaplan Over the Edge 1979 [SEP] Jonathan Kaplan Over the Edge 1978 1979 1980,1
+Fred Walton When a Stranger Calls 1979 [SEP] Fred Walton When a Stranger Calls 1978 1979 1980,1
+Lewis Teague Alligator 1980 [SEP] Lewis Teague Alligator 1979 1980 1981,1
+John Carpenter The Fog 1980 [SEP] Carl Reiner The Jerk 1978 1979 1980,0
+Sydney Pollack Absence of Malice 1981 [SEP] Sydney Pollack Tootsie 1981 1982 1983,0
+Carl Gottlieb Caveman 1981 [SEP] Carl Gottlieb Caveman 1980 1981 1982,1
+Michael Apted Continental Divide 1981 [SEP] Michael Apted Continental Divide 1980 1981 1982,1
+Graham Baker The Final Conflict 1981 [SEP] Graham Baker Omen III: The Final Conflict 1980 1981 1982,0
+Jim Henson The Great Muppet Caper 1981 [SEP] Joe D'Amato The Grim Reaper 1979 1980 1981,0
+Ken Hughes Night School 1981 [SEP] Bruce Malmuth Nighthawks 1980 1981 1982,0
+Steven Spielberg Raiders of the Lost Ark 1981 [SEP] Steven Spielberg E.T. The Extra-Terrestrial 1981 1982 1983,0
+Warren Beatty Reds 1981 [SEP] Warren Beatty Reds 1980 1981 1982,1
+"Bob Clark A Christmas Story 1983 [SEP] ""Bob Clark (III) Bob Clark"" A Christmas Story",1
+"Tom McLoughlin One Dark Night 1982 [SEP] ""Tom DeSimone Tom De Simone"" Hell Night",0
+Alan Rudolph Choose Me 1984 [SEP] Alan Rudolph Choose Me 1983 1984 1985,1
+Richard Franklin Cloak & Dagger 1984 [SEP] Richard Franklin Psycho II 1982 1983 1984,0
+Mark L. Lester Firestarter 1984 [SEP] Mark L. Lester Commando 1984 1985 1986,0
+"""John 'Bud' Cardos Mark Rosman"" Night Shadows [SEP] 1984 Jackie Kong Night Patrol",0
+Thom Eberhardt Night of the Comet 1984 [SEP] Fritz Kiersch Children of the Corn 1983 1984 1985,0
+"Rob Epstein The Times of Harvey Milk 1984 [SEP] ""Robert Epstein Rob Epstein"" The Times of Harvey Milk",1
+John Badham American Flyers 1985 [SEP] John Badham Short Circuit 1985 1986 1987,0
+Sam Firstenberg American Ninja 1985 [SEP] Renny Harlin Born American 1985 1986 1987,0
+George A. Romero Day of the Dead 1985 [SEP] Michael Cimino Year of the Dragon 1984 1985 1986,0
+Robert Mandel F/X 1986 [SEP] Robert Mandel Big Shots 1986 1987 1988,0
+Hector Babenco Kiss of the Spider Woman 1985 [SEP] Hector Babenco Kiss of the Spider Woman 1984 1985 1986,1
+Stuart Gordon Re-Animator 1985 [SEP] Stuart Gordon From Beyond 1985 1986 1987,0
+John Landis Spies Like Us 1985 [SEP] John Landis Three Amigos! 1985 1986 1987,0
+Bruce Beresford Crimes of the Heart 1986 [SEP] Michael Cimino Year of the Dragon 1984 1985 1986,0
+Bruce Beresford Crimes of the Heart 1986 [SEP] Hector Babenco Kiss of the Spider Woman 1984 1985 1986,0
+William Fruet Killer Party 1986 [SEP] William Friedkin To Live and Die in L.A. 1984 1985 1986,0
+Howard Deutch Pretty in Pink 1986 [SEP] Howard Deutch Some Kind of Wonderful 1986 1987 1988,0
+Harry Winer SpaceCamp 1986 [SEP] Mel Brooks Spaceballs 1986 1987 1988,0
+Tony Scott Top Gun 1986 [SEP] Tony Scott Beverly Hills Cop II 1986 1987 1988,0
+Chris Columbus Adventures in Babysitting 1987 [SEP] Chris Columbus Adventures in Babysitting 1986 1987 1988,1
+Eugene Marner Beauty and the Beast 1987 [SEP] Robert Day The Quick and the Dead 1986 1987 1988,0
+Newt Arnold Bloodsport 1988 [SEP] Newt Arnold Bloodsport 1987 1988 1989,1
+"Newt Arnold Bloodsport 1988 [SEP] ""Frank Kerr Peter Maris"" True Blood",0
+Jean-Luc Godard King Lear 1987 [SEP] Jean-Luc Godard King Lear 1986 1987 1988,1
+Carl Reiner Summer School 1987 [SEP] Alan Metter Back to School 1985 1986 1987,0
+Penny Marshall Big 1988 [SEP] Garry Marshall Beaches 1987 1988 1989,0
+John Waters Hairspray 1988 [SEP] John Waters Hairspray 1987 1988 1989,1
+"Dwight H. Little Halloween 4: The Return of Michael Myers 1988 [SEP] ""Dwight H. Little Mark Cullingham"" Halloween 4: The Return of Michael Myers",1
+Jim Wynorski Not of This Earth 1988 [SEP] Jim Wynorski Big Bad Mama II 1986 1987 1988,0
+Jim Wynorski Not of This Earth 1988 [SEP] Jim Wynorski Not of this Earth 1987 1988 1989,1
+Ken Kwapis Vibes 1988 [SEP] Ken Kwapis Vibes 1987 1988 1989,1
+Zalman King Wildfire 1988 [SEP] Zalman King Two Moon Junction 1987 1988 1989,0
+Robert Zemeckis Back to the Future Part II 1989 [SEP] Ken Wiederhorn Return of the Living Dead Part II 1987 1988 1989,0
+Stephen Herek Bill & Ted's Excellent Adventure 1989 [SEP] Stephen Herek Bill and Ted's Excellent Adventure 1988 1989 1990,1
+"John Fasano The Jitters 1989 [SEP] ""Mick Garris Mick Harris"" Critters 2: The Main Course",0
+"""Mark DiSalle David Worth"" Kickboxer [SEP] 1989 ""David Worth (II) David Worth",1
+"John Dahl Kill Me Again 1989 [SEP] ""Gary Nelson Mel Brooks"" Get Smart Again",0
+Joe Pytka Let It Ride 1989 [SEP] Joe Pytka Let It Ride 1988 1989 1990,1
+"Danny DeVito The War of the Roses 1989 [SEP] ""Dwight H. Little Dwight Little"" The Phantom of the Opera",0
+Danny DeVito The War of the Roses 1989 [SEP] Damian Lee Food of the Gods II 1988 1989 1990,0
+"John R. Cherry III Ernest Goes to Jail 1990 [SEP] ""John Cherry John R. Cherry III"" Ernest Scared Stupid",0
+William Peter Blatty The Exorcist III 1990 [SEP] William Peter Blatty The Exorcist III 1989 1990 1991,1
+Francis Ford Coppola The Godfather: Part III 1990 [SEP] Robert Zemeckis Back to the Future Part II 1988 1989 1990,0
+Martin Scorsese Goodfellas 1990 [SEP] Martin Scorsese Cape Fear 1990 1991 1992,0
+Harry Hook Lord of the Flies 1990 [SEP] Tony Randel Children of the Night 1990 1991 1992,0
+"Dwight H. Little Marked for Death 1990 [SEP] ""Dwight H. Little Dwight Little"" The Phantom of the Opera",0
+Rob Reiner Misery 1990 [SEP] Rob Reiner Misery 1989 1990 1991,1
+Herbert Ross My Blue Heaven 1990 [SEP] Herbert Ross Steel Magnolias 1988 1989 1990,0
+Tom Savini Night of the Living Dead 1990 [SEP] Tony Randel Children of the Night 1990 1991 1992,0
+Garry Marshall Pretty Woman 1990 [SEP] Garry Marshall Pretty Woman 1989 1990 1991,1
+"Dennis Dugan Problem Child 1990 [SEP] ""Robert Simonds Dennis Dugan"" Problem Child",1
+Clint Eastwood White Hunter Black Heart 1990 [SEP] Clint Eastwood The Rookie 1989 1990 1991,0
+Barry Levinson Bugsy 1991 [SEP] Barry Levinson Bugsy 1990 1991 1992,1
+Ron Underwood City Slickers 1991 [SEP] Ron Underwood Tremors 1989 1990 1991,0
+Kristine Peterson Critters 3 1991 [SEP] Frank Oz Housesitter 1991 1992 1993,0
+Stephen Herek Don't Tell Mom the Babysitter's Dead 1991 [SEP] Stephen Hopkins Dangerous Game 1989 1990 1991,0
+Dyan Cannon The End of Innocence 1990 [SEP] Dyan Cannon The End of Innocence 1989 1990 1991,1
+"John R. Cherry III Ernest Scared Stupid 1991 [SEP] ""John Cherry John R. Cherry III"" Ernest Scared Stupid",1
+Garry Marshall Frankie and Johnny 1991 [SEP] Garry Marshall Frankie & Johnny 1990 1991 1992,1
+"""George Jackson Doug McHenry"" House Party 2 [SEP] 1991 ""Doug McHenry George Jackson""",1
+Mark DiSalle The Perfect Weapon 1991 [SEP] Richard Donner Lethal Weapon 3 1991 1992 1993,0
+Kevin Reynolds Robin Hood: Prince of Thieves 1991 [SEP] John Irvin Robin Hood 1990 1991 1992,0
+Steve Miner Wild Hearts Can't Be Broken 1991 [SEP] Steve Miner Forever Young 1991 1992 1993,0
+Steve Miner Wild Hearts Can't Be Broken 1991 [SEP] David Lynch Wild At Heart 1989 1990 1991,0
+"Martin Bell American Heart 1992 [SEP] ""Bobby Jean Leonard Bobby Leonard Bobby Gene Leonard""",0
+Fran Rubel Kuzui Buffy the Vampire Slayer 1992 [SEP] Fran Rubel Kuzui Buffy the Vampire Slayer 1991 1992 1993,1
+Steve Miner Forever Young 1992 [SEP] Steve Miner Wild Hearts Can't Be Broken 1990 1991 1992,0
+John Landis Innocent Blood 1992 [SEP] John Landis Innocent Blood 1991 1992 1993,1
+Penny Marshall A League of Their Own 1992 [SEP] Penny Marshall A League of Their Own 1991 1992 1993,1
+Stephen Herek The Mighty Ducks 1992 [SEP] Stephen Herek Don't Tell Mom the Babysitter's Dead 1990 1991 1992,0
+Hal Hartley Simple Men 1992 [SEP] Hal Hartley Trust 1990 1991 1992,0
+Cameron Crowe Singles 1992 [SEP] Barbet Schroeder Single White Female 1991 1992 1993,0
+Emile Ardolino Sister Act 1992 [SEP] Bill Duke Sister Act 2: Back in the Habit 1992 1993 1994,0
+Roland Emmerich Universal Soldier 1992 [SEP] Roland Emmerich Universal Soldier 1991 1992 1993,1
+Stephen Sommers The Adventures of Huck Finn 1993 [SEP] Michael Schultz The Adventures of Young Indiana Jones: Hollywood Follies 1993 1994 1995,0
+Luca Bercovici Dark Tide 1994 [SEP] Luca Bercovici Dark Tide 1992 1993 1994,1
+Robert Lieberman Fire in the Sky 1993 [SEP] Wolfgang Petersen In the Line of Fire 1992 1993 1994,0
+"""Albert Band Charles Band"" Prehysteria! [SEP] 1993 ""Albert Band Charles Band""",0
+Russell Mulcahy The Real McCoy 1993 [SEP] Ted Demme The Ref 1993 1994 1995,0
+David Anspaugh Rudy 1993 [SEP] David Anspaugh Rudy 1992 1993 1994,1
+George Sluizer The Vanishing 1993 [SEP] Chris Walas The Vagrant 1991 1992 1993,0
+Stephen Surjik Wayne's World 2 1993 [SEP] Penelope Spheeris Wayne's World 1991 1992 1993,0
+Jonathan Kaplan Bad Girls 1994 [SEP] Jonathan Klein Before Your Eyes: Angelie's Secret 1994 1995 1996,0
+Michael Apted Blink 1994 [SEP] Michael Mann Heat 1994 1995 1996,0
+Alex Proyas The Crow 1994 [SEP] Alex Proyas The Crow 1993 1994 1995,1
+"""Tom Stern Alex Winter"" Freaked [SEP] 1993 Stephen Tolkin Daybreak",0
+Mark Rydell Intersection 1994 [SEP] Mark Rydell Intersection 1993 1994 1995,1
+Stephen Furst Magic Kid II 1994 [SEP] Andrew Stevens The Skateboard Kid II 1994 1995 1996,0
+"Chuck Russell The Mask 1994 [SEP] ""Jim McBride Jim McBride"" The Wrong Man",0
+Chuck Russell The Mask 1994 [SEP] Carl Colpaert The Crew 1994 1995 1996,0
+Chuck Russell The Mask 1994 [SEP] Ted Demme The Ref 1993 1994 1995,0
+Peter Segal Naked Gun 33 1/3: The Final Insult 1994 [SEP] Peter Segal The Naked Gun 33 1/3: The Final Insult 1993 1994 1995,1
+Rob Reiner North 1994 [SEP] Rob Reiner The American President 1994 1995 1996,0
+Ted Demme The Ref 1994 [SEP] Ted Demme The Ref 1993 1994 1995,1
+David Carson Star Trek: Generations 1994 [SEP] David Carson Star Trek Generations 1993 1994 1995,1
+"Melanie Mayron The Baby-Sitters Club 1995 [SEP] ""Melanie Mayron Lynn Hamrick"" The Baby-Sitters Club",1
+Robert Rodriguez Desperado 1995 [SEP] Robert Rodriguez Desperado 1994 1995 1996,1
+Hal Hartley Flirt 1995 [SEP] Hal Hartley Flirt 1995 1996 1997,1
+Stacy Title The Last Supper 1995 [SEP] Stacy Title The Last Supper 1995 1996 1997,1
+Ian Corson Malicious 1995 [SEP] Ian Corson Malicious 1994 1995 1996,1
+"Marc Rocco Murder in the First 1995 [SEP] ""Bob Clark (III) Bob Clark"" It Runs in the Family",0
+Oliver Stone Nixon 1995 [SEP] Oliver Stone Natural Born Killers 1993 1994 1995,0
+Roger Donaldson Species 1995 [SEP] Roger Donaldson The Getaway 1993 1994 1995,0
+Ben Stiller The Cable Guy 1996 [SEP] Andrew Fleming The Craft 1995 1996 1997,0
+Douglas McGrath Emma 1996 [SEP] Douglas McGrath Emma 1995 1996 1997,1
+Renny Harlin The Long Kiss Goodnight 1996 [SEP] Lee Karaim Kiss the Girls Goodbye 1996 1997 1998,0
+"""Joseph Bologna Rene Taylor"" Love Is All There Is [SEP] 1996 ""George Pappas Rene Taylor",1
+"Michael Bay The Rock 1996 [SEP] ""Zak Levitt Michael Bay"" Bad Boys",0
+Mel Smith Bean 1997 [SEP] Mel Smith Bean 1996 1997 1998,1
+"Peter Hewitt The Borrowers 1997 [SEP] ""Peter Hewitt (I) Peter Hewitt"" The Borrowers",1
+Alan J. Pakula The Devil's Own 1997 [SEP] Taylor Hackford The Devil's Advocate 1996 1997 1998,0
+Mark L. Lester Double Take 1998 [SEP] Bruce Beresford Double Jeopardy 1998 1999 2000,0
+"Mark L. Lester Double Take 1998 [SEP] ""Tsui Hark Dennis Rodman Jean-Claude Van Damme",0
+Gregory Hoblit Fallen 1998 [SEP] Jean-Marc Pich Fallen Knight 1997 1998 1999,0
+Alfonso Cuarn Great Expectations 1998 [SEP] Alfonso Cuarn Great Expectations 1997 1998 1999,1
+John Pasquin Jungle 2 Jungle 1997 [SEP] John Pasquin Jungle 2 Jungle 1996 1997 1998,1
+Stephen Kay The Last Time I Committed Suicide 1997 [SEP] Stephen Herek Holy Man 1997 1998 1999,0
+Art Camacho Little Bigfoot 1997 [SEP] Antonio Tibaldi Little Boy Blue 1997 1998 1999,0
+Peter Chelsom The Mighty 1998 [SEP] Peter Chelsom The Mighty 1997 1998 1999,1
+Mark Pavia The Night Flier 1997 [SEP] Paul Thomas Anderson Boogie Nights 1996 1997 1998,0
+Paul W.S. Anderson Soldier 1998 [SEP] Paul Thomas Anderson Magnolia 1998 1999 2000,0
+M. Night Shyamalan Wide Awake 1998 [SEP] M. Night Shyamalan The Sixth Sense 1998 1999 2000,0
+Doug Ellin Kissing a Fool 1998 [SEP] Ger Poppelaars Missing Link 1998 1999 2000,0
+Randall Wallace The Man in the Iron Mask 1998 [SEP] Brad Bird The Iron Giant 1998 1999 2000,0
+John McNaughton Wild Things 1998 [SEP] John McNaughton Wild Things 1997 1998 1999,1
+Harold Ramis Analyze This 1999 [SEP] Harold Ramis Analyze This 1998 1999 2000,1
+Mario Van Peebles Love Kills 1998 [SEP] Peyton Reed The Love Bug 1996 1997 1998,0
+"""Buddy Cooper John Douglass"" The Mutilator [SEP] 1984 James Cameron The Terminator",0
+Peter Berg Very Bad Things 1998 [SEP] John McNaughton Wild Things 1997 1998 1999,0
+Sam Raimi For Love of the Game 1999 [SEP] Sam Raimi For Love of the Game 1998 1999 2000,1
+Mark L. Lester Misbegotten 1998 [SEP] Mark L. Lester Hitman's Run 1998 1999 2000,0
+Roger Kumble Cruel Intentions 1999 [SEP] Roger Kumble Cruel Intentions 1998 1999 2000,1
+Mary Harron American Psycho 2000 [SEP] Sam Mendes American Beauty 1998 1999 2000,0
+"Robert Redford The Legend of Bagger Vance 2000 [SEP] ""Jim Ormond Pierre Gang"" The Legend of Sleepy Hollow",0
+Rob Reiner The Story of Us 1999 [SEP] David Lynch The Straight Story 1998 1999 2000,0
+Rick Famuyiwa The Wood 1999 [SEP] Frank Coraci The Waterboy 1997 1998 1999,0
+Garry Marshall Runaway Bride 1999 [SEP] Garry Marshall The Other Sister 1998 1999 2000,0
+Andy Tennant Anna and the King 1999 [SEP] Julian Jarrold All the King's Men 1999 2000 2001,0
+"Andy Tennant Anna and the King 1999 [SEP] ""Jacques Martineau Olivier Ducastel"" Jeanne and the Perfect Guy",0
+Hal Hartley The Book of Life 1998 [SEP] Jim Sheridan The Boxer 1996 1997 1998,0
+Peter Jackson The Lord of the Rings: The Two Towers 2002 [SEP] Peter Jackson The Lord of the Rings: The Fellowship of the Ring (Extended) 2000 2001 2002,0
+Sean McNamara Race to Space 2001 [SEP] Sean McNamara Race to Space 2000 2001 2002,1
+Bruce McCulloch Superstar 1999 [SEP] Bruce McCulloch Superstar 1998 1999 2000,1
+Michael Bay Bad Boys II 2003 [SEP] Michael Mann Collateral 2003 2004 2005,0
+Paul Thomas Anderson Magnolia 1999 [SEP] Paul Thomas Anderson Magnolia 1998 1999 2000,1
+Paul Thomas Anderson Magnolia 1999 [SEP] Wes Anderson Rushmore 1997 1998 1999,0
+"""Bobby Farrelly Peter Farrelly"" ""Me [SEP]  Myself & Irene"" 2000 ""Philippa Karmel",0
+Jonathan Lynn The Whole Nine Yards 2000 [SEP] Jonathan Lynn The Whole Nine Yards 1999 2000 2001,1
+"""Joel Coen Ethan Coen"" ""O Brother [SEP]  Where Art Thou?"" 2000 ""Ethan Coen",0
+Steven Soderbergh Erin Brockovich 2000 [SEP] Steven Soderbergh Traffic 1999 2000 2001,0
+"Michael Dinner The Crew 2000 [SEP] ""Jennifer Lopez Marianne Jean-Baptiste Musetta Vander",0
+Antony Hoffman Red Planet 2000 [SEP] Tim Burton Planet of the Apes 2000 2001 2002,0
+Stephen Metcalfe Beautiful Joe 2000 [SEP] Bill Eagles Beautiful Creatures 2000 2001 2002,0
+Adam Shankman The Wedding Planner 2001 [SEP] Adam Shankman A Walk to Remember 2001 2002 2003,0
+Ridley Scott Hannibal 2001 [SEP] Ridley Scott Gladiator 1999 2000 2001,0
+Jean-Jacques Annaud Enemy at the Gates 2001 [SEP] Jean-Jacques Annaud Enemy at the Gates 2000 2001 2002,1
+Brett Ratner The Family Man 2000 [SEP] Malcolm D. Lee The Best Man 1998 1999 2000,0
+Ted Demme Blow 2001 [SEP] Ted Demme Blow 2000 2001 2002,1
+Alejandro Amenbar The Others 2001 [SEP] Shekhar Kapur The Four Feathers 2001 2002 2003,0
+Rob Cohen The Fast and the Furious 2001 [SEP] Mark Swan Princess and the Pea 2001 2002 2003,0
+"""Andy Wachowski Lana Wachowski"" The Matrix Revolutions [SEP] 2003 ""Alastair Reid David Espar",0
+"Les Mayfield American Outlaws 2001 [SEP] ""James B. Rogers (II) J.B. Rogers"" American Pie 2",0
+"Ivan Reitman Evolution 2001 [SEP] ""Alastair Reid David Espar Gail Willumsen",0
+John Singleton Baby Boy 2001 [SEP] John Singleton Baby Boy 2000 2001 2002,1
+Clark Johnson S.W.A.T. 2003 [SEP] Clark Johnson S.W.A.T. 2002 2003 2004,1
+Adam Simon The American Nightmare 2000 [SEP] Sam Mendes American Beauty 1998 1999 2000,0
+"Adam Simon The American Nightmare 2000 [SEP] ""Chris Weitz Paul Weitz"" American Pie",0
+Cameron Crowe Vanilla Sky 2001 [SEP] Cameron Crowe Almost Famous 1999 2000 2001,0
+"Boaz Yakin Uptown Girls 2003 [SEP] ""Mark Waters Mark Waters (VIII)"" Mean Girls",0
+Brett Ratner Rush Hour 2 2001 [SEP] Brett Ratner Rush Hour 2 2000 2001 2002,1
+"Simon Wells The Time Machine 2002 [SEP] ""Simon Wells Gore Verbinski"" The Time Machine",1
+George Clooney Confessions of a Dangerous Mind 2002 [SEP] George Clooney Confessions of a Dangerous Mind 2002 2003 2004,1
+"Craig Shapiro Our Lips Are Sealed 2000 [SEP] ""Ashley Olsen Mary-Kate Olsen Craig Shapiro""",1
+Jake Kasdan Orange County 2002 [SEP] Jake Kasdan Orange County 2001 2002 2003,1
+Woody Allen Hollywood Ending 2002 [SEP] Woody Allen Hollywood Ending 2001 2002 2003,1
+"""Barrett J. Leigh Thom Maurer"" Beyond the Wall of Sleep [SEP] 2006 Lisandro Perez-Rey Beyond the Sea",0
+Daisy von Scherler Mayer The Guru 2002 [SEP] Rob Sitch The Dish 2000 2001 2002,0
+Marc Evans My Little Eye 2002 [SEP] Marc Evans My Little Eye 2001 2002 2003,1
+Michael Hoffman The Emperor's Club 2002 [SEP] Edmund Goulding The Razor's Edge 2000 2001 2002,0
+Chris Columbus Rent 2005 [SEP] Chris Columbus Rent 2004 2005 2006,1
+Tom Brady The Hot Chick 2002 [SEP] Tom Brady The Hot Chick 2001 2002 2003,1
+"""Shari Springer Berman Robert Pulcini"" American Splendor [SEP] 2003 Phillip Noyce The Quiet American",0
+"""Shari Springer Berman Robert Pulcini"" American Splendor [SEP] 2003 ""Robert Pulcini Shari Springer Berman""",1
+Tuck Tucker Hey Arnold! The Movie 2002 [SEP] John Ford December 7th: The Movie 2000 2001 2002,0
+Simon Wincer The Young Black Stallion 2003 [SEP] Simon Wincer Monte Walsh 2002 2003 2004,0
+"John Lee Hancock The Alamo 2004 [SEP] ""Peter Chung Andy Jones Yoshiaki Kawajiri",0
+"John Lee Hancock The Alamo 2004 [SEP] ""Wachowski Brothers Andy Jones"" The Animatrix",0
+Jim Simpson The Guys 2002 [SEP] Aldo Garay The Wait 2001 2002 2003,0
+"Mark Waters Freaky Friday 2003 [SEP] ""Mark Waters Mark Waters (VIII)"" Mean Girls",0
+"Peter Berg The Rundown 2003 [SEP] Peter Bate ""Congo: White King  Red Rubber",0
+Lee Tamahori xXx: State of the Union 2005 [SEP] Steven Spielberg War of the Worlds 2004 2005 2006,0
+Raja Gosnell Scooby-Doo 2: Monsters Unleashed 2004 [SEP] Louis Leterrier Unleashed 2004 2005 2006,0
+Martin Scorsese The Aviator 2004 [SEP] John Lee Hancock The Alamo 2003 2004 2005,0
+Florent-Emilio Siri Hostage 2005 [SEP] Florent Emilio Siri Hostage 2004 2005 2006,1
+Peter Segal 50 First Dates 2004 [SEP] Forest Whitaker First Daughter 2003 2004 2005,0
+"Peter Segal 50 First Dates 2004 [SEP] ""Peter Segal Peter Segal"" The Longest Yard",0
+"Alex Proyas ""I  Robot"" [SEP] 2004 Alex Proyas ""I",1
+Ron Howard Cinderella Man 2005 [SEP] Ron Howard Cinderella Man 2004 2005 2006,1
+Lance Mungia The Crow: Wicked Prayer 2005 [SEP] Neil LaBute The Wicker Man 2005 2006 2007,0
+Mark Rosman A Cinderella Story 2004 [SEP] Ron Howard Cinderella Man 2004 2005 2006,0
+"Andy Cadiff Chasing Liberty 2004 [SEP] ""Andy Cadiff Shelly Ziegler"" Chasing Liberty",1
+Lawrence Guterman Son of the Mask 2005 [SEP] Joel Schumacher The Phantom of the Opera 2004 2005 2006,0
+Kevin Spacey Beyond the Sea 2004 [SEP] Eric Schaeffer Mind the Gap 2004 2005 2006,0
+"Kevin Spacey Beyond the Sea 2004 [SEP] ""Patrick Gilmore (III) Patrick Gilmore Tim Johnson""",0
+Zack Snyder Dawn of the Dead 2004 [SEP] Steven Spielberg War of the Worlds 2004 2005 2006,0
+Jonathan Demme The Manchurian Candidate 2004 [SEP] Jonathan Karsh My Flesh and Blood 2002 2003 2004,0
+Jon Turteltaub National Treasure 2004 [SEP] Fred Olen Ray Final Examination 2002 2003 2004,0
+Jon Favreau Iron Man 2008 [SEP] Jon Favreau Iron Man 2007 2008 2009,1
+Christopher N. Rowley The Remembering Movies 2004 [SEP] Christopher Nolan Batman Begins 2004 2005 2006,0
+Christopher Nolan Batman Begins 2005 [SEP] Christopher Smith Creep 2004 2005 2006,0
+Christopher Nolan Batman Begins 2005 [SEP] Christopher Nolan The Prestige 2005 2006 2007,0
+Eric Schaeffer Mind the Gap 2004 [SEP] Kevin Spacey Beyond the Sea 2003 2004 2005,0
+"Ralph E. Portillo The Ghost Club 2003 [SEP] ""Rafe M. Portilo Ralph Portillo Ralph E. Portillo""",1
+Joss Whedon Serenity 2005 [SEP] Joss Whedon Serenity 2004 2005 2006,1
+Mark Rosman The Perfect Man 2005 [SEP] Alex Pillai The Best Man 2005 2006 2007,0
+Keenen Ivory Wayans White Chicks 2004 [SEP] Keenen Ivory Wayans White Chicks 2003 2004 2005,1
+Terry George Hotel Rwanda 2004 [SEP] Mike Figgis Hotel 2002 2003 2004,0
+Tim Fywell Ice Princess 2005 [SEP] William Lau Barbie as the Princess and the Pauper 2003 2004 2005,0
+"Gabor Csupo The Secret of Moonacre 2008 [SEP] ""Harsha Wardhan Harsh Gijre"" A Secret Handshake",0
+Kirk Jones Nanny McPhee 2005 [SEP] Kirk Jones Nanny McPhee 2005 2006 2007,1
+Jaume Collet-Serra House of Wax 2005 [SEP] Stephen Herek Man of the House 2004 2005 2006,0
+"Mike Mitchell Sky High 2005 [SEP] ""Mike Mitchell Mike Mitchell (VI)"" Sky High",1
+David Kendall Dirty Deeds 2005 [SEP] John Waters A Dirty Shame 2003 2004 2005,0
+Alejandro Agresti The Lake House 2006 [SEP] Zelalem Woldemariam The 11th Hour 2005 2006 2007,0
+Sam Raimi Spider-Man 3 2007 [SEP] Sam Raimi Spider-Man 3 2006 2007 2008,1
+"Lewis Helfer Life on the Ledge 2005 [SEP] ""Tim Johnson Karey Kirkpatrick"" Over the Hedge",0
+Adam McKay Talladega Nights: The Ballad of Ricky Bobby 2006 [SEP] Adam McKay Talladega Nights: The Ballad of Ricky Bobby 2005 2006 2007,1
+Gary David Goldberg Must Love Dogs 2005 [SEP] Gary David Goldberg Must Love Dogs 2004 2005 2006,1
+George A. Romero Land of the Dead 2005 [SEP] Barry Levinson Man of the Year 2005 2006 2007,0
+George A. Romero Land of the Dead 2005 [SEP] Joel Schumacher The Phantom of the Opera 2004 2005 2006,0
+Paul Rachman American Hardcore 2006 [SEP] Dennis Iliadis Hardcore 2004 2005 2006,0
+"John Whitesell Big Momma's House 2 2006 [SEP] ""John P. Whitesell Elton LeBlanc Emily Procter",1
+Steve Carr Are We Done Yet? 2007 [SEP] Steve Carr Are We Done Yet? 2006 2007 2008,1
+Charles Sturridge Lassie 2005 [SEP] Charles Sturridge Lassie 2005 2006 2007,1
+"Darren Lynn Bousman Saw II 2005 [SEP] ""Darren Bousman Barry Flatman Beverley Mitchell",1
+"""Michael Spierig Peter Spierig"" Daybreakers [SEP] 2009 ""Peter Spierig Michael Spierig""",1
+Craig Singer Dark Ride 2006 [SEP] Ray Gower Dark Corners 2005 2006 2007,0
+Stephen Frears The Queen 2006 [SEP] Stephen Frears The Queen 2005 2006 2007,1
+Steven Spielberg Lincoln 2012 [SEP] Steven Spielberg The Adventures Of Tintin: The IMAX Experience 2010 2011 2012,0
+Anthony Minghella Breaking and Entering 2006 [SEP] Anthony Minghella Breaking and Entering 2006 2007 2008,1
+"""Cory Edwards Todd Edwards"" Hoodwinked! [SEP] 2005 ""Anne Hathaway Anthony Anderson",1
+Ericson Core Invincible 2006 [SEP] Ericson Core Invincible 2005 2006 2007,1
+Alejandro Gonzlez Irritu Babel 2006 [SEP] Alejandro Gonzlez Irritu Babel 2005 2006 2007,1
+"Neil LaBute The Wicker Man 2006 [SEP] ""Matt Cunningham Erik Gardner"" The Mangler Reborn",0
+"""Jimmy Hayward Steve Martino"" Horton Hears a Who! [SEP] 2008 ""Steve Martino Jimmy Hayward""",0
+Paul W.S. Anderson Death Race 2008 [SEP] Simon Fellows Until Death 2006 2007 2008,0
+"Paul W.S. Anderson Death Race 2008 [SEP] ""Robert Rodriguez Quentin Tarantino"" Death Proof",0
+Tony Scott Deja Vu 2006 [SEP] Tony Scott Dj Vu 2005 2006 2007,1
+Antoine Fuqua The Equalizer 2014 [SEP] Antoine Fuqua Southpaw 2014 2015 2016,0
+John R. Leonetti The Butterfly Effect 2 2006 [SEP] Mark Rosman The Perfect Man 2004 2005 2006,0
+Brad Silberling Land of the Lost 2009 [SEP] John Bowker Platoon of the Dead 2008 2009 2010,0
+"James Foley Perfect Stranger 2007 [SEP] ""Bryan Bertino Daminico Lynch"" The Strangers",0
+Tarsem Singh The Fall 2006 [SEP] Darren Aronofsky The Fountain 2005 2006 2007,0
+"""Robert Rodriguez Eli Roth"" Grindhouse [SEP] 2007 ""Robert Rodriguez Eli Roth",1
+"James Oakley The Devil You Know 2013 [SEP] ""Joaquin Perea William Brent Bell"" The Devil Inside",0
+"John Moore The Omen 2006 [SEP] ""Chih-Hung Kwei Chin Hung Kuei"" The Boxer's Omen (Mo)",0
+Gary Fleder The Express 2008 [SEP] Gary Fleder The Express 2007 2008 2009,1
+Rusty Gorman Home of the Giants 2007 [SEP] Steve Miner Day of the Dead 2007 2008 2009,0
+Brett Ratner Tower Heist 2011 [SEP] Adam Traynor Ivory Tower 2009 2010 2011,0
+Raja Gosnell The Smurfs 2011 [SEP] David Gordon Green The Sitter 2010 2011 2012,0
+Neil Jordan The Brave One 2007 [SEP] Eric Steel The Bridge 2005 2006 2007,0
+Neil Jordan The Brave One 2007 [SEP] John Moore The Omen 2005 2006 2007,0
+Robert Luketic 21 2008 [SEP] Robert Luketic The Ugly Truth 2008 2009 2010,0
+Christopher Nolan The Prestige 2006 [SEP] John Fasano Murder at the Presidio 2004 2005 2006,0
+Bryan Bertino The Strangers 2008 [SEP] James Foley Perfect Stranger 2006 2007 2008,0
+Barry Levinson Man of the Year 2006 [SEP] Barry Levinson Man of the Year 2005 2006 2007,1
+Barry Levinson Man of the Year 2006 [SEP] Andy Fickman She's the Man 2005 2006 2007,0
+"""Leila Conners Nadia Conners"" The 11th Hour [SEP] 2007 ""Nadia Conners Leila Conners Petersen""",1
+Robert Kurtzman The Rage 2007 [SEP] Stephen Daldry The Reader 2007 2008 2009,0
+"Jeff Adachi The Slanted Screen 2006 [SEP] ""John Curran John J. Curran"" The Painted Veil",0
+"""Ron Clements John Musker"" The Princess and the Frog [SEP] 2009 Wayne Wang The Princess of Nebraska",0
+Eric Steel The Bridge 2006 [SEP] Alex Pillai The Best Man 2005 2006 2007,0
+"David Wain The Ten 2007 [SEP] ""Peter Manus Peter McManus"" The Hive",0
+Marco Schnabel The Love Guru 2008 [SEP] Fred Durst The Longshots 2007 2008 2009,0
+Brian Percival The Book Thief 2013 [SEP] Seth Gordon Identity Thief 2012 2013 2014,0
+Antoine Fuqua Shooter 2007 [SEP] Antoine Fuqua Shooter 2006 2007 2008,1
+"Patrick Tatopoulos Underworld: Rise of the Lycans 2009 [SEP] ""Milan Konjevic Milan Todorovic"" Zone of the Dead",0
+Duncan Pace The Lost Princess 2005 [SEP] Garry Marshall The Princess Diaries 2 - Royal Engagement 2003 2004 2005,0
+George A. Romero Diary of the Dead 2007 [SEP] George A. Romero Diary of the Dead 2006 2007 2008,1
+Saul Dibb The Duchess 2008 [SEP] Gary Fleder The Express 2007 2008 2009,0
+Kathryn Bigelow The Hurt Locker 2008 [SEP] Peter Cattaneo The Rocker 2007 2008 2009,0
+John Landis The Great Sketch Experiment 2006 [SEP] Denzel Washington The Great Debaters 2006 2007 2008,0
+Gary Winick Letters to Juliet 2010 [SEP] Gary Winick Bride Wars 2008 2009 2010,0
+John Hillcoat The Road 2009 [SEP] Peter Cattaneo The Rocker 2007 2008 2009,0
+James Westby The Auteur 2008 [SEP] James Wan Dead Silence 2006 2007 2008,0
+Jeff Daniel Phillips Convict 2009 [SEP] Tony Goldwyn Conviction 2009 2010 2011,0
+"M. Night Shyamalan The Happening 2008 [SEP] ""Peter Manus Peter McManus"" The Hive",0
+Tim Hill Alvin and the Chipmunks 2007 [SEP] Tim Hill Alvin and the Chipmunks 2006 2007 2008,1
+Sam Mendes Revolutionary Road 2008 [SEP] Terry George Reservation Road 2006 2007 2008,0
+"Jon Turteltaub The Sorcerer's Apprentice 2010 [SEP] ""Jon Turtletaub Jon Turteltaub"" The Sorcerer's Apprentice",1
+David O. Russell The Fighter 2010 [SEP] Javier Barbera The Fighter 2008 2009 2010,0
+Burr Steers 17 Again 2009 [SEP] Andy Fickman You Again 2009 2010 2011,0
+Michael Apted The Chronicles of Narnia: The Voyage of the Dawn Treader 2010 [SEP] Michael Rowe Leap Year 2010 2011 2012,0
+Michel Gondry The Green Hornet 2011 [SEP] Michel Gondry The Green Hornet 2010 2011 2012,1
+"Lori Petty The Poker House 2008 [SEP] ""Nadia Conners Leila Conners Petersen"" The 11th Hour",0
+Caryn Waechter The Sisterhood of Night 2014 [SEP] Jonathan Levine The Night Before 2014 2015 2016,0
+Peter Weir The Way Back 2010 [SEP] Eric D. Anderson (III) Way Of The Puck 2009 2010 2011,0
+Nick Moore Wild Child 2008 [SEP] Menno Meyjes Martian Child 2006 2007 2008,0
+Peter Cattaneo The Rocker 2008 [SEP] Kathryn Bigelow The Hurt Locker 2008 2009 2010,0
+"""Jason Friedberg Aaron Seltzer"" Meet the Spartans [SEP] 2008 ""Aaron Seltzer Jason Friedberg""",0
+Joe Dante The Hole 2009 [SEP] Louie Psihoyos The Cove 2008 2009 2010,0
+"Peter Berg Lone Survivor 2013 [SEP] ""Tom Hammock Thomas S. Hammock"" The Last Survivors (The Well)",0
+Robert Luketic Killers 2010 [SEP] Gregory Mackenzie Camille 2008 2009 2010,0
+Darren Aronofsky The Wrestler 2008 [SEP] Jim Donovan The Watch 2007 2008 2009,0
+"Karyn Kusama Jennifer's Body 2009 [SEP] ""M. David Mullen Karyn Kusama"" Jennifer's Body",1
+Robert Luketic The Ugly Truth 2009 [SEP] Steve Kroschel The Beautiful Truth 2007 2008 2009,0
+Scott S. Anderson The Jerk Theory 2009 [SEP] Marcos Siega Chaos Theory 2007 2008 2009,0
+"Brian Jun The Coverup 2008 [SEP] ""Tim Iacofano Tim Lacofano"" The Cell 2",0
+"John Hamburg ""I Love You  Man"" [SEP] 2009 ""Faith Akin Shunji Iwai",0
+Peter Jackson The Hobbit: The Desolation of Smaug 2013 [SEP] Peter Jackson The Hobbit: An Unexpected Journey 2011 2012 2013,0
+John Wells The Company Men 2010 [SEP] Louie Psihoyos The Cove 2008 2009 2010,0
+Ti West The House of the Devil 2009 [SEP] Greg Augustine Better the Devil You Know 2008 2009 2010,0
+Ti West The House of the Devil 2009 [SEP] Louis Leterrier Clash of the Titans 2009 2010 2011,0
+Ti West The House of the Devil 2009 [SEP] Ti West The House of the Devil 2008 2009 2010,1
+Andrew Jarecki All Good Things 2010 [SEP] Spike Jonze Where the Wild Things Are 2008 2009 2010,0
+Isaac Florentine Ninja 2009 [SEP] James McTeigue Ninja Assassin 2008 2009 2010,0
+Lee Toland Krieger The Vicious Kind 2009 [SEP] Olatunde Osunsanmi The Fourth Kind 2008 2009 2010,0
+Derick Martini Hick 2011 [SEP] Derick Martini Hick 2011 2012 2013,1
+Roger Donaldson Seeking Justice 2011 [SEP] Roger Donaldson Seeking Justice 2011 2012 2013,1
+Michael Moore Capitalism: A Love Story 2009 [SEP] Michael Bay Transformers: Revenge of the Fallen 2008 2009 2010,0
+"""Steven E. Gordon Boyd Kirkland"" Happily N'Ever After 2 [SEP] 2009 ""Boyd Kirkland Steven E. Gordon""",1
+"Tarsem Singh Immortals 2011 [SEP] ""Tarsem Singh Tarsem Singh Dhandwar"" Immortals",1
+Wes Craven Scream 4 2011 [SEP] James Bolton Dream Boy 2009 2010 2011,0
+Shawn Levy Date Night 2010 [SEP] Craig Gillespie Fright Night 2010 2011 2012,0
+Akiva Schaffer The Watch 2012 [SEP] Chel White Jingle All The Way 2010 2011 2012,0
+Akiva Schaffer The Watch 2012 [SEP] Peter Weir The Way Back 2010 2011 2012,0
+Akiva Schaffer The Watch 2012 [SEP] Peter Nicks The Waiting Room 2011 2012 2013,0
+Akiva Schaffer The Watch 2012 [SEP] James Mangold The Wolverine 2012 2013 2014,0
+Shane Black Iron Man 3 2013 [SEP] Shane Black Iron Man 3 2012 2013 2014,1
+Dana Schroeder Lost Soul 2009 [SEP] Sophie Barthes Cold Souls 2008 2009 2010,0
+Daniel Stamm The Last Exorcism 2010 [SEP] Dennis Iliadis The Last House on the Left 2008 2009 2010,0
+Oliver Stone South of the Border 2009 [SEP] George A. Romero Survival of the Dead 2009 2010 2011,0
+Max Winkler Ceremony 2010 [SEP] Max Winkler Ceremony 2010 2011 2012,1
+R.J. Cutler If I Stay 2014 [SEP] Wiebke von Carolsfeld Stay 2013 2014 2015,0
+Joey Stewart The Final 2010 [SEP] David R. Ellis The Final Destination 2008 2009 2010,0
+Brad Peyton Journey 2: The Mysterious Island 2012 [SEP] Kai Cheung Chung Mysterious Island 2010 2011 2012,0
+F. Gary Gray Straight Outta Compton 2015 [SEP] F. Gary Gray Friday 20th Anniversary 2014 2015 2016,0
+"Debra Granik Winter's Bone 2010 [SEP] ""M. David Mullen Karyn Kusama"" Jennifer's Body",0
+Jaume Collet-Serra Unknown 2011 [SEP] Jaume Collet-Serra Unknown 2010 2011 2012,1
+David Twohy Riddick 2013 [SEP] David Twohy Riddick 2012 2013 2014,1
+Ernie Barbarash Assassination Games 2011 [SEP] Ernie Barbarash Assassination Games 2010 2011 2012,1
+Kevin Greutert Saw 3D: The Final Chapter 2010 [SEP] Kevin Greutert Saw 3D 2009 2010 2011,1
+"Robert Rodriguez Spy Kids: All the Time in the World in 4D 2011 [SEP] ""Ethan Maniquis Robert Rodriguez"" Machete",0
+"""Maryam Henein George Langworthy"" Vanishing of the Bees [SEP] 2009 Oliver Stone South of the Border",0
+"Matthew Chapman The Ledge 2011 [SEP] ""Roger Allers Rob Minkoff"" The Lion King",0
+Tod Williams Paranormal Activity 2 2010 [SEP] Oren Peli Paranormal Activity 2008 2009 2010,0
+"""Kurt Jacobsen Warren Leming"" American Road [SEP] 2013 Michael Paul Stephenson The American Scream",0
+Jee-woon Kim The Last Stand 2013 [SEP] Rob Diamond The Last Straw 2013 2014 2015,0
+Paul Thomas Anderson The Master 2012 [SEP] Paul W.S. Anderson The Three Musketeers 2010 2011 2012,0
+"""Dean Hamer Joe Wilson"" Out in the Silence [SEP] 2009 John Schultz Aliens in the Attic",0
+Mark Tonderai House at the End of the Street 2012 [SEP] Lorene Scafaria Seeking a Friend for the End of the World 2011 2012 2013,0
+Daniel Espinosa Safe House 2012 [SEP] Lasse Hallstrom Safe Haven 2012 2013 2014,0
+Michal R. Roskam The Drop 2014 [SEP] Patricia Riggen The 33 2014 2015 2016,0
+Joe Carnahan The Grey 2011 [SEP] Joe Carnahan The A-Team 2009 2010 2011,0
+Woody Allen Midnight in Paris 2011 [SEP] Woody Allen To Rome with Love 2011 2012 2013,0
+Michael Sucsy The Vow 2012 [SEP] Michael Biehn The Victim 2011 2012 2013,0
+Michael Sucsy The Vow 2012 [SEP] Michael Sucsy The Vow 2011 2012 2013,1
+Roko Belic Happy 2011 [SEP] Roko Belic Happy 2010 2011 2012,1
+Breck Eisner The Last Witch Hunter 2015 [SEP] Breck Eisner The Last Witch Hunter 2014 2015 2016,1
+Jimmy Hayward Free Birds 2013 [SEP] Gregg Russell A Free Bird 2013 2014 2015,0
+Doug Liman Edge of Tomorrow 2014 [SEP] Brad Bird Tomorrowland 2014 2015 2016,0
+Will Gluck Friends with Benefits 2011 [SEP] Jennifer Westfeldt Friends With Kids 2011 2012 2013,0
+Rob Williams Role/Play 2010 [SEP] Tod Williams Paranormal Activity 2 2009 2010 2011,0
+David Bowers Diary of a Wimpy Kid: Rodrick Rules 2011 [SEP] David Bowers Diary of a Wimpy Kid: Dog Days 2011 2012 2013,0
+Heather Hale Absolute Killers 2011 [SEP] Robert Luketic Killers 2009 2010 2011,0
+"Ari Sandel The DUFF 2015 [SEP] ""Andrew Mogel Jarrad Paul"" The D Train",0
+Ari Sandel The DUFF 2015 [SEP] John Magary The Mend 2014 2015 2016,0
+Stefan Ruzowitzky Deadfall 2012 [SEP] Curt Hahn Deadline 2011 2012 2013,0
+Doug Ellin Entourage 2015 [SEP] Doug Ellin Entourage 2014 2015 2016,1
+M. Blash The Wait 2013 [SEP] Michal R. Roskam The Drop 2013 2014 2015,0
+Klay Hall Planes 2013 [SEP] Klay Hall Planes 2012 2013 2014,1
+Dereck Joubert The Last Lions 2011 [SEP] Ben Lewin The Sessions 2011 2012 2013,0
+Douglas Aarniokoski The Day 2011 [SEP] Michael Sucsy The Vow 2011 2012 2013,0
+"""Barry Cook Neil Nightingale"" Walking with Dinosaurs 3D [SEP] 2013 ""Neil Nightingale Pierre De Lespinios",1
+"""David Weissman Bill Weber"" We Were Here [SEP] 2011 ""Jorge Michel Grau Jorge Grau""",0
+Wes Ball The Maze Runner 2014 [SEP] Ridley Scott The Martian 2014 2015 2016,0
+Antoine Fuqua Southpaw 2015 [SEP] Antoine Fuqua Southpaw 2014 2015 2016,1
+M. Night Shyamalan After Earth 2013 [SEP] M. Night Shyamalan After Earth 2012 2013 2014,1
+Peter Lepeniotis The Nut Job 2014 [SEP] Peter Lepeniotis The Nut Job 2013 2014 2015,1
+Alex Gibney We Steal Secrets: The Story of WikiLeaks 2013 [SEP] Havana Marking Smash & Grab: The Story of the Pink Panthers 2012 2013 2014,0
+Justin Krumb Minds in the Water 2011 [SEP] Justin Krumb Minds In The Water 2011 2012 2013,1
+David Ayer End of Watch 2012 [SEP] David Ayer End of Watch 2011 2012 2013,1
+C.J. Goodman Paranormal Parody 2011 [SEP] Tod Williams Paranormal Activity 2 2009 2010 2011,0
+Zal Batmanglij The East 2013 [SEP] Michal R. Roskam The Drop 2013 2014 2015,0
+Justin Lin Furious 6 2013 [SEP] Justin Lin Fast & Furious 6 2012 2013 2014,0
+Steven Soderbergh Magic Mike 2012 [SEP] Steven Soderbergh Side Effects 2012 2013 2014,0
+Curtis Graham The Investigator 2013 [SEP] Larry Charles The Dictator 2011 2012 2013,0
+Francis Lawrence The Hunger Games: Mockingjay - Part 1 2014 [SEP] Francis Lawrence The Hunger Games: Catching Fire 2012 2013 2014,0
+Francis Lawrence The Hunger Games: Mockingjay - Part 1 2014 [SEP] Francis Lawrence The Hunger Games: Mockingjay - Part 2 The IMAX Experience 2014 2015 2016,0
+Nate Meyer See Girl Run 2012 [SEP] Nate Meyer See Girl Run 2012 2013 2014,1
+Anton Corbijn A Most Wanted Man 2014 [SEP] Anton Corbijn Life 2014 2015 2016,0
+Michael Bay Pain & Gain 2013 [SEP] Michael Sucsy The Vow 2011 2012 2013,0
+"""Cody Cameron Kris Pearn"" Cloudy with a Chance of Meatballs 2 [SEP] 2013 ""Kris Pearn Cody Cameron""",1
+Nicholas Kalikow Concrete Blondes 2013 [SEP] Nicholas Kalikow Concrete Blondes 2012 2013 2014,1
+Patricia Riggen The 33 2015 [SEP] Ari Sandel The DUFF 2014 2015 2016,0
+Patricia Riggen The 33 2015 [SEP] Robert Zemeckis The Walk 2014 2015 2016,0
+Nae Caranfil Closer to the Moon 2014 [SEP] Raymond De Felitta Rob the Mob 2013 2014 2015,0
+Craig Gillespie The Finest Hours 2015 [SEP] Craig Gillespie The Finest Hours: An IMAX 3D Experience 2015 2016 2017,1
+Craig Gillespie The Finest Hours 2015 [SEP] Jason Zada The Forest 2015 2016 2017,0
+Craig Gillespie The Finest Hours 2015 [SEP] Wes Anderson The Grand Budapest Hotel 2013 2014 2015,0
+Steven Soderbergh Side Effects 2013 [SEP] Steven Soderbergh Side Effects 2012 2013 2014,1
+Gonzalo Lpez-Gallego Open Grave 2013 [SEP] Charles de Lauzirika Crave 2012 2013 2014,0
+Peng Zhang Li The Resistance 2011 [SEP] D. Kerry Prior The Revenant 2011 2012 2013,0
+Matthew Bolton Paranormal Incident 2011 [SEP] Tod Williams Paranormal Activity 2 2009 2010 2011,0
+"Matthew Bolton Paranormal Incident 2011 [SEP] ""Ariel Schulman Henry Joost"" Paranormal Activity 4",0
+Harmony Korine Spring Breakers 2012 [SEP] David Frankel Hope Springs 2011 2012 2013,0
+Todd Strauss-Schulson The Final Girls 2015 [SEP] Tom Hooper The Danish Girl 2014 2015 2016,0
+"Amir Bar-Lev Happy Valley 2014 [SEP] ""Amir Bar-Lev Brian DePalma"" Happy Valley",1
+Rob Marshall Into the Woods 2014 [SEP] David Cronenberg Maps to the Stars 2014 2015 2016,0
+Todd Lincoln Leave Luck to Heaven 2002 [SEP] Veit Helmer Gate to Heaven 2002 2003 2004,0
+James DeMonaco The Purge 2013 [SEP] James DeMonaco The Purge: Anarchy 2013 2014 2015,0
+"John Ward Heart of the Country 2013 [SEP] ""Bobs Gannaway Peggy Holmes Robert Gannaway""",0
+Simon West Wild Card 2015 [SEP] Simon West Wild Card 2014 2015 2016,1
+John Pogue The Quiet Ones 2014 [SEP] Charlie McDowell The One I Love 2013 2014 2015,0
+Michael Tiddes A Haunted House 2013 [SEP] Daniel Espinosa Safe House 2011 2012 2013,0
+Jorge R. Gutirrez The Book of Life 2014 [SEP] Jorge R. Gutierrez The Book of Life 2013 2014 2015,1
+Jeremy Gardner The Battery 2012 [SEP] Jodie Foster The Beaver 2010 2011 2012,0
+Jeremy Gardner The Battery 2012 [SEP] Paul Thomas Anderson The Master 2011 2012 2013,0
+Kees Van Oostrum A Perfect Man 2013 [SEP] Jason Moore Pitch Perfect 2011 2012 2013,0
+Eric England Contracted 2013 [SEP] Eric England Contracted 2012 2013 2014,1
+Lake Bell In a World... 2013 [SEP] Lake Bell In a World... 2012 2013 2014,1
+Jon Garcia The Falls 2012 [SEP] Vivi Friedman The Family Tree 2010 2011 2012,0
+"""Travis Cluff Chris Lofing"" The Gallows [SEP] 2015 Carol Morley The Falling",0
+Tim Garrick Behaving Badly 2014 [SEP] Tim Garrick Behaving Badly 2013 2014 2015,1
+Patrick Creadon If You Build It 2013 [SEP] Patrick Creadon If You Build It 2013 2014 2015,1
+Steven C. Miller Silent Night 2012 [SEP] David R. Ellis Shark Night 3D 2010 2011 2012,0
+Dennis Devine Fat Planet 2013 [SEP] Mikael Hfstrm Escape Plan 2012 2013 2014,0
+"""Jason Friedberg Aaron Seltzer"" The Starving Games [SEP] 2013 Jeremy Snead Video Games: The Movie",0
+Crystal Moselle The Wolfpack 2015 [SEP] Alice Rohrwacher The Wonders 2014 2015 2016,0
+David Burris The World Made Straight 2015 [SEP] Jerry Rothwell How To Change The World 2014 2015 2016,0
+Jeremy Berg The Invoking 2013 [SEP] Ralph Fiennes The Invisible Woman 2012 2013 2014,0
+Craig William Macneill The Boy 2015 [SEP] Robert Zemeckis The Walk 2014 2015 2016,0
+"""Simon Barrett Jason Eisener"" V/H/S/2 [SEP] 2013 ""Adam Wingard David Brckner",0
+Daniel Barber The Keeping Room 2014 [SEP] Daniel Barnz Cake 2014 2015 2016,0
+John McNaughton The Harvest 2013 [SEP] Andrew Niccol The Host 2012 2013 2014,0
+Theo Love Little Hope Was Arson 2013 [SEP] Elgin James Little Birds 2011 2012 2013,0
+Jason Hull Krampus: The Christmas Devil 2013 [SEP] Joany Kane Christmas Belle 2012 2013 2014,0
+Josh Boone The Fault in Our Stars 2014 [SEP] Josh Boone The Fault In Our Stars 2013 2014 2015,1
+Morgan Spurlock You Don't Know Jack 2013 [SEP] William Dickerson Don't Look Back 2013 2014 2015,0
+"Carlos Rincones The Bad Guys 2015 [SEP] ""Craig Macneill Craig William Macneill"" The Boy",0
+Steven Knight Locke 2013 [SEP] Steven Knight Locke 2013 2014 2015,1
+Adam Bhala Lough The Motivation 2013 [SEP] Adam Bhala Lough The Motivation 2012 2013 2014,1
+Charlie McDowell The One I Love 2014 [SEP] Mae Czarina Cruz She's The One 2012 2013 2014,0
+Charlie McDowell The One I Love 2014 [SEP] John Pogue The Quiet Ones 2013 2014 2015,0
+"Billy 'Bloody Bill' Pon Circus of the Dead 2014 [SEP] ""Christopher Smith Angela Bettis Gadi Harel",0
+"""Evan Goldberg Seth Rogen"" The Interview [SEP] 2014 Nancy Meyers The Intern",0
+Asif Kapadia Amy 2015 [SEP] Asif Kapadia Amy 2014 2015 2016,1
+Nancy Criss A Horse for Summer 2015 [SEP] John Rogers (XVIII) A Horse Story 2014 2015 2016,0
+"""Rodney Ascher Julian Barratt"" The ABCs of Death 2 [SEP] 2014 ""Ahron Keshales Various",1
+"""Robert Machoian Rodrigo Ojeda-Beck"" God Bless the Child [SEP] 2015 ""Robert Machoian Rodrigo Ojeda-Beck""",1
+Joe Swanberg Happy Christmas 2014 [SEP] Jason Hull Krampus: The Christmas Devil 2012 2013 2014,0
+Ramone Menon The Black Tape 2014 [SEP] Jake Kasdan Sex Tape 2013 2014 2015,0
+Adam Wingard The Guest 2014 [SEP] Michael Baumgarten The Guest House 2012 2013 2014,0
+John Lyde Christmas for a Dollar 2013 [SEP] Joe Swanberg Happy Christmas 2013 2014 2015,0
+Kevan Otto In the Name of God 2013 [SEP] Benson Lee Battle of the Year 2012 2013 2014,0
+"""Jose Antonio Vargas Ann Raffaela Lupo"" Documented [SEP] 2013 ""Jose Antonio Vargas Ann Raffaela Lupo""",1
+Wen-Han Shih Reaper 2014 [SEP] Wen-Han Shih Reaper 2014 2015 2016,1
+"Sara Colangelo Little Accidents 2014 [SEP] ""James Adolphus Lacey Schwartz"" Little White Lie",0
+Matthew Douglas Grzeszak Beyond the Dark 2014 [SEP] Simon Fellows God the Father 2013 2014 2015,0
+"Matthew Douglas Grzeszak Beyond the Dark 2014 [SEP] ""Tian Yu Zhao Peter Pau Zhao Tianyu""",0
+Justin Suttles The Owl 2014 [SEP] David Yarovesky The Hive 2014 2015 2016,0
+Justin Suttles The Owl 2014 [SEP] M. Night Shyamalan The Visit 2014 2015 2016,0
+David Robert Mitchell It Follows 2014 [SEP] David Robert Mitchell It Follows 2014 2015 2016,1
+Andrew Niccol Good Kill 2014 [SEP] Andrew Niccol Good Kill 2014 2015 2016,1
+Sean Olson The Dog Who Saved Easter 2014 [SEP] Zal Batmanglij The East 2012 2013 2014,0
+Jeff Sun The Shades 2015 [SEP] Guillermo Amoedo The Stranger 2014 2015 2016,0
+Nima Nourizadeh American Ultra 2015 [SEP] Nima Nourizadeh American Ultra 2014 2015 2016,1
+"Mora Stephens Zipper 2015 [SEP] ""Rachel Davis Mora Stephens"" Zipper",1
+Daniel Barnz Cake 2014 [SEP] Daniel Barber The Keeping Room 2014 2015 2016,0
+Miguel ngel Vivas Extinction 2015 [SEP] Louie Psihoyos Racing Extinction 2014 2015 2016,0
+Christopher Leone Parallels 2015 [SEP] Christopher N. Rowley Molly Moon and the Incredible Book of Hypnotism 2014 2015 2016,0
+"""Rebecca Chaiklin Fisher Stevens"" Another World [SEP] 2014 Fisher Stevens Stand Up Guys",0
+Jason Lew The Free World 2016 [SEP] Robert Zemeckis The Walk 2014 2015 2016,0
+"Nikita Zubarev The Current 2014 [SEP] ""Chris Sanders Chris Sanders (III) Kirk De Micco""",0
+Daniel Anghelcev The Second Coming of Christ 2016 [SEP] Jon M. Chu Now You See Me: The Second Act 2015 2016 2017,0
+"James Tucker Within These Walls 2015 [SEP] ""Roger Waters the Wall Roger Waters Sean Evans""",0
+M. Night Shyamalan The Visit 2015 [SEP] M. Night Shyamalan The Visit 2014 2015 2016,1
+Sarah Adina Smith The Midnight Swim 2014 [SEP] Jonathan Levine The Night Before 2014 2015 2016,0
+Kevin Tancharoen The Gable 5 2014 [SEP] Dan Sallitt The Unspeakable Act 2012 2013 2014,0
+Adam Egypt Mortimer Some Kind of Hate 2015 [SEP] Adam Egypt Mortimer Some Kind of Hate 2014 2015 2016,1
+Amy Berg Janis: Little Girl Blue 2015 [SEP] Amy Berg Every Secret Thing 2014 2015 2016,0
+Rob Diamond The Last Straw 2014 [SEP] Guillermo Amoedo The Stranger 2014 2015 2016,0
+Tony McNamara Ashby 2015 [SEP] Sean McNamara Spare Parts 2014 2015 2016,0
+"James Vanderbilt Truth 2015 [SEP] ""Kwang-shik Kim Kim Kwang-sik-I"" Tabloid Truth",0
+Bryan Buckley The Bronze 2015 [SEP] Patricia Riggen The 33 2014 2015 2016,0
+James Gunn Guardians of the Galaxy Vol. 2 2017 [SEP] James Gunn Guardians of the Galaxy 2 2016 2017 2018,1
+Michael Crum Cypress Creek 2014 [SEP] Michael Bay Transformers: Age of Extinction 2013 2014 2015,0
+"""Mark Columbus Lauren Hoekstra"" The Heyday of the Insensitive Bastards [SEP] 2014 Brad Coley Frank The Bastard",0
+"""Darren Lynn Bousman Axelle Carolyn"" Tales of Halloween [SEP] 2015 John Carpenter John Carpenter's Halloween",0
+Michael Bay 13 Hours: The Secret Soldiers of Benghazi 2016 [SEP] Michael Baumgarten The Martial Arts Kid 2014 2015 2016,0
+Paul Greengrass Untitled Matt Damon/Bourne Sequel 2016 [SEP] James Mangold Untitled Wolverine Sequel 2016 2017 2018,0
+Greg Barker The Thread 2015 [SEP] Alfonso Gomez-Rejon The Town That Dreaded Sundown 2013 2014 2015,0
+Xavier Manrique Chronically Metropolitan 2016 [SEP] David McVicar The Metropolitan Opera: Cavalleria Rusticana/pagliacci 2014 2015 2016,0
+Robert Schwartzman MF 2015 [SEP] Robert Schwentke The Divergent Series: Allegiant 2015 2016 2017,0
+"Sean Hanish Sister Cities 2016 [SEP] ""Em Cooper Jason Moore"" Sisters",0
+Su Rynard The Messenger 2015 [SEP] John Magary The Mend 2014 2015 2016,0

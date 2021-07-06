@@ -1,0 +1,895 @@
+pairs,labels
+"""4632 N. Rockwell Street  Chicago"" Rockwell's Neighborhood Grill [SEP] (773) 509-1871 60625 4632 N Rockwell St",1
+"""4632 N. Rockwell Street  Chicago"" Rockwell's Neighborhood Grill [SEP] (773) 509-1871 60625 3658 W Lawrence Ave",0
+"""1932 W. Division Street  Chicago"" The Boundary Tavern and Grille [SEP] (773) 278-1919 60622 1751 W Chicago Ave",0
+500 Main Street Brothers K Coffeehouse (847) 328-7940 [SEP] 60202 218 S. Main Street 1855 Saloon and Grill,0
+"""2207 N. Clybourn Avenue  Chicago"" Pequod's Pizza [SEP] (773) 327-1512 60614 2207 N Clybourn Ave",1
+"""1419 N. Wells Street  Chicago"" Old Town Pour House [SEP] (312) 477-2800 60610 455 W North Ave",0
+"""1549 W. Division Street  Chicago"" Podhalanka [SEP] (773) 486-6655 60642 1549 W Division St",1
+"""160 W. Adams Street  Chicago"" Ara On [SEP] (312) 781-7300 60603 160 W Adams St",1
+"""2201 N. Clybourn Avenue  Chicago"" The Drinkingbird [SEP] (773) 472-9920 60614 2201 N Clybourn Ave",1
+"""2408 N. Lincoln Avenue  Chicago"" Allende Restaurant [SEP] (773) 477-7114 60614 2506 N Clybourn Ave",0
+"""1321 W. Grand Avenue  Chicago"" Coalfire [SEP] (312) 226-2625 60642 1321 W Grand Ave",1
+"""676 N. St. Clair Street  Chicago"" Tru [SEP] (312) 202-0001 60611 676 N St. Clair St",1
+"""1751 W. Chicago Avenue  Chicago"" Yuzu Sushi and Robata Grill [SEP] (312) 666-4100 60622 1413 N Ashland Ave",0
+695 N. Milwaukee Avenue Cy's King Crab Oyster Bar & Grill (312) 280-8990 [SEP] 60642 401 N. Milwaukee Ave Black Iron Tavern,0
+"501 N Milwaukee Avenue ""Tsukasa Japanese Steak  Seafood [SEP]  & Sushi"" (847) 816-8770 60061",0
+"501 N Milwaukee Avenue ""Tsukasa Japanese Steak  Seafood [SEP]  & Sushi"" (847) 816-8770 60061",0
+"501 N Milwaukee Avenue ""Tsukasa Japanese Steak  Seafood [SEP]  & Sushi"" (847) 816-8770 60061",0
+"""837 W. Fulton Market  Chicago"" The Publican [SEP] (312) 733-9555 60607 837 W Fulton Market",1
+"""1863 N. Clybourn Avenue  Chicago"" Franks 'N' Dawgs [SEP] (312) 281-5187 60614 1863 N Clybourn Ave",1
+"""4749 N. Western Avenue  Chicago"" Garcia's Restaurant [SEP] (773) 769-5600 60625 4959 N Kedzie Ave",0
+"""2546 N. Clark Street  Chicago"" Toro Sushi [SEP] (773) 348-4877 60614 2546 N Clark St",1
+"""32 N. Clark Street  Chicago"" Bridge House Tavern On The River [SEP] (312) 644-0283 60654 353 W Hubbard St",0
+"""535 N. Michigan Avenue  Chicago"" Bandera [SEP] (312) 644-3524 60611 535 N Michigan Ave",1
+"""2900 W. Belmont Avenue  Chicago"" Kuma's Corner [SEP] (773) 604-8769 60618 2900 W Belmont Ave",1
+"""809 W. Randolph Street  Chicago"" Girl & the Goat [SEP] (312) 492-6262 60607 820 W Randolph St",0
+"""1529 W. Chicago Avenue  Chicago"" Mexique [SEP] (312) 850-0288 60622 1529 W Chicago Ave",1
+"""1664 N. Ada Street  Chicago"" Ada Street [SEP] (773) 697-7069 60642 1523 N Kingsbury St",0
+"""2956 N. Sheffield Avenue  Chicago"" Fish Bar [SEP] (773) 687-8177 60657 2956 N Sheffield Ave",1
+6311 N. Milwaukee Avenue Trattoria Pasta D'Arte (773) 763-1181 [SEP] 60646 401 N. Milwaukee Ave Black Iron Tavern,0
+"""1523 N. Kingsbury Street  Chicago"" Kingsbury Street Cafe [SEP] (312) 280-1718 60642 1664 N Ada St",0
+1010 Church Street That Little Mexican Cafe (847) 905-1550 [SEP] 60201 200 Church St Tribecas Kitchen,0
+"""1381 W. Hubbard Street  Chicago"" The Breakfast Club & Grill [SEP] (312) 666-2372 60622 1608 W North Ave",0
+"""1240 W. Randolph Street  Chicago"" Alhambra Palace [SEP] (312) 666-9555 60607 1408 W Madison St",0
+"""2607 W. 17th Street  Chicago"" Lagunitas Tap Room [SEP] (773) 522-1347 60608 1725 W 18th St",0
+"""4600 N. Lincoln Avenue  Chicago"" Fork Chicago [SEP] (773) 751-1500 60625 4600 N Lincoln Ave",1
+"""310 W. Adams Street  Chicago"" Rti Mediterranean Grill [SEP] (312) 236-3500 60606 309 W Washington St",0
+1030 N. State Street Dublin's Bar & Grill (312) 266-6340 [SEP] 60610 100 W Ontario St Portillos Hot Dogs & Barnellis Salad Bowl,0
+609 Milwaukee Avenue Cafe Lucci (847) 729-2268 [SEP] 60025 401 N. Milwaukee Ave Black Iron Tavern,0
+"""1024 N. Rush Street  Chicago"" Hugo's Frog Bar & Fish House [SEP] (312) 640-0999 60611 21 E Hubbard St",0
+"""66 E. Ohio Street  Chicago"" Shake Shack [SEP] (312) 667-1701 60611 66 E Ohio St",1
+"""5321 E Mockingbird Lane  Dallas"" Trinity Hall [SEP] (214) 887-3600 75206 5321 E Mockingbird LaneSte 230",0
+"""2101 Greenville Avenue  Dallas"" The Libertine Bar [SEP] (214) 824-7900 75206 3601 Greenville Ave",0
+"""2000 McKinney Avenue  Suite 100  Dallas"" [SEP] Perry's Steakhouse & Grille (214) 855-5151 75201",0
+"""3699 McKinney Avenue  Dallas"" Taco Diner [SEP] (214) 521-3669 75204 3699 McKinney Ave",1
+"""10233 E Northwest Highway  Dallas"" Tony's Pizza & Pasta [SEP] (214) 503-0388 75238 10233 E NW HwySte 504",1
+"""5315 Greenville Avenue  Dallas"" Cowboy Chicken [SEP] (214) 234-0505 75206 2815 Greenville Ave",0
+"""2615 S Beckley Avenue  Dallas"" Wingfield's Breakfast & Burger [SEP] (214) 943-5214 75224 2615 S Beckley Ave",1
+"""2936 Elm Street  Dallas"" Local [SEP] (214) 752-7500 75226 2936 Elm St",1
+"""ILLUME  4123 Cedar Springs Road  Suite 110 [SEP]  Dallas"" Dish (214) 522-3474",1
+"""3810 Congress Avenue  Dallas"" Bellini's Italian Cafe and Bar [SEP] (214) 528-2844 75219 4810 Maple Ave",0
+"""2708 Routh Street  Dallas"" The Social House [SEP] (214) 999-0046 75201 2708 Routh St",1
+"""2708 Routh Street  Dallas"" The Social House [SEP] (214) 999-0046 75201 3127 Routh St",0
+"""3520 Greenville Avenue  Dallas"" Sundown at Granada [SEP] (214) 823-8305 75206 2020 Greenville Ave",0
+9007 Garland Road Hypnotic Donuts (214) 668-6999 [SEP] 75218 9007 Garland Rd Hypnotic Donuts,1
+"""2935 Elm Street  Dallas"" Mama Mia Pizza & Pasta [SEP] (214) 744-6262 75226 841 Exposition Ave",0
+"""8300 Preston Road  Suite A  Dallas"" [SEP] Hillstone (214) 691-8991 75225",1
+"""3601 Greenville Avenue  Dallas"" Aw Shucks Oyster Bar [SEP] (214) 821-9449 75206 2101 Greenville Ave",0
+"""4302 Bryan Street  Dallas"" Vietnam Restaurant Bar & Grill [SEP] (214) 821-4542 75204 2414 N Fitzhugh Ave",0
+"""2304 Victory Park Lane  Dallas"" Medina Oven & Bar [SEP] (214) 979-0003 75219 665 High Market St",0
+"""2537 N Fitzhugh Avenue  Dallas"" DaLat Restaurant and Bar [SEP] (214) 827-3200 75206 2121 Greenville Ave",0
+1621 Oak Lawn Avenue Ascension Coffee (214) 741-3211 [SEP] 75207 3531 Oak Lawn Ave Luckys Cafe,0
+1621 Oak Lawn Avenue Ascension Coffee (214) 741-3211 [SEP] 75207 3403 Oak Lawn Ave eatZis Market & Bakery,0
+"""24 Highland Park Village  Dallas"" Cafe Pacific [SEP] (214) 526-1170 75205 87 Highland Park VillageSte 200",0
+7530 E Grand Avenue The Lot (214) 321-1990 [SEP] 75214 55 E Grand Ave Doc Bs,0
+"""6130 Greenville Avenue  Suite 100  Dallas"" [SEP] Japanese Cafe Tampopo (214) 378-7676 75206",0
+"""3223 Lemmon Avenue  Dallas"" Howard Wang's Uptown [SEP] (214) 954-9558 75204 2702 McKinney AveSte 101",0
+"""8315 Westchester Dr  Dallas"" LYFE Kitchen [SEP] (214) 361-5933 75225 8315 Westchester Dr",1
+"""3011 Gulden Lane  Suite 107  Dallas"" [SEP] Amberjax (469) 513-9088 75212",1
+"""6126 Luther Lane  Dallas"" Flying Fish [SEP] (214) 696-3474 75225 6126 Luther Ln",1
+"""5818 Live Oak Street  Dallas"" Lakewood Landing [SEP] (214) 823-2410 75214 1904 Abrams Pkwy",0
+"""8989 Forest Lane  Suite130  Dallas"" [SEP] Momo Italian Kitchen (972) 234-6800 75243",1
+"""10720 Preston Road  Suite 1012  Dallas"" [SEP] Fish City Grill (214) 891-9979 75230",0
+"""665 High Market Street  Dallas"" Naga Thai Kitchen and Bar [SEP] (214) 953-0023 75219 3520 Oak Lawn Ave",0
+2323 N Henderson Avenue Sushi Axiom (214) 828-2288 [SEP] 75206 2822 N Henderson Ave Mesero - Henderson,0
+"""10720 Preston Road  Dallas"" Neighborhood Services Bar and Grill [SEP] (214) 368-1101 75230 10720 Preston Rd",1
+"""302 N Market Street  Dallas"" Sonny Bryan's Smokehouse [SEP] (214) 744-1610 75202 555 S Lamar St",0
+6918 Greenville Avenue The Great Outdoors (214) 739-1928 [SEP] 75231 1733 Greenville Ave Johns Cafe,0
+6918 Greenville Avenue The Great Outdoors (214) 739-1928 [SEP] 75231 7525 Greenville Ave Kaze,0
+6918 Greenville Avenue The Great Outdoors (214) 739-1928 [SEP] 75231 3020 Greenville Ave St Martins Wine Bistro,0
+"""2820 N Henderson Avenue  Dallas"" Fireside Pies [SEP] (214) 370-3916 75206 2820 N Henderson Ave",1
+"""8411 Preston Road  Suite 124"" California Pizza Kitchen [SEP] (214) 750-7067 75225 8300 Preston Ctr Plz",0
+"""8383 Preston Center Plaza  Suite 100"" True Food Kitchen [SEP] (214) 377-3333 75225 8687 N Central Expressway",0
+"""3012 N Henderson Avenue  Dallas"" Velvet Taco [SEP] (214) 823-8358 75206 2912 N Henderson Ave",0
+"""3020 Greenville Avenue  Dallas"" St. Martin's Wine Bistro [SEP] (214) 826-0940 75206 1904 Skillman St",0
+1201 Oak Lawn Avenue El Bolero (214) 741-1986 [SEP] 75207 2604 Oak Lawn Ave Zaguan Bakery & Cafe,0
+1201 Oak Lawn Avenue El Bolero (214) 741-1986 [SEP] 75207 1621 Oak Lawn Ave Ascension Coffee,0
+"""6050 Greenville Avenue  Dallas"" Humperdinks Restaurant & Brewpub [SEP] (214) 368-6597 75206 7050 Greenville Ave",0
+"""2231 W NW Highway  Dallas"" Pappas Bar-B-Q [SEP] (214) 956-9038 75220 10477 Lombardy Ln",0
+"""3317 Inwood Road  Dallas"" Big Al's Smokehouse BBQ [SEP] (214) 350-2649 75235 2202 Inwood Rd",0
+"""3001 Knox Street  Suite 108  Dallas [SEP]  TX"" The Burger Joint (469) 941-4471",0
+2114 Greenville Avenue Mudsmith (214) 821-7300 [SEP] 75206 2815 Greenville Ave Terillis Restaurant and Bar,0
+2114 Greenville Avenue Mudsmith (214) 821-7300 [SEP] 75206 1731 Greenville Ave Thai Thai Restaurant,0
+2114 Greenville Avenue Mudsmith (214) 821-7300 [SEP] 75206 4818 Greenville Ave Desperados Mexican Restaurant,0
+2114 Greenville Avenue Mudsmith (214) 821-7300 [SEP] 75206 2221 Greenville Ave Sevan G & G Cafe,0
+2401 N Henderson Avenue Capitol Pub (214) 887-9330 [SEP] 75206 3012 N Henderson Ave Velvet Taco,0
+"""4900 McKinney Avenue  Dallas"" Henry's Majestic [SEP] (469) 893-9400 75205 2900 McKinney Ave",0
+"""6710 Snider Plaza  Dallas"" Barry's Food From Galilee [SEP] (214) 750-0330 75205 6710 Snider Plz",1
+"""1928 Greenville Avenue  Dallas"" Nora Restaurant and Bar [SEP] (214) 828-0095 75206 1928 Greenville Ave",1
+"""2621 McKinney Avenue  Dallas"" Blackfriar Pub [SEP] (214) 953-0599 75204 2621 McKinney Ave",1
+"""4001 Lemmon Avenue  Dallas"" Great American Hero [SEP] (214) 521-2070 75219 3848 Oaklawn AveSte 210",0
+"""5030 Greenville Avenue  Dallas"" Raising Cane's [SEP] (214) 360-6080 75206 5030 Greenville Ave",1
+"""9310 Forest Lane  Dallas"" The Varsity Grill [SEP] (214) 342-3000 75243 8131 Forest Ln",0
+"""2614 Boll Street  Dallas"" Bowen House [SEP] (214) 484-1385 75204 2900 Lemmon AveSte 200",0
+"""1115 N Beckley Avenue  Dallas"" VH Casual Dining and Bar [SEP] (214) 946-1308 75203 1101 N Beckley Ave",0
+"""4152 Travis Street  Dallas"" Brother's Pizza [SEP] (214) 219-5200 75204 2519 N Fitzhugh Ave",0
+"""1802 Greenville Avenue  Suite 110  Dallas"" [SEP] Dallas Beer Kitchen (214) 484-2481 75206",0
+"""2822 N Henderson Avenue  Dallas"" Mesero [SEP] (214) 821-6426 75206 2822 N Henderson Ave",1
+"""2916 McKinney Avenue  Dallas"" Shell Shack [SEP] (877) 434-1411 75204 2916 Mckinney Ave",1
+"""4530 Lovers Lane  Dallas"" Chip's Old Fashioned Hamburgers [SEP] (214) 691-2447 75225 6030 Luther LnSte 100",0
+107 N Robertson Blvd Il Buco (310) 657-1345 [SEP] 90211 310 S Robertson Blvd Pizzeria Il Fico,0
+"""205 Ord St  Los Angeles"" ABC Seafood [SEP] (213) 680-2887 90012 936 N Hill St",0
+10968 Ventura Blvd Vivian's Millenium Cafe (818) 762-8710 [SEP] 91604 11616 Ventura Blvd Cocina Condesa,0
+116 E Beverly Blvd Antigua Bar & Grill (323) 516-6223 [SEP] 90640 4430 Beverly Blvd Noshi Sushi,0
+6340 Hollywood Blvd Juicy Burger (323) 465-8429 [SEP] 90028 6124 Hollywood Blvd Blue Palms Brewhouse,0
+9679 Wilshire Blvd. Urban Fresh (310) 275-4440 [SEP] 90212 1055 Wilshire Blvd Kachi Deli Cafe & Grill,0
+"""435 N Fairfax Ave  Los Angeles"" Animal [SEP] (323) 782-9225 90036 435 N Fairfax Ave",1
+404 Washington Blvd Islands (310) 822-3939 [SEP] 90292 4566 W Washington Blvd Ondal 2,0
+2-10 Washington Blvd Venice Whaler Bar and Grill (310) 821-8737 [SEP] 90292 12517 W Washington Blvd Hatchet Hall,0
+7984 Santa Monica Blvd Laurel Hardware (323) 656-6070 [SEP] 90046 6775 Santa Monica Blvd Bombay Grill,0
+"""1267 W Temple Street  Los Angeles"" The Park's Finest [SEP] (213) 481-2800 90026 1400 Sunset Blvd",0
+6801 Hollywood Blvd Izakaya By Mr Koji (323) 465-6339 [SEP] 90028 4518 Hollywood Blvd The Backyard at 4518,0
+8226 Sunset Blvd Den on Sunset (323) 656-0336 [SEP] 90046 7617 W Sunset Blvd The Pikey,0
+8226 Sunset Blvd Den on Sunset (323) 656-0336 [SEP] 90046 3200 W Sunset Blvd Samosa House Silverlake,0
+8226 Sunset Blvd Den on Sunset (323) 656-0336 [SEP] 90046 5065 Sunset Blvd Zankou Chicken - Hollywood,0
+"""3119 Los Feliz Blvd.  Los Angeles"" The Village Bakery and Cafe [SEP] (323) 662-8600 90039 3216 Glendale Blvd",0
+3100 Washington Blvd 26 Beach Restaurant (310) 823-7526 [SEP] 90292 800 W Washington Blvd ms,0
+3847 Main St BottleRock (310) 836-9463 [SEP] 90232 15 Main St Atrium DUMBO,0
+8714 Santa Monica Blvd Fresh Corn Grill (310) 855-9592 [SEP] 90069 4905 Santa Monica Blvd. Marouch Restaurant,0
+8868 W Sunset Blvd Amarone Kitchen + Wine (310) 652-2233 [SEP] 90069 2141 W Sunset Blvd Mohawk Bend,0
+2122 1/2 Colorado Blvd Four Cafe (323) 550-1988 [SEP] 90041 1496 Colorado Blvd Little Beast Restaurant,0
+6051 Hollywood Blvd Al Wazir Chicken (323) 856-0660 [SEP] 90028 6660 W Sunset BlvdSte C Ro Ros Chicken,0
+8730 W Sunset Blvd Church Key (424) 249-3700 [SEP] 90069 1910 W Sunset BlvdSte 150 Reggies Deli & Cafe,0
+8730 W Sunset Blvd Church Key (424) 249-3700 [SEP] 90069 1400 Sunset Blvd The Park,0
+8730 W Sunset Blvd Church Key (424) 249-3700 [SEP] 90069 1700 Sunset Blvd Sage Organic Vegan Bistro,0
+730 N La Cienega Blvd Koi (310) 659-9449 [SEP] 90069 408 N LA Cienega Blvd The Addiction Bistro,0
+8950 W Olympic Blvd La Provence Patisserie (310) 888-8833 [SEP] 90211 2561 W Olympic Blvd Yangmani,0
+9785 Santa Monica Blvd La Dolce Vita (310) 278-1845 [SEP] 90210 5101 Santa Monica BlvdSte 2 Falafel-Arax,0
+"""6101 Melrose Ave  Los Angeles"" Xiomara on Melrose [SEP] (323) 461-0601 90038 6101 Melrose Ave",1
+1106 N La Cienega Blvd Wa Sushi & Bistro (310) 854-7285 [SEP] 90069 408 N LA Cienega Blvd The Addiction Bistro,0
+8828 Sunset Blvd Pi on Sunset (310) 657-1774 [SEP] 90069 7300 Sunset Blvd The Carving Board,0
+8828 Sunset Blvd Pi on Sunset (310) 657-1774 [SEP] 90069 7361 W Sunset Blvd Chibiscus Asian Cafe,0
+8828 Sunset Blvd Pi on Sunset (310) 657-1774 [SEP] 90069 4319 W Sunset Blvd My Vegan Gold,0
+8171 Santa Monica Blvd Connie & Ted's (323) 848-2722 [SEP] 90046 6775 Santa Monica Blvd Bombay Grill,0
+13353 Ventura Blvd Maria's Italian Kitchen (818) 906-0783 [SEP] 91423 11616 Ventura Blvd Cocina Condesa,0
+8474 Melrose Ave Lucques (323) 655-6277 [SEP] 90069 6919 Melrose Ave Franco On Melrose,0
+8474 Melrose Ave Lucques (323) 655-6277 [SEP] 90069 7465 Melrose Ave Mar,0
+8474 Melrose Ave Lucques (323) 655-6277 [SEP] 90069 5732 Melrose Ave Osteria Mamma,0
+7954 Santa Monica Blvd Los Tacos (323) 848-9141 [SEP] 90046 5450 Santa Monica Blvd Tlayuda L.A. Mexican Restaurant,0
+7853 Santa Monica Blvd Kung Pao Bistro (323) 848-9888 [SEP] 90046 10250 Santa Monica Blvd Gulfstream,0
+"""10571 Pico Blvd  Los Angeles"" Food [SEP] (310) 441-7770 90064 10571 Pico Blvd",1
+9198 W Olympic Blvd Cafe Talesai (310) 271-9345 [SEP] 90212 11301 W Olympic Blvd Butchers Dog,0
+8684 Melrose Ave Zinque (424) 284-3930 [SEP] 90069 7160 Melrose Ave Murakami Sushi,0
+685 N Robertson Blvd Bossa Nova Brazilian Cuisine (310) 657-5070 [SEP] 90069 310 S Robertson Blvd Pizzeria Il Fico,0
+"""5773 Wilshire Blvd  Los Angeles"" Callender's Grill [SEP] (323) 937-7952 90036 519 N Fairfax Ave",0
+9500 Wilshire Blvd Blvd. (310) 385-3901 [SEP] 90212 5779 Wilshire Blvd The Counter,0
+"""5833 Franklin Ave  Los Angeles"" Pimai It's Thai [SEP] (323) 461-7841 90028 5908 Sunset Blvd",0
+8457 Santa Monica Blvd Niko Niko Sushi (323) 654-6200 [SEP] 90069 5450 Santa Monica Blvd Tlayuda L.A. Mexican Restaurant,0
+9200 W Sunset Blvd Soho House (310) 432-9200 [SEP] 90069 3322 W Sunset Blvd Night + Market Song,0
+9200 W Sunset Blvd Soho House (310) 432-9200 [SEP] 90069 2903 W Sunset Blvd Aroma Restaurant,0
+9200 W Sunset Blvd Soho House (310) 432-9200 [SEP] 90069 5908 Sunset Blvd Hoy-Ka Thai Noodles,0
+8151 Santa Monica Blvd Traktir (323) 654-3030 [SEP] 90046 6547 Santa Monica Blvd Eat This Cafe,0
+8151 Santa Monica Blvd Traktir (323) 654-3030 [SEP] 90046 5101 Santa Monica Blvd Spicy BBQ Restaurant,0
+6255 W Sunset Blvd The Waffle (323) 465-6901 [SEP] 90028 7181 W Sunset Blvd Bossa Nova on Sunset,0
+6255 W Sunset Blvd The Waffle (323) 465-6901 [SEP] 90028 2852 W Sunset Blvd Ohana Pok Co,0
+6255 W Sunset Blvd The Waffle (323) 465-6901 [SEP] 90028 1261 W Sunset Blvd Guisados,0
+"""317 S Broadway Spc C45  Los Angeles"" Sticky Rice [SEP] (626) 872-0353 90013 317 S BroadwaySte C-4-5",1
+5946 W Sunset Blvd Mission Cantina (323) 469-3130 [SEP] 90028 7300 Sunset Blvd The Carving Board,0
+6541 Hollywood Blvd #102 Five0Four Hollywood (323) 960-0224 [SEP] 90028 4624 Hollywood Blvd HomeState,0
+6541 Hollywood Blvd #102 Five0Four Hollywood (323) 960-0224 [SEP] 90028 5183 Hollywood Blvd Sapp Coffee Shop,0
+8948 Santa Monica Blvd Pump Restaurant (310) 657-7867 [SEP] 90069 4959 Santa Monica Blvd DeSano Pizza Bakery,0
+"""700 N Spring St  Los Angeles"" CBS Seafood Restaurant [SEP] (213) 617-2323 90012 424 W College St",0
+"""345 N La Brea Ave  Los Angeles"" East India Grill [SEP] (323) 936-8844 90036 519 N Fairfax Ave",0
+7302 Melrose Ave The Darkroom (323) 931-3800 [SEP] 90048 5125 Melrose Ave La Fonda Antioquena,0
+"""3272 Motor Ave  Los Angeles"" C & M Cafe [SEP] (310) 694-1516 90034 3272 Motor Ave",1
+8684 Melrose Ave Nishimura (310) 659-4770 [SEP] 90069 5028 Melrose Ave Guadalupes Place,0
+"""4566 W Washington Blvd  Los Angeles"" Ondal 2 [SEP] (323) 933-3228 90016 4566 W Washington Blvd",1
+9683 Wilshire Blvd Capriotti's Sandwich Shop (310) 858-1383 [SEP] 90212 1001 Wilshire Blvd Organic Corner Cafe,0
+517 Washington Blvd Mosto Enoteca (310) 821-3035 [SEP] 90292 2024 W Washington Blvd Blu Elefant Cafe,0
+8439 W Sunset Blvd Katana (323) 650-8585 [SEP] 90069 3823 W Sunset Blvd Forage,0
+8439 W Sunset Blvd Katana (323) 650-8585 [SEP] 90069 2903 W Sunset Blvd Aroma Restaurant,0
+8730 Santa Monica Blvd Ari-ya (310) 854-6212 [SEP] 90069 6775 Santa Monica Blvd Bombay Grill,0
+8401 Santa Monica Blvd Hugo's (323) 654-3993 [SEP] 90069 4156 Santa Monica Blvd Bowery Bungalow,0
+20401 Ventura Blvd Todai (818) 883-8082 [SEP] 91364 11616 Ventura Blvd Cocina Condesa,0
+"""8351 W Sunset Blvd  Los Angeles"" Carney's [SEP] (323) 654-8300 90069 8351 W Sunset Blvd",1
+8961 W Sunset Blvd Sunset Deli (310) 275-8010 [SEP] 90069 2141 W Sunset Blvd Mohawk Bend,0
+8961 W Sunset Blvd Sunset Deli (310) 275-8010 [SEP] 90069 2135 W Sunset Blvd Elf Caf,0
+8961 W Sunset Blvd Sunset Deli (310) 275-8010 [SEP] 90069 5065 Sunset Blvd Zankou Chicken - Hollywood,0
+"""4500 Los Feliz Blvd  Los Angeles"" MessHall [SEP] (323) 660-6377 90027 3000 Los Feliz Blvd",0
+8905 Melrose Ave Gracias Madre (323) 978-2170 [SEP] 90069 7229 Melrose Ave Lalas Argentine Grill,0
+8905 Melrose Ave Gracias Madre (323) 978-2170 [SEP] 90069 7275 Melrose Ave Shefa,0
+8454 Melrose Ave Taste on Melrose (323) 852-6888 [SEP] 90069 5028 Melrose Ave Guadalupes Place,0
+8221 W Sunset Blvd Chateau Marmont Restaurant (323) 656-1010 [SEP] 90046 2135 W Sunset Blvd Elf Caf,0
+8221 W Sunset Blvd Chateau Marmont Restaurant (323) 656-1010 [SEP] 90046 2619 W Sunset Blvd La Caridad Restaurant,0
+9635 S Santa Monica Blvd Sprinkles Cupcakes (310) 274-8765 [SEP] 90210 4156 Santa Monica Blvd Bowery Bungalow,0
+8447 Santa Monica Blvd Barney's Beanery (323) 654-2287 [SEP] 90069 4905 Santa Monica Blvd. Marouch Restaurant,0
+8440 W Sunset Blvd Asia de Cuba (323) 848-6000 [SEP] 90069 2943 W Sunset Blvd Local,0
+8440 W Sunset Blvd Asia de Cuba (323) 848-6000 [SEP] 90069 3200 W Sunset Blvd Samosa House Silverlake,0
+8535 Sunset Blvd Roppongi Asian Tapas Bar and Sushi (310) 289-0030 [SEP] 90069 1800 W Sunset Blvd Masa of Echo Park,0
+8535 Sunset Blvd Roppongi Asian Tapas Bar and Sushi (310) 289-0030 [SEP] 90069 2943 W Sunset Blvd Local,0
+"""8370 W 3rd St  Los Angeles"" Son of a Gun Restaurant [SEP] (323) 782-9033 90048 8370 W 3rd St",1
+"""5484 Wilshire Blvd  Los Angeles"" Yuko Kitchen [SEP] (323) 933-4020 90036 109 N Fairfax Ave",0
+6613 Hollywood Blvd Lucky's Tavern (323) 465-8259 [SEP] 90028 5633 Hollywood Blvd I Panini Di Ambra,0
+"""5732 Melrose Ave  Los Angeles"" Osteria Mamma [SEP] (323) 284-7060 90038 5732 Melrose Ave",1
+8200 W Sunset Blvd Pinches Tacos (323) 650-0614 [SEP] 90046 3322 W Sunset Blvd Night + Market Song,0
+8200 W Sunset Blvd Pinches Tacos (323) 650-0614 [SEP] 90046 1400 Sunset Blvd The Park,0
+8200 W Sunset Blvd Pinches Tacos (323) 650-0614 [SEP] 90046 1700 Sunset Blvd Sage Organic Vegan Bistro,0
+7253 Santa Monica Blvd FoodLab (323) 851-7120 [SEP] 90046 6547 Santa Monica Blvd Eat This Cafe,0
+9405 S Santa Monica Blvd Harajuku Crepe (310) 285-3946 [SEP] 90210 5706 Santa Monica Blvd Baroo,0
+8945 Santa Monica Blvd Saint Felix (310) 275-4428 [SEP] 90069 5101 Santa Monica Blvd Spicy BBQ Restaurant,0
+8945 Santa Monica Blvd Saint Felix (310) 275-4428 [SEP] 90069 6775 Santa Monica Blvd Bombay Grill,0
+9023 Washington Blvd Dal Rae (562) 949-2444 [SEP] 90660 800 W Washington Blvd ms,0
+9041 Sunset Blvd Night + Market (310) 275-9724 [SEP] 90069 6464 W Sunset Blvd Ciabatta Bar,0
+9041 Sunset Blvd Night + Market (310) 275-9724 [SEP] 90069 7361 W Sunset Blvd Chibiscus Asian Cafe,0
+"""2056 Hillhurst Ave  Los Angeles"" Yuca's [SEP] (323) 662-1214 90027 2056 Hillhurst Ave",1
+8618 W Sunset Blvd Chin Chin (310) 652-1818 [SEP] 90069 2939 W Sunset Blvd Takumas Burgers,0
+8618 W Sunset Blvd Chin Chin (310) 652-1818 [SEP] 90069 2852 Sunset Blvd Sopressata At Black Hogg,0
+8430 Sunset Blvd Crossroads at The House of Blues (323) 848-5100 [SEP] 90069 6372 W Sunset Blvd Stella Barra Pizzeria,0
+8430 Sunset Blvd Crossroads at The House of Blues (323) 848-5100 [SEP] 90069 7554 W Sunset Blvd Vintage Enoteca,0
+8430 Sunset Blvd Crossroads at The House of Blues (323) 848-5100 [SEP] 90069 3508 W Sunset Blvd El Cochinito Restaurant,0
+7100 Santa Monica Blvd Hot N Juicy Crawfish (323) 969-8902 [SEP] 90046 10250 Santa Monica Blvd Gulfstream,0
+7100 Santa Monica Blvd Hot N Juicy Crawfish (323) 969-8902 [SEP] 90046 11521 Santa Monica Blvd Churros Calientes,0
+7100 Santa Monica Blvd Hot N Juicy Crawfish (323) 969-8902 [SEP] 90046 5706 Santa Monica Blvd Baroo,0
+9383 Wilshire Blvd Shanghai Grill (310) 275-4845 [SEP] 90210 3438 Wilshire Blvd Wiki Poki,0
+1612 N Cahuenga Blvd Velvet Margarita Cantina (323) 469-2000 [SEP] 90028 1602 N Cahuenga Blvd Saint Felix,0
+8690 Wilshire Blvd Bombay Palace (310) 659-9944 [SEP] 90211 3012 Wilshire Blvd Golden Mongolian Restaurant,0
+7916 W Sunset Blvd The Griddle Cafe (323) 874-0377 [SEP] 90046 2927 W Sunset Blvd Silverlake Ramen,0
+7916 W Sunset Blvd The Griddle Cafe (323) 874-0377 [SEP] 90046 7300 Sunset Blvd The Carving Board,0
+7916 W Sunset Blvd The Griddle Cafe (323) 874-0377 [SEP] 90046 4321 Sunset Blvd Jays Bar,0
+7916 W Sunset Blvd The Griddle Cafe (323) 874-0377 [SEP] 90046 5940 Sunset Blvd Twins Sliders,0
+9749 Santa Monica Blvd Da Pasquale (310) 859-3884 [SEP] 90210 5706 Santa Monica Blvd Baroo,0
+9641 Sunset Blvd Polo Lounge (310) 887-2777 [SEP] 90210 2927 W Sunset Blvd Silverlake Ramen,0
+9025 Wilshire Blvd La Gondola Kosher Restaurant and Catering (310) 247-1239 [SEP] 90211 3675 Wilshire BlvdSte C Roll Roll Roll,0
+9025 Wilshire Blvd La Gondola Kosher Restaurant and Catering (310) 247-1239 [SEP] 90211 6325 Wilshire Blvd Project Taco,0
+9500 Wilshire Blvd Cut (310) 276-8500 [SEP] 90212 5515 Wilshire Blvd El Diner,0
+9500 Wilshire Blvd Cut (310) 276-8500 [SEP] 90212 6355 Wilshire Blvd Genki Grill,0
+"""359 E 1st St  Los Angeles"" Toshi Sushi [SEP] (213) 680-4166 90012 343 E 1st St",0
+"""359 E 1st St  Los Angeles"" Toshi Sushi [SEP] (213) 680-4166 90012 347 E 2nd St",0
+1847 N Cahuenga Blvd Solar de Cahuenga (323) 467-7510 [SEP] 90028 1835 N Cahuenga Blvd Madera Kitchen,0
+"""700 S Grand Ave  Los Angeles"" Bottega Louie [SEP] (213) 802-1470 90017 700 S Grand Ave",1
+9015 W Sunset Blvd Rainbow Bar & Grill (310) 278-4232 [SEP] 90069 2852 W Sunset Blvd Ohana Pok Co,0
+321 N Robertson Blvd Petrossian Cafe (310) 271-6300 [SEP] 90048 310 S Robertson Blvd Pizzeria Il Fico,0
+14120 Ventura Blvd Jinky's Cafe (818) 981-2250 [SEP] 91423 11616 Ventura Blvd Cocina Condesa,0
+8826 Melrose Avenue Craig's (310) 276-1900 [SEP] 90069 5156 Melrose Ave Nue Studio & Cafe,0
+14611 Ventura Blvd Clay Oven Indian Cuisine (818) 995-1777 [SEP] 91403 11616 Ventura Blvd Cocina Condesa,0
+9461 S Santa Monica Blvd Ice Cream Lab (310) 795-6505 [SEP] 90210 12201 Santa Monica Blvd Quicksand,0
+6922 Hollywood Blvd Hooters (323) 962-3373 [SEP] 90028 5103 Hollywood Blvd Fukurou Ramen,0
+7985 Santa Monica Blvd French Quarter Market Place (323) 654-0898 [SEP] 90046 7253 Santa Monica Blvd Foodlab,0
+12655 Ventura Blvd Jerry's Famous Deli (818) 980-4245 [SEP] 91604 11616 Ventura Blvd Cocina Condesa,0
+"""3002 W 7th St  Los Angeles"" OB Bear [SEP] (213) 480-4910 90005 3002 W 7th St",1
+9200 W Sunset Blvd BOA Steakhouse (310) 278-2050 [SEP] 90069 2141 W Sunset Blvd Mohawk Bend,0
+9200 W Sunset Blvd BOA Steakhouse (310) 278-2050 [SEP] 90069 7300 Sunset Blvd The Carving Board,0
+9200 W Sunset Blvd BOA Steakhouse (310) 278-2050 [SEP] 90069 7554 W Sunset Blvd Vintage Enoteca,0
+9200 W Sunset Blvd BOA Steakhouse (310) 278-2050 [SEP] 90069 3508 W Sunset Blvd El Cochinito Restaurant,0
+9200 W Sunset Blvd BOA Steakhouse (310) 278-2050 [SEP] 90069 1261 W Sunset Blvd Guisados,0
+8653 W Sunset Blvd Cravings (310) 652-6103 [SEP] 90069 2943 W Sunset Blvd Local,0
+8653 W Sunset Blvd Cravings (310) 652-6103 [SEP] 90069 3322 W Sunset Blvd Night + Market Song,0
+8575 Santa Monica Blvd Kitchen 24 Not Available [SEP] 90069 5101 Santa Monica Blvd Spicy BBQ Restaurant,0
+5936 W Sunset Blvd Delancey Bar and Pizzeria (323) 469-2100 [SEP] 90028 2939 W Sunset Blvd Takumas Burgers,0
+5936 W Sunset Blvd Delancey Bar and Pizzeria (323) 469-2100 [SEP] 90028 2852 Sunset Blvd Sopressata At Black Hogg,0
+8171 W Sunset Blvd Bar Marmont (323) 650-0575 [SEP] 90069 3508 W Sunset Blvd El Cochinito Restaurant,0
+8654 W Sunset Blvd Le Petit Four (310) 652-3863 [SEP] 90069 2852 W Sunset Blvd Ohana Pok Co,0
+1562 N Cahuenga Blvd Big Wangs (323) 469-2449 [SEP] 90028 1602 N Cahuenga Blvd Saint Felix,0
+8430 W Sunset Blvd Foundation Room (323) 845-5100 [SEP] 90069 6660 W Sunset BlvdUnit P Luv2Eat Thai Bistro,0
+"""8738 W 3rd St  Los Angeles"" Jack n' Jill's Too [SEP] (310) 858-4900 90048 8738 W 3rd St",1
+9113 W Olympic Blvd Dr. Sandwich (310) 278-7777 [SEP] 90212 5300 W Olympic Blvd El Chato Taco Truck,0
+9113 W Olympic Blvd Dr. Sandwich (310) 278-7777 [SEP] 90212 3132 W Olympic Blvd Hong Galbi,0
+3115 Washington Blvd Akbar Cuisine of India (310) 574-0666 [SEP] 90292 4566 W Washington Blvd Ondal 2,0
+6001 Washington Blvd Brunello Trattoria (310) 280-3856 [SEP] 90232 12517 W Washington Blvd Hatchet Hall,0
+8371 Sunset Blvd Saddle Ranch Chop House (323) 656-2007 [SEP] 90069 3827 W Sunset Blvd Berlin Currywurst,0
+9317 Slauson Ave Rio's Pizza (562) 949-2324 [SEP] 90660 2524 W Slauson Ave Freds Downhome Burgers,0
+9317 Slauson Ave Rio's Pizza (562) 949-2324 [SEP] 90660 4454 W Slauson Ave Orleans and York Deli,0
+1585 W Main St Domino's (608) 825-3200 [SEP] 53590 11 W Main St Fibs Fine Italian Beef & Sausage,0
+1585 W Main St Domino's (608) 825-3200 [SEP] 53590 554 W Main St Echo Tap & Grill,0
+1585 W Main St Domino's (608) 825-3200 [SEP] 53590 7 W Main St Brocach,0
+2952 Fish Hatchery Rd Schneid's Sports Bar & Grill (608) 271-3644 [SEP] 53713 3044 Fish Hatchery Rd Teriyaki Sushi Express,0
+"""1019 Williamson St  Madison"" Nature's Bakery Cooperative [SEP] (608) 257-3649 53703 20 W Mifflin St",0
+"""1019 Williamson St  Madison"" Nature's Bakery Cooperative [SEP] (608) 257-3649 53703 831 E Johnson StSte 4",0
+"""211 King St  Madison"" Natt Spil [SEP] Not Available 53703 211 King St",1
+3040 Cahill Main Casa Del Sol (608) 663-8818 [SEP] 53711 3040 Cahill Main Casa Del Sol,1
+"""6405 Mineral Pt Rd  Madison"" Otto's Restaurant & Bar [SEP] (608) 274-4044 53705 6405 Mineral Point Rd",1
+"""449 State St Ste 2G  Madison"" Wasabi Japanese Restaurant [SEP] (608) 255-5020 53703 944 Williamson St",0
+6220 Nesbitt Rd Ste B Pancake Cafe (608) 204-7040 [SEP] 53719 724 S Gammon Rd Pancake Cafe,1
+"""117 Martin Luther King Blvd  Madison"" Dlux [SEP] (608) 467-3130 53703 111 Martin Luther King Jr Blvd",0
+"""517 State St.  Madison"" Five Guys Burgers and Fries [SEP] (608) 255-2520 53703 319 W Gorham St",0
+"""20 W. Mifflin  Madison"" Cooper's Tavern [SEP] (608) 256-1600 53703 319 N Henry St",0
+"""1849 Northport Dr  Madison"" Benvenuto's Italian Grill [SEP] (608) 241-1144 53704 Crowne Plaza Madison4402 E Washington Ave",0
+"""2601 West Beltline Highway  Madison"" Bonfyre American Grille [SEP] (608) 273-3973 53713 1821 S Park St",0
+"""2601 West Beltline Highway  Madison"" Bonfyre American Grille [SEP] (608) 273-3973 53713 2601 W Beltline Hwy",1
+"""600 Williamson St  Madison"" Wah Kee Chinese Noodle Restaurant [SEP] (608) 255-5580 53703 151 W Gorham St",0
+7464 Hubbard Ave Louisianne's Etc (608) 831-1929 [SEP] 53562 7508 Hubbard Ave The Village Green,0
+"""313 State St  Madison"" Pizza DI Roma [SEP] (608) 268-0900 53703 1054 Williamson St",0
+"""313 State St  Madison"" Pizza DI Roma [SEP] (608) 268-0900 53703 313 State St",1
+121 E Main St La Tolteca (608) 834-6142 [SEP] 53590 239 E Main St Atlantis Taverna,0
+675 Park Ave Appletree Family Restaurant (920) 623-4518 [SEP] 53925 345 Park Ave Uncle Gussys,0
+"""3717 S Dutch Mill Rd  Madison"" Toby's Supper Club [SEP] (608) 222-6913 53718 3717 S Dutch Mill Rd",1
+2701 Century Harbor Rd. Captain Bill's (608) 831-7327 [SEP] 53562 2701 Century Harbor Rd Captain Bills,1
+"""831 E Johnson St  Madison"" Sophia's Bakery & Cafe [SEP] (608) 259-1506 53703 524 E Wilson St",0
+"""831 E Johnson St  Madison"" Sophia's Bakery & Cafe [SEP] (608) 259-1506 53703 114 E Main St",0
+"""944 Williamson St  Madison"" Bahn Thai Restaurant [SEP] (608) 256-0202 53703 316 State St",0
+"""944 Williamson St  Madison"" Bahn Thai Restaurant [SEP] (608) 256-0202 53703 744 Williamson St",0
+"""944 Williamson St  Madison"" Bahn Thai Restaurant [SEP] (608) 256-0202 53703 401 E Washington Ave",0
+"""515 S Park St  Madison"" La Hacienda Restaurant [SEP] (608) 255-8227 53715 532 S Park St",0
+300 S Main St Tuvalu Coffeehouse & Gallery (608) 845-6800 [SEP] 53593 1200 Main St WingBucket,0
+300 S Main St Tuvalu Coffeehouse & Gallery (608) 845-6800 [SEP] 53593 3600 Main St Cold Beer Company,0
+300 S Main St Tuvalu Coffeehouse & Gallery (608) 845-6800 [SEP] 53593 600 W Verona Ave Jordandal Cookhouse,0
+6522 Monona Dr Red Robin Gourmet Burgers (608) 223-1390 [SEP] 53716 6005 Monona Dr La Rosita Latina Grocery Store,0
+"""4002 E Washington Ave  MADISON"" Arby's [SEP] (608) 240-4427 53704 4512 E Washington Ave",0
+218 S. Main St 1855 Saloon & Grill (608) 839-3700 [SEP] 53527 218 S. Main Street 1855 Saloon and Grill,1
+"""2010 S Park St  Madison"" El Pastor [SEP] (608) 280-8898 53713 2010 S Park St",1
+"""114 State St  Madison"" Michelangelo's Coffee House [SEP] (608) 251-5299 53703 505 State St",0
+6312 Metropolitan Ln Bourbon Street Grille (608) 222-4410 [SEP] 53713 1821 S Park St Sol Azteca Fusion Grill,0
+"""2810 E Washington Ave  Madison"" Peoples Bakery [SEP] (608) 245-0404 53704 4863 Hayes Rd",0
+119 W Main St Borland's (608) 424-3013 [SEP] 53508 509 W Main St M-N-Ms Coffeehouse,0
+119 W Main St Borland's (608) 424-3013 [SEP] 53508 7 W Main St Brocach,0
+"""721 N High Point Rd  Madison"" New Seoul Korean Restaurant [SEP] (608) 829-3331 53717 721 N High Point Rd",1
+"""1017 S Park St  Madison"" Asian Sweet Bakery [SEP] (608) 665-3988 53715 1017 S Park St",1
+238 E Main St Eddie's Alehouse & Eatery (608) 825-1515 [SEP] 53590 123 E Main St Argus,0
+"""410 E Wilson St  Madison"" Plaka Taverna [SEP] (608) 251-4455 53703 627 W Main St",0
+407 W Main St Aztlan Mexican Grill (608) 437-7600 [SEP] 53572 509 W Main St M-N-Ms Coffeehouse,0
+1010 Enterprise Dr Draft House Bar & Restaurant (608) 848-3158 [SEP] 53593 950 Kimball Ln Grays Tied House,0
+"""5401 W Beltline Hwy  Madison"" Copper Top Restaurant [SEP] (608) 271-4588 53711 2951 Triverton Pike",0
+"""319 N Henry St  Madison"" Plaza Tavern & Grill [SEP] (608) 255-6592 53703 131 E Mifflin St",0
+"""2500 University Ave  Madison"" Lombardino's Restaurant [SEP] (608) 238-1922 53705 540 University Ave",0
+710 W Main St Sir Hobo's (608) 837-1044 [SEP] 53590 117 W Main St Shamrock Bar & Grille,0
+6544 Monona Dr Buffalo Wild Wings (608) 237-8686 [SEP] 53716 4556 Monona Dr Rocky Rococo Pan Style Pizza,0
+6413 University Ave. Sonic Drive-in (608) 831-2633 [SEP] 53562 604 E University Ave The Taco Bros,0
+6413 University Ave. Sonic Drive-in (608) 831-2633 [SEP] 53562 789 University Avenue Buffalo Wild Wings,0
+6413 University Ave. Sonic Drive-in (608) 831-2633 [SEP] 53562 3256 University Ave Pancheros Mexican Grill,0
+117 S Main St Blue Moon (920) 648-3405 [SEP] 53551 117 W Main St Shamrock Bar & Grille,0
+"""3555 E Washington Ave  Madison"" Pedro's Mexican Restaurante [SEP] (608) 241-8110 53704 1201 N Sherman Ave",0
+"""3555 E Washington Ave  Madison"" Pedro's Mexican Restaurante [SEP] (608) 241-8110 53704 4718 E Towne Blvd",0
+"""3555 E Washington Ave  Madison"" Pedro's Mexican Restaurante [SEP] (608) 241-8110 53704 3715 E Washington Ave",0
+2980 Cahill Main Great Dane Pub & Brewing (608) 442-9000 [SEP] 53711 3040 Cahill Main Casa Del Sol,0
+"""122 State St  Madison"" The Fountain [SEP] (608) 250-1998 53703 122 State St",1
+"""827 Johnson St  Madison"" Spot [SEP] (608) 251-7768 53703 827 E Johnson St",1
+114 N Main St Firefly Coffeehouse (608) 835-6238 [SEP] 53575 3014 Main St Monkey King Noodle Co.,0
+101 W Main St Glass Nickel Pizza Co (608) 834-9919 [SEP] 53590 1301 Main St Ravenna Urban Italian Restaurant,0
+6637 University Ave Scott's Pastry Shoppe Incorporated (608) 836-7333 [SEP] 53562 1401 University Ave QQ Express,0
+608 W Verona Ave Ste A Monte's Grill & Pub (608) 845-9669 [SEP] 53593 608A W Verona Ave Montes Grill & Pub,1
+"""1 W Dayton St  Madison"" Dayton Street Grille [SEP] (608) 294-3031 53703 529 University Ave",0
+"""1 W Dayton St  Madison"" Dayton Street Grille [SEP] (608) 294-3031 53703 319 W Gorham St",0
+"""7345 Mineral Point Rd  Madison"" Bonefish Grill [SEP] (608) 827-5720 53711 7345 Mineral Point Rd",1
+"""515 State St  Madison"" Mia Za's Italian Cafe [SEP] (608) 250-1806 53703 625 State St",0
+"""2540 University Ave  Madison"" Oliver's Public House [SEP] (608) 819-8555 53705 2540 University Ave",1
+"""636 State St  Madison"" City Bar [SEP] (608) 250-2489 53703 636 State St",1
+"""1805 Monroe St  Madison"" Pizza Brutta [SEP] (608) 257-2120 53711 1614 Monroe St",0
+"""1351 Williamson St  Madison"" Willalby's Cafe [SEP] (608) 259-9032 53703 1351 Williamson St",1
+"""707 N High Point Rd  Madison"" Swagat Restaurant [SEP] (608) 836-9399 53717 1265 John Q Hammons Rd",0
+"""707 N High Point Rd  Madison"" Swagat Restaurant [SEP] (608) 836-9399 53717 7017 Mineral Point Rd",0
+"""2098 Atwood Ave  Madison"" Lao Laan Xang Restaurant [SEP] (608) 819-0140 53704 2702 Shopko Dr",0
+"""701 E Washington Ave Ste 104  Madison"" Brass Ring [SEP] (608) 256-9359 53703 701 E Washington Ave",1
+"""418 State St  Madison"" Fair Trade Coffee House [SEP] (608) 268-0477 53703 558 State St",0
+1965 Barber Dr Halverson's Supper Club (608) 873-3001 [SEP] 53589 1965 Barber Dr Halversons Supper Club,1
+"""319 West Gorham St  Madison"" Chaser's Bar & Grille [SEP] (608) 512-0501 53703 240 W Gilman StFl 2",0
+2451 W Broadway World Buffet (608) 222-2962 [SEP] 53713 65 W Broadway Saleya,0
+"""1221 Ann St  Madison"" Parkway Family Restaurant [SEP] (608) 255-2355 53713 1221 Ann St",1
+"""225 King St  Madison"" Restaurant Muramoto [SEP] (608) 259-1040 53703 226 State St",0
+6815 University Avenue Middleton Sport Bowl (608) 831-5238 [SEP] 53562 2862 University Ave La Brioche True Food,0
+6815 University Avenue Middleton Sport Bowl (608) 831-5238 [SEP] 53562 2540 University Ave Olivers Public House,0
+6815 University Avenue Middleton Sport Bowl (608) 831-5238 [SEP] 53562 604 University Ave The Taco Shop,0
+6815 University Avenue Middleton Sport Bowl (608) 831-5238 [SEP] 53562 2741 University Ave Qdoba Mexican Grill,0
+"""Mineral Point Rd  Madison"" Jason's Deli [SEP] (608) 827-7780 53717 6608 Mineral Point Rd",0
+"""419 State St  Madison"" Palmyra Mediterranean Grill [SEP] Not Available 53703 419 State St",1
+"""419 State St  Madison"" Palmyra Mediterranean Grill [SEP] Not Available 53703 852 Williamson St",0
+"""505 State St  Madison"" Osaka House [SEP] (608) 819-8855 53703 908 E Johnson St",0
+207 Milwaukee Ave E Beauty & The Bean (920) 563-4938 [SEP] 53538 4914 N Milwaukee Ave Gale Street Inn,0
+207 Milwaukee Ave E Beauty & The Bean (920) 563-4938 [SEP] 53538 2732 N Milwaukee Ave The Harding Tavern,0
+"""1 South Pinckney Street  Madison"" L'Etoile Restaurant [SEP] (608) 251-0500 53703 380 W Washington Ave",0
+"""117 W Main St  Madison"" Shamrock Bar [SEP] (608) 255-5029 53703 117 W Main St",1
+4503 Monona Dr Rossi's (608) 222-5115 [SEP] 53716 4544 Monona Dr El Bolillo Bakery,0
+4503 Monona Dr Rossi's (608) 222-5115 [SEP] 53716 5805 Monona Dr Silver Eagle Bar & Grill,0
+111 W Main St Mojo's Sports Pub & Grill (608) 849-6656 [SEP] 53597 1008 Quinn Dr Luckys Bar & Grille,0
+"""5956 Executive Drive  Madison"" Funk's Pub [SEP] (608) 442-9500 53719 5956 Executive DrSte 101",1
+"""1304 E Washington Ave  Madison"" Baldwin Street Grille [SEP] (608) 442-8400 53703 305 State St",0
+"""123 E. Main St.  Madison"" Argus Bar Grille [SEP] (608) 256-4141 53703 852 Williamson St",0
+"""380 W Washington Ave  Madison"" Maharani Indian Restaurant [SEP] (608) 251-9999 53703 540 State St",0
+"""380 W Washington Ave  Madison"" Maharani Indian Restaurant [SEP] (608) 251-9999 53703 600 Williamson StSte M",0
+6250 Nesbitt Rd True Coffee Roasters (608) 277-1455 [SEP] 53719 6261 Nesbitt Rd Quiveys Grove,0
+"""2825 University Ave  Madison"" Itzza Pizza [SEP] (608) 233-3500 53705 2825 University AveSte 1",0
+8205 Klevenville Riley Rd Riley Tavern (608) 845-9150 [SEP] 53593 410 W Verona Ave The Klassik Tavern,0
+6615 University Ave Papa John's Pizza (608) 831-2727 [SEP] 53562 785 University Ave Madison Cuisine,0
+"""540 State St  Madison"" Kabul Afghanistan Restaurant [SEP] (608) 256-6322 53703 1236 Williamson St",0
+"""240 West Gilman Street  Madison"" The Side Door Grill and Tap [SEP] (608) 257-3300 53703 852 Williamson St",0
+4605 Monona Dr Snicks Sportsman Bar (608) 661-2812 [SEP] 53716 4544 Monona Dr El Bolillo Bakery,0
+"""5518 University Ave  Madison"" Original Pancake House [SEP] (608) 231-3666 53705 5518 University Ave",1
+"""1146 Williamson St  Madison"" Lao Laan-Xang Restaurant [SEP] (608) 280-0104 53703 225 King St",0
+"""2810 E Washington Ave  Madison"" Happy Grill [SEP] (608) 249-5828 53704 3001 N Sherman Ave",0
+"""3001 North Sherman Avenue  Madison"" Habanero's Mexican Grill [SEP] (608) 244-1990 53704 1810 Roth St",0
+5805 Monona Dr Silver Eagle Bar & Grill (608) 222-2843 [SEP] 53716 4544 Monona Dr El Bolillo Bakery,0
+"""E Main St & S Pinckney St  Madison"" Good Food [SEP] (608) 217-5227 53703 33 E Main St",1
+217 W Main St CamRock Cafe & Sport (608) 423-2111 [SEP] 53523 509 W Main St M-N-Ms Coffeehouse,0
+8640 W Mineral Point Rd Morgan's Bar and Grill (608) 798-1552 [SEP] 53528 6405 Mineral Point Rd Ottos Restaurant & Bar,0
+100 Front St Deb's Squeeze Inn (608) 868-4849 [SEP] 53563 259 Front St Cowgirl Sea Horse,0
+28 N Water St E Bienfang's Bar (920) 563-8046 [SEP] 53538 1 Water St The River Caf,0
+118 E Main St Silver Fox Bar (608) 655-3381 [SEP] 53559 33 E Main St Good Food,0
+4173 County Road P Hilltop Inn (608) 798-2893 [SEP] 53528 5737 County Road Cv Veterans of Foreign Wars Truax-Longmire Post 8483,0
+"""3910 E Washington Ave  Madison"" Wendy's [SEP] (608) 244-1999 53704 2810 E Washington Ave",0
+2202 W Broadway Antler's Tavern (608) 222-9872 [SEP] 53713 2409 W Broadway Happy Wok,0
+121 E Main St Wendigo (608) 205-2775 [SEP] 53589 121 East Main St Wendigo,1
+"""525 W Johnson St  Madison"" Badgerland Bar & Grill [SEP] (608) 251-3033 53703 119 E Main St",0
+"""703 University Ave  Madison"" Fresh Madison Market [SEP] (608) 287-0000 53715 785 University Ave",0
+"""703 University Ave  Madison"" Fresh Madison Market [SEP] (608) 287-0000 53715 1212 Regent St",0
+"""7866 Mineral Point Rd  Madison"" Silly Yak Bakery & Bread Barn [SEP] (608) 833-5965 53717 7866 Mineral Point Rd",0
+"""1026 N Sherman Ave  Madison"" Cafe La Bellitalia [SEP] (608) 243-1200 53704 4320 E Towne Blvd",0
+726 S Main St Jim's Burger Corner (920) 674-4033 [SEP] 53549 646 S Main St Natural Selection,0
+726 S Main St Jim's Burger Corner (920) 674-4033 [SEP] 53549 300 S Main St AJs Pizzeria and Diner,0
+"""2827 Atwood Dr.  Madison"" Daisy Cafe and Cupcakery [SEP] (608) 241-2200 53704 2827 Atwood Ave",1
+"""316 State St  Madison"" Pantheon Bar [SEP] (608) 251-6311 53703 316 State St",1
+19 E Main St Night Owl Food & Spirits (608) 882-9973 [SEP] 53536 239 E Main St Atlantis Taverna,0
+"""610 University Ave  Madison"" Sushi Express [SEP] (608) 467-9688 53715 2500 University Ave",0
+"""2701 Monroe St Ste 700  Madison"" Bluephies Restaurant & Vodkatorium [SEP] (608) 231-3663 53711 2951 Triverton Pike",0
+"""156 E 2nd Street  New York"" Supper [SEP] (212) 477-7600 10009 156 E 2nd St",1
+"""68 Clinton Street  New York"" Pig And Khao [SEP] (212) 920-4485 10002 68 Clinton St",1
+"""231 E 9th Street  New York"" Robataya NY [SEP] (212) 979-9674 10003 231 E 9th St",1
+"""454 Van Brunt Street  Brooklyn"" Hometown Bar-B-Que [SEP] (347) 294-4644 11231 454 Van Brunt St",1
+"""163 Mulberry Street  New York"" La Bella Vita Ristorante [SEP] (212) 775-8484 10013 138 Mulberry St",0
+"""35 Avenue Of The Americas  New York"" AOA Bar and Grill [SEP] (212) 925-1600 10013 71 N Moore St",0
+"""131 Duane Street  New York"" City Hall Restaurant [SEP] (212) 227-7777 10013 80 Bayard St",0
+"""813 8th Avenue  New York"" West End Bar and Grill [SEP] (212) 707-8986 10019 249 W 49th St",0
+"""36 E 4th Street  New York"" Aroma Kitchen & Winebar [SEP] (212) 375-0100 10003 103 1st Ave",0
+"""236 5th Avenue  New York"" ilili Restaurant [SEP] (212) 683-2929 10001 299 10th Ave",0
+"""121 Hudson Street  New York"" Mr. Chow Tribeca [SEP] (212) 965-9500 10013 200 Church St",0
+"""8 W 18th Street  New York"" Ootoya [SEP] (212) 255-0833 10003 41 E 11th St",0
+"""145 W Broadway  New York"" The Odeon [SEP] (212) 233-0507 10013 145 W Broadway",1
+"""131 Rivington Street  New York"" Schiller's Liquor Bar [SEP] (212) 260-4555 10002 65 Rivington St",0
+"""94 Avenue C  New York"" Bobwhite Lunch & Supper Counter [SEP] (212) 228-2972 10009 94 Ave C",1
+"""9 Pell Street  New York"" Joe's Shanghai [SEP] (212) 233-8888 10013 14A Elizabeth St",0
+"""10 W 28th Street  New York"" The NoMad Restaurant [SEP] (212) 796-1500 10001 1170 Broadway",0
+"""18 Bedford Avenue  Brooklyn"" Five Leaves [SEP] (718) 383-5345 11222 18 Bedford Ave",1
+"""300 E 12th Street  New York"" Angelica Kitchen [SEP] (212) 228-2909 10003 35 E 18th St",0
+"""Chelsea Market  75 9th Avenue  New York"" [SEP] Mokbar (646) 964-5963 10011",0
+"""691 8th Avenue  New York"" Shake Shack [SEP] (646) 435-0136 10036 691 8th Ave",1
+"""315 West 48th Street  New York  NY"" [SEP] Maria's Mont Blanc Restaurant (212) 582-9648 10036",0
+"""373 West 46th Street  New York"" Hourglass Tavern [SEP] (212) 265-2060 10036 373 W 46th St",1
+"""324 Lafayette Street  New York"" Gato [SEP] (212) 334-6400 10012 324 Lafayette St",1
+"""Time-Life Buildiing  155 E 42nd Street  New York"" [SEP] The Capital Grille (212) 953-2000 10017",0
+"""171 1st Avenue  New York"" Momofuku Noodle Bar [SEP] (212) 777-1603 10003 8 Extra Pl",0
+"""140 W 46th Street  New York"" St Andrews Restaurant & Bar [SEP] (212) 840-8413 10036 43 W 46th St",0
+"""633 3rd Avenue  New York  NY"" [SEP] Docks Oyster Bar & Seafood Grill (212) 986-8080 10017",0
+"""252 W 47th Street  New York"" Glass House Tavern [SEP] (212) 730-4800 10036 373 W 46th St",0
+"""157 Mott Street  New York"" Pho Bang Resturant [SEP] (212) 966-3797 10013 281 W Broadway",0
+"""93 Baxter Street  New York"" Forlini's Restaurant [SEP] (212) 349-6779 10013 138 Mulberry St",0
+"""757 Fulton Street  Brooklyn"" Habana Outpost [SEP] (718) 858-9500 11217 757 Fulton St",1
+"""105 Mulberry Street  New York"" Sambuca's Cafe [SEP] (212) 431-0408 10013 48 Mulberry St",0
+"15 Romolo (415) 398-1359 ""15 Romolo Place [SEP]  San Francisco  CA"" 15 Romolo",1
+"456 Shanghai Cuisine 1261 ""69 Mott Street [SEP]  New York  NY"" Shanghai Asian Manor",0
+"5A5 Steak Lounge (415) 989-2539 ""244 Jackson Street [SEP]  San Francisco  CA"" Delicious Dim Sum",0
+"9th Street Pizza (213) 627-7798 ""231 E 9th St [SEP]  Los Angeles  CA"" Han Bat Sul Lung Tang",0
+"9th Street Pizza (213) 627-7798 ""231 E 9th St [SEP]  Los Angeles  CA"" Jun Won Restaurant",0
+"9th Street Pizza (213) 627-7798 ""231 E 9th St [SEP]  Los Angeles  CA"" Men Oh Tokushima Ramen",0
+"9th Street Pizza (213) 627-7798 ""231 E 9th St [SEP]  Los Angeles  CA"" Spear Steak & Seafood House",0
+"9th Street Pizza (213) 627-7798 ""231 E 9th St [SEP]  Los Angeles  CA"" Yang Ban Sul Lung Tang Restaurant",0
+"ABC Seafood (213) 680-2887 ""205 Ord St [SEP]  Los Angeles  CA"" AOC",0
+"ABC Seafood (213) 680-2887 ""205 Ord St [SEP]  Los Angeles  CA"" BAR Ama",0
+"ABC Seafood (213) 680-2887 ""205 Ord St [SEP]  Los Angeles  CA"" Spear Steak & Seafood House",0
+"Acquerello (415) 567-5432 ""1722 Sacramento Street [SEP]  San Francisco  CA"" Acquerello",1
+"AJ Bombers (608) 305-4474 ""201 W Gorham St [SEP]  Madison  WI"" AJ Bombers",1
+"Al's Place (415) 416-6136 ""1499 Valencia Street [SEP]  San Francisco  CA"" Pica Pica Arepa Kitchen",0
+"Alcove Cafe & Bakery (323) 644-0100 ""1929 Hillhurst Ave [SEP]  Los Angeles  CA"" Alcove Caf & Bakery",1
+"Allende Restaurant (773) 477-7114 ""2408 N. Lincoln Avenue [SEP]  Chicago  IL"" Via Lima",0
+"Alta CA (415) 590-2585 ""1420 Market Street [SEP]  San Francisco  CA"" Pasta Moto",0
+"Anella (718) 389-8100 ""222 Franklin Street [SEP]  Brooklyn  NY"" Anella",1
+"Angel Cafe & Deli (415) 931-3467 ""700 Geary Street [SEP]  San Francisco  CA"" Hong Kong Lounge",0
+"Angel Cafe & Deli (415) 931-3467 ""700 Geary Street [SEP]  San Francisco  CA"" Hong Kong Lounge II",0
+"Anima Pizza & Pasta (213) 738-0799 ""698 S Vermont Ave [SEP]  Los Angeles  CA"" Dok Dok Chicken",0
+"Ann Sather (773) 348-2378 ""909 W. Belmont Avenue [SEP]  Chicago  IL"" Fahlstroms Fresh Fish Market",0
+"Arby's (608) 274-6205 ""601 S Gammon Rd [SEP]  Madison  WI"" Chang Jiang",0
+"Aroma Bar and Grill (323) 850-8120 ""7373 W Sunset Blvd [SEP]  Los Angeles  CA"" Aroma Restaurant",0
+"Asiento (415) 829-3375 ""2730 21st Street [SEP]  San Francisco  CA"" Asiento",1
+"Athens Gyros (608) 246-7733 ""1860 E Washington Ave [SEP]  Madison  WI"" Hong Kong Buffet",0
+"Atomic Wings (212) 760-9090 ""528 9th Avenue [SEP]  New York  NY  NY""",0
+"Avec (312) 377-2002 ""615 W. Randolph Street [SEP]  Chicago  IL"" Avec",1
+"Babes Madison (608) 274-7300 ""5614 Schroeder Rd [SEP]  Madison  WI"" Babes Grill & Bar",1
+"Baby Blues BBQ (415) 896-4250 ""3149 Mission Street [SEP]  San Francisco  CA"" Old Bus Taver",0
+"Baby Blues BBQ (415) 896-4250 ""3149 Mission Street [SEP]  San Francisco  CA"" The Crafty Fox Ale House",0
+"Bahn Thai Restaurant (608) 256-0202 ""944 Williamson St [SEP]  Madison  WI"" Lao Laan",0
+"Bahn Thai Restaurant (608) 256-0202 ""944 Williamson St [SEP]  Madison  WI"" Wah Kee Wonton Noodle",0
+"Bar Pastoral (773) 472-4781 ""2947 N. Broadway Street [SEP]  Chicago  IL"" Ping Pong",0
+"Bari (312) 666-0730 ""1120 W. Grand Avenue [SEP]  Chicago  IL"" Bari",1
+"Bari (312) 666-0730 ""1120 W. Grand Avenue [SEP]  Chicago  IL"" Jeta Skin Care and Laser Center",0
+"Barriques Coffee (608) 268-6264 ""127 W Washington Ave [SEP]  Madison  WI"" Hong Kong Buffet",0
+"Batter & Berries (773) 248-7710 ""2748 N. Lincoln Avenue [SEP]  Chicago  IL"" Gather",0
+"BBQ Chicken (213) 739-1047 ""698 S Vermont Ave # 101 [SEP]  Los Angeles  CA"" Dok Dok Chicken",0
+"BBQ Chicken (213) 739-1047 ""698 S Vermont Ave # 101 [SEP]  Los Angeles  CA"" Parks BBQ",0
+"Bean & Bean (212) 422-8083 ""71 Broadway [SEP]  New York  NY"" Blue Fin",0
+"Bean & Bean (212) 422-8083 ""71 Broadway [SEP]  New York  NY"" Hot Soup Cart",0
+"Bean & Bean (212) 422-8083 ""71 Broadway [SEP]  New York  NY"" New Wong Rest",0
+"Bean & Bean (212) 422-8083 ""71 Broadway [SEP]  New York  NY"" Toys R Us",0
+"Bel Ami Restaurant (773) 878-2808 ""5530 N. Lincoln Avenue [SEP]  Chicago  IL"" The Bad Apple",0
+"Blowin' Smoke Barbeque (608) 215-0069 ""1336 Montondon Avenue [SEP]  Waunakee  WI"" Blowin' Smoke BBQ",1
+"Blowin' Smoke Barbeque (608) 215-0069 ""1336 Montondon Avenue [SEP]  Waunakee  WI"" Blowin' Smoke BBQ",1
+"Blu Jam Cafe (323) 951-9191 ""7371 Melrose Ave [SEP]  Los Angeles  CA"" All About the Bread",0
+"Blue Velvet Lounge (608) 250-9900 ""430 W Gilman St [SEP]  Madison  WI"" Sake Lounge",0
+"Bocadillos (415) 982-2622 ""710 Montgomery Street [SEP]  San Francisco  CA"" Bocadillos",1
+"Bom Bolla (773) 698-6601 ""1501 N. Milwaukee Avenue [SEP]  Chicago  IL"" Crossroads Trading Co.",0
+"Bom Bolla (773) 698-6601 ""1501 N. Milwaukee Avenue [SEP]  Chicago  IL"" Uncharted Book",0
+"Bonfyre American Grille (608) 273-3973 ""2601 West Beltline Highway [SEP]  Madison  WI"" Bonfyre American Grille",1
+"BRGRBELLY (773) 775-6650 ""5691 N. Milwaukee Avenue [SEP]  Chicago  IL"" Pot Pan",0
+"Brink Lounge (608) 661-8599 ""701 E Washington Ave [SEP]  Madison  WI"" The Brass Ring",0
+"Brocach Irish Pub (608) 255-2015 ""7 W Main St [SEP]  Madison  WI"" Good Food",0
+"Buck & Honey's (608) 837-3131 ""804 Liberty Boulevard [SEP]  Sun Prairie  WI"" Buck & Honey's",1
+"Buckingham's Madison (608) 251-4744 ""802 Regent St [SEP]  Madison  WI"" Hong Kong Station",0
+"Burma Love (415) 861-2100 ""211 Valencia Street [SEP]  San Francisco  CA"" Burma Love",1
+"Cafe Costa Rica (608) 256-9830 ""1133 Williamson St [SEP]  Madison  WI"" Lao Laan",0
+"Cafe Tallulah (212) 209-1055 ""240 Columbus Avenue [SEP]  New York  NY"" Cafe Tallulah",1
+"Cafe Zoma (608) 246-2009 ""2326 Atwood Ave [SEP]  Madison  WI"" Lao Laan",0
+"Capriotti's Sandwich Shop (608) 255-2227 ""902 Regent St [SEP]  Madison  WI"" Capriotti's Sandwich Shop",1
+"Capriotti's Sandwich Shop (608) 255-2227 ""902 Regent St [SEP]  Madison  WI"" Hong Kong Station",0
+"Carmine's (212) 221-3800 ""200 W 44th Street [SEP]  New York  NY"" Etcetera Etcetera",0
+"Casa DE Lara (608) 251-7200 ""341 State St Ste 2 [SEP]  Madison  WI"" Alan Koa Salon & Spa",0
+"Casa DE Lara (608) 251-7200 ""341 State St Ste 2 [SEP]  Madison  WI"" Blum's Trophies LLC",0
+"Casa DE Lara (608) 251-7200 ""341 State St Ste 2 [SEP]  Madison  WI"" Capital Tap Haus",0
+"Casa DE Lara (608) 251-7200 ""341 State St Ste 2 [SEP]  Madison  WI"" Casa de Lara",1
+"Casa DE Lara (608) 251-7200 ""341 State St Ste 2 [SEP]  Madison  WI"" Karen & Co",0
+"Casa DE Lara (608) 251-7200 ""341 State St Ste 2 [SEP]  Madison  WI"" Mad City Frites",0
+"Casa DE Lara (608) 251-7200 ""341 State St Ste 2 [SEP]  Madison  WI"" Pizza Di Roma",0
+"Casa DE Lara (608) 251-7200 ""341 State St Ste 2 [SEP]  Madison  WI"" Pizza Hut",0
+"Casa DE Lara (608) 251-7200 ""341 State St Ste 2 [SEP]  Madison  WI"" Tutto Pasta State Street",0
+"Casa Del Sol (608) 663-8818 ""3040 Cahill Main [SEP]  Fitchburg  WI"" Casa Del Sol",1
+"Casellula Cheese and Wine Cafe (212) 247-8137 ""401 W 52nd Street [SEP]  New York  NY"" Casellula",1
+"Cassell's Hamburgers (213) 387-5502 ""3600 W 6th St [SEP]  Los Angeles  CA"" Jun Won Restaurant",0
+"Cassell's Hamburgers (213) 387-5502 ""3600 W 6th St [SEP]  Los Angeles  CA"" Son of a Gun",0
+"Cassell's Hamburgers (213) 387-5502 ""3600 W 6th St [SEP]  Los Angeles  CA"" Spear Steak & Seafood House",0
+"Cassell's Hamburgers (213) 387-5502 ""3600 W 6th St [SEP]  Los Angeles  CA"" Sun Nong Dan",0
+"Cha Cha Cha (323) 664-7723 ""656 N Virgil Ave [SEP]  Los Angeles  CA"" Cha Cha Cha",1
+"Cheba Hut (608) 819-8485 ""453 W Gilman St [SEP]  Madison  WI"" Ear Wax Records",0
+"Chez Nanou (608) 283-4266 ""805 Williamson St [SEP]  Madison  WI"" Lao Laan",0
+"Chez Nanou (608) 283-4266 ""805 Williamson St [SEP]  Madison  WI"" Mad Cat Pet Supply",0
+"Chez Nanou (608) 283-4266 ""805 Williamson St [SEP]  Madison  WI"" Rick's Olde Gold",0
+"Chez Nanou (608) 283-4266 ""805 Williamson St [SEP]  Madison  WI"" Sali C.'s review of Lao Laan",0
+"Chicago Curry House (312) 362-9999 ""899 S. Plymouth Court [SEP]  Chicago  IL"" Chicago Curry House",1
+"China Kitchen (608) 826-4432 ""6606 Mineral Pt Rd [SEP]  Madison  WI"" China Kitchen",1
+"Chipotle Mexican Grill (608) 233-4305 ""4000 University Ave [SEP]  Madison  WI"" Chipotle Mexican Grill",1
+"Chocolate Shoppe Ice Cream (608) 255-5454 ""468 State St [SEP]  Madison  WI"" Alan Koa Salon & Spa",0
+"Chocolate Shoppe Ice Cream (608) 255-5454 ""468 State St [SEP]  Madison  WI"" Naf Naf Grill",0
+"Chocolate Shoppe Ice Cream (608) 255-5454 ""468 State St [SEP]  Madison  WI"" Pita Pit",0
+"Chocolate Shoppe Ice Cream (608) 255-5454 ""468 State St [SEP]  Madison  WI"" Soga Shabu Shabu",0
+"Chocolate Shoppe Ice Cream (608) 255-5454 ""468 State St [SEP]  Madison  WI"" Which Wich",0
+"Chop Stop (424) 274-3500 ""8717 Santa Monica Blvd [SEP]  West Hollywood  CA"" Bambou Le Pho",0
+"Chutney (415) 931-5541 ""511 Jones Street [SEP]  San Francisco  CA"" Pho Tan Hoa",0
+"Cocohodo Wilshire (213) 382-8943 ""3500 W 6th St [SEP]  Los Angeles  CA"" Kang Ho Dong Baekjeong",0
+"Cocohodo Wilshire (213) 382-8943 ""3500 W 6th St [SEP]  Los Angeles  CA"" Kang Ho Dong Baekjeong",0
+"Coffee Bean & Tea Leaf (310) 557-8435 ""10250 Santa Monica Blvd [SEP]  Los Angeles  CA"" Spicy BBQ Restaurant",0
+"Colibri Mexican Bistro (415) 440-2737 ""438 Geary Street [SEP]  San Francisco  CA"" Hong Kong Lounge",0
+"Commissary (415) 561-3663 ""101 Montgomery Street [SEP]  San Francisco  CA"" Lost Coast Outfitters",0
+"Crossroads Cafe (608) 262-5038 ""1000 Bascom Mall [SEP]  Madison  WI"" Crossroads Cafe",1
+"Curd Girl (608) 555-5555 ""100 State St [SEP]  Madison  WI"" Naf Naf Grill",0
+"Dairyland Family Restaurant (608) 222-9232 ""716 Cottage Grove Rd [SEP]  Madison  WI"" Dairyland Family Restaurant",1
+"Delarosa (415) 673-7100 ""2175 Chestnut Street [SEP]  San Francisco  CA"" Delarosa",1
+"Desi Deli (212) 399-9007 ""724 10th Avenue [SEP]  New York  NY"" Marquee New York",0
+"Desi Deli (212) 399-9007 ""724 10th Avenue [SEP]  New York  NY"" Pio Pio",0
+"Desi Deli (212) 399-9007 ""724 10th Avenue [SEP]  New York  NY"" White Oak Oyster Bar & Cocktail Lounge",0
+"Dlux (608) 467-3130 ""117 Martin Luther King Blvd [SEP]  Madison  WI"" DLUX",1
+"Dong Il Jang (213) 383-5757 ""3455 W 8th St [SEP]  Los Angeles  CA"" Au Lac DTLA",0
+"Dong Il Jang (213) 383-5757 ""3455 W 8th St [SEP]  Los Angeles  CA"" Danger Dogs",0
+"Dong Il Jang (213) 383-5757 ""3455 W 8th St [SEP]  Los Angeles  CA"" Dong II Jang Restaurant",1
+"Dong Il Jang (213) 383-5757 ""3455 W 8th St [SEP]  Los Angeles  CA"" Hae Jang Chon Korean BBQ Restaurant",0
+"Dong Il Jang (213) 383-5757 ""3455 W 8th St [SEP]  Los Angeles  CA"" LA Sands Boxing Gym",0
+"Dong Il Jang (213) 383-5757 ""3455 W 8th St [SEP]  Los Angeles  CA"" Le Comptoir",0
+"Dong Il Jang (213) 383-5757 ""3455 W 8th St [SEP]  Los Angeles  CA"" Mapo Kkak Doo Gee Restaurant",0
+"Dong Il Jang (213) 383-5757 ""3455 W 8th St [SEP]  Los Angeles  CA"" Quarters Korean BBQ",0
+"Dong Il Jang (213) 383-5757 ""3455 W 8th St [SEP]  Los Angeles  CA"" Smiles Cafe USC",0
+"Dong Il Jang (213) 383-5757 ""3455 W 8th St [SEP]  Los Angeles  CA"" The Little Door",0
+"Dong Il Jang (213) 383-5757 ""3455 W 8th St [SEP]  Los Angeles  CA"" The Real 3rd Street Chicken House",0
+"Dong Il Jang (213) 383-5757 ""3455 W 8th St [SEP]  Los Angeles  CA"" Toe Bang Cafe",0
+"Dotty Dumpling's Dowry (608) 259-0000 ""317 N Frances St [SEP]  Madison  WI"" Nitty Gritty Birthday Bar",0
+"Durty Nelly's (415) 664-2555 ""2328 Irving Street [SEP]  San Francisco  CA"" Yummy Yummy",0
+"EDO Japanese Restaurant (608) 268-0247 ""532 S Park St [SEP]  Madison  WI"" Stephanie S.'s review of The Kombucha Sho",0
+"Einstein Bros Bagels (608) 242-9889 ""3904 E Washington Ave [SEP]  Madison  WI"" Hong Kong Buffet",0
+"El Cid (773) 395-0505 ""2645 N. Kedzie Avenue [SEP]  Chicago  IL"" Simone G.'s review of West River Caf",0
+"El Metate (415) 641-7209 ""2406 Bryant Street [SEP]  San Francisco  CA"" El Metate Restaurant",1
+"El Norteno Tacos (415) 756-1220 ""801 Bryant Street [SEP]  San Francisco  CA"" San Francisco Bay Flowers",0
+"El Pollo Loco (323) 665-1333 ""3925 W Sunset Blvd [SEP]  Los Angeles  CA"" El Cochinito Restaurant",0
+"El Pollo Loco (323) 665-1333 ""3925 W Sunset Blvd [SEP]  Los Angeles  CA"" Local",0
+"El Rinconcito Cubano (773) 489-4440 ""3248 W. Fullerton Avenue [SEP]  Chicago  IL"" La Cocina Boricua de la Familia Galarza",0
+"El Salsabor Restaurant (323) 266-1400 ""522 S Lorena St [SEP]  Los Angeles  CA"" Beau Ideal House of Beauty",0
+"El Taco Loco #2 (415) 282-7018 ""3274 24th Street [SEP]  San Francisco  CA"" La Espiga De Oro",0
+"El Taco Loco #2 (415) 282-7018 ""3274 24th Street [SEP]  San Francisco  CA"" Local Mission Eatery",0
+"El Taco Loco #2 (415) 282-7018 ""3274 24th Street [SEP]  San Francisco  CA"" Nico",0
+"Eno Vino Wine Bar & Bistro (608) 664-9565 ""601 Junction Rd [SEP]  Madison  WI"" Eno Vino Wine Bar & Bistro",1
+"Ethiopian Diamond (773) 338-6100 ""6120 N. Broadway Street [SEP]  Chicago  IL"" Ping Pong",0
+"Falling Water Cafe (608) 831-2000 ""1313 John Q Hammons Dr [SEP]  Middleton  WI"" Falling Water Cafe",1
+"Famous Yeti's Pizza (608) 877-1544 ""971 N Page St [SEP]  Stoughton  WI"" Famous Yetis Pizza",1
+"Fast Wok (608) 833-6738 ""106 W Towne Mall [SEP]  Madison  WI"" Bath & Body Works",0
+"Five Guys Burgers and Fries (608) 255-2520 ""517 State St. [SEP]  Madison  WI"" Alan Koa Salon & Spa",0
+"Five Guys Burgers and Fries (608) 255-2520 ""517 State St. [SEP]  Madison  WI"" Umami Buns",0
+"Flaming Wok (608) 240-1085 ""4237 Lien Rd Ste H [SEP]  Madison  WI"" Flaming Wok",1
+"Fosdal Home Bakery (608) 873-3073 ""243 E Main St [SEP]  Stoughton  WI"" Elsings 2nd Hand Shop",0
+"Frida Tacos (323) 549-4666 ""7217 Melrose [SEP]  Los Angeles  CA"" Froma on Melrose",0
+"Glass Nickel Pizza Co. (608) 218-9000 ""5003 University Ave Ste 170 [SEP]  Madison  WI"" Glass Nickel Pizza",1
+"Glass Nickel Pizza Co. (608) 218-9000 ""5003 University Ave Ste 170 [SEP]  Madison  WI"" Great Harvest Bread Company",0
+"Golden Apple Grill & Breakfast House (773) 528-1413 ""2971 N. Lincoln Avenue [SEP]  Chicago  IL"" The Bad Apple",0
+"Golden Apple Grill & Breakfast House (773) 528-1413 ""2971 N. Lincoln Avenue [SEP]  Chicago  IL"" Via Lima",0
+"Gordo Taqueria (415) 668-8226 ""5450 Geary Boulevard [SEP]  San Francisco  CA"" Brian S.'s review of Hong Kong Loung",0
+"Gotham New York Bagels & Eats (608) 467-7642 ""112 E Mifflin St [SEP]  Madison  WI"" Good Food",0
+"Gotham New York Bagels & Eats (608) 467-7642 ""112 E Mifflin St [SEP]  Madison  WI"" Good Food",0
+"Granite City Food & Brewery (608) 829-0700 ""72 W Towne Mall [SEP]  Madison  WI"" Granite City Food & Brewery",1
+"Graze (608) 251-2700 ""1 S Pinckney Street [SEP]  Madison  WI"" Graze",1
+"Great India (415) 751-4433 ""6127 Geary Boulevard [SEP]  San Francisco  CA"" Brian S.'s review of Hong Kong Loung",0
+"Greenbush Bar (608) 257-2874 ""914 Regent St [SEP]  Madison  WI"" Greenbush Bar",1
+"Gumbo Pot (323) 933-0358 ""6333 W 3rd St [SEP]  Los Angeles  CA"" Thank U Pho",0
+"Gus's Diner (608) 318-0900 ""630 N Westmount Dr [SEP]  Sun Prairie  WI"" Guss Diner",1
+"H. Salt Esquire Fish & Chips (323) 667-2653 ""4732 Hollywood Blvd [SEP]  Los Angeles  CA"" Cho Oishi",0
+"H. Salt Esquire Fish & Chips (323) 667-2653 ""4732 Hollywood Blvd [SEP]  Los Angeles  CA"" Sapp Coffee Shop",0
+"Han 202 (312) 949-1314 ""605 W. 31st Street [SEP]  Chicago  IL"" Husky Hog BBQ",0
+"Harold's Chicken Shack (608) 819-8010 ""707 S. Gammon Rd [SEP]  Madison  WI"" Chang Jiang Chinese Restaurant",0
+"Harold's Chicken Shack (773) 252-2424 ""1361 N. Milwaukee Avenue [SEP]  Chicago  IL"" Pot Pan",0
+"Harvest (608) 255-6075 ""21 N Pinckney St [SEP]  Madison  WI"" Harvest",1
+"Hell's Kitchen (212) 977-1588 ""754 9th Avenue [SEP]  New York  NY"" Hells Kitchen",1
+"Hero Shop (213) 265-7561 ""130 E 6th St [SEP]  Los Angeles  CA"" Hae Jang Chon Korean BBQ Restaurant",0
+"Hero Shop (213) 265-7561 ""130 E 6th St [SEP]  Los Angeles  CA"" Soot Bull Jeep",0
+"Hero Shop (213) 265-7561 ""130 E 6th St [SEP]  Los Angeles  CA"" Sun Nong Dan",0
+"Hero Shop (213) 265-7561 ""130 E 6th St [SEP]  Los Angeles  CA"" Thank U Pho",0
+"Hero Shop (213) 265-7561 ""130 E 6th St [SEP]  Los Angeles  CA"" The Black Sheep",0
+"Hill and Bay (212) 245-5554 ""581 2nd Avenue [SEP]  New York  NY"" Ruay Thai",0
+"Honey B (415) 221-1668 ""2201 Clement Street [SEP]  San Francisco  CA"" Good Luck Dim Sum",0
+"Honey B (415) 221-1668 ""2201 Clement Street [SEP]  San Francisco  CA"" Phoenix Hotel",0
+"Hopwater Distribution 12347 ""850 Bush Street [SEP]  San Francisco  CA"" Hopwater Distribution",0
+"Hot Woks Cool Sushi (312) 345-1234 ""30 S. Michigan Avenue [SEP]  Chicago  IL"" Cherry Circle Room",0
+"Hot Woks Cool Sushi (312) 345-1234 ""30 S. Michigan Avenue [SEP]  Chicago  IL"" Potbelly Sandwich Shop",0
+"Ian's Pizza (608) 257-9248 ""100 State St [SEP]  Madison  WI"" Pita Pit",0
+"Immaculee II Haitian Restaurant & Bakery (718) 778-7188 ""1227 Nostrand Ave [SEP]  Brooklyn  NY"" Lucha Lucha",0
+"Ippudo (212) 388-0088 ""65 4th Avenue [SEP]  New York  NY"" Ippudo NY",1
+"Irish Pub (608) 256-6071 ""317 State St Ste A [SEP]  Madison  WI"" Naf Naf Grill",0
+"J.P. Graziano (312) 666-4587 ""901 W. Randolph Street [SEP]  Chicago  IL"" J.P. Graziano Grocery Co.",1
+"Jacks Stir (212) 647-0900 ""425 W 13th St [SEP]  New York  NY"" Chop Shop II",0
+"Jacks Stir (212) 647-0900 ""425 W 13th St [SEP]  New York  NY"" NTS News",0
+"Jade Garden (608) 260-9890 ""1109 S Park St [SEP]  Madison  WI"" Jade Garden",1
+"Jake Melnick's Corner Tap (312) 266-0400 ""41 E. Superior Street [SEP]  Chicago  IL"" Jake Melnicks Corner Tap",1
+"JD's (608) 444-1590 ""N Broom St & State St [SEP]  Madison  WI"" Jeremy K.'s review of Goodman's Jeweler",0
+"JD's (608) 444-1590 ""N Broom St & State St [SEP]  Madison  WI"" Kelly E.'s review of Urban Outfitter",0
+"Jeni's Splendid Ice Creams (614) 407-0687 ""1505 N. Milwaukee Avenue [SEP]  Chicago  IL"" Jenis Splendid Ice Creams",1
+"Jeni's Splendid Ice Creams (614) 407-0687 ""1505 N. Milwaukee Avenue [SEP]  Chicago  IL"" Pot Pan",0
+"Jimmy John's (608) 255-0301 ""527 State St [SEP]  Madison  WI"" Jim L.'s review of Parthenon Gyros Restauran",0
+"Jimmy John's (608) 255-0301 ""527 State St [SEP]  Madison  WI"" Jimmy Johns",1
+"Jimmy's Red Hots (773) 384-9513 ""4000 W. Grand Avenue [SEP]  Chicago  IL"" Chef Fredy Cuisine",0
+"Joey's Seafood & Grill (608) 829-0093 ""6604 Mineral Pt Rd [SEP]  Madison  WI"" North and South Seafood & Smokehouse",1
+"Jordan's Big Ten Pub (608) 251-6375 ""1330 Regent St [SEP]  Madison  WI"" Hong Kong Station",0
+"Julep 1247 ""827 E Washington Ave [SEP]  Madison  WI"" Hong Kong Buffet",0
+"Kabul Afghanistan Restaurant (608) 256-6322 ""540 State St [SEP]  Madison  WI"" Kabul Restaurant",1
+"KFC (608) 849-5004 ""600 W Main St [SEP]  Waunakee  WI"" KFC",1
+"Khan Toke Thai House (415) 668-6654 ""5937 Geary Boulevard [SEP]  San Francisco  CA"" K & G Jewelers",0
+"Khan Toke Thai House (415) 668-6654 ""5937 Geary Boulevard [SEP]  San Francisco  CA"" New World Market",0
+"Kit Kat Lounge and Supper Club (773) 525-1111 ""3700 N. Halsted Street [SEP]  Chicago  IL"" Karyns Fresh Corner Raw",0
+"Kit Kat Lounge and Supper Club (773) 525-1111 ""3700 N. Halsted Street [SEP]  Chicago  IL"" The Mid",0
+"Kuleto's (415) 397-7720 ""221 Powell Street [SEP]  San Francisco  CA"" Kuletos",1
+"L's Caffe (415) 206-0274 ""2871 24th Street [SEP]  San Francisco  CA"" Tortas Los Picudos",0
+"La Brioche (608) 233-3388 ""2862 University Ave [SEP]  Madison  WI"" Don the Car Care Man",0
+"La Brioche (608) 233-3388 ""2862 University Ave [SEP]  Madison  WI"" Great Harvest Bread Company",0
+"La Brioche (608) 233-3388 ""2862 University Ave [SEP]  Madison  WI"" L S.'s review of La Brioche True Foo",1
+"La Salsa Fresh Mexican Grill (310) 234-8338 ""10800 W Pico Blvd [SEP]  Los Angeles  CA"" Casa Chocolate",0
+"La Santaneca (415) 648-1034 ""3781 Mission Street [SEP]  San Francisco  CA"" La Oaxaquea",0
+"La Santaneca (415) 648-1034 ""3781 Mission Street [SEP]  San Francisco  CA"" La Taqueria",0
+"Lady M Cake Boutique (212) 452-2222 ""41 E 78th St [SEP]  New York  NY"" Chop Shop II",0
+"Lady M Cake Boutique (212) 452-2222 ""41 E 78th St [SEP]  New York  NY"" The Eddy",0
+"Lahore Karahi (415) 567-8603 ""612 O'Farrell Street [SEP]  San Francisco  CA"" Ken S.'s review of Sai Jai Thai Restauran",0
+"Lakeview Bakery and Deli (608) 250-2380 ""524 E. Wilson St. [SEP]  Madison  WI"" Lakeview Bakery and Deli",1
+"Lao Laan (608) 280-0104 ""1146 Williamson St [SEP]  Madison  WI"" Ha Long Bay Vietnamese & Thai Bistro",0
+"Lao Laan (608) 280-0104 ""1146 Williamson St [SEP]  Madison  WI"" Ha Long Bay Vietnamese & Thai Bistro",0
+"Lao Laan (608) 280-0104 ""1146 Williamson St [SEP]  Madison  WI"" Lao Laan",1
+"Lao Laan (608) 280-0104 ""1146 Williamson St [SEP]  Madison  WI"" Lazy Janes",0
+"Lao Laan (608) 280-0104 ""1146 Williamson St [SEP]  Madison  WI"" Plan B",0
+"Lao Laan (608) 280-0104 ""1146 Williamson St [SEP]  Madison  WI"" St Vincent De Paul Stores",0
+"Lao Laan Xang Restaurant (608) 819-0140 ""2098 Atwood Ave [SEP]  Madison  WI"" Lao Laan",1
+"Lao Laan Xang Restaurant (608) 819-0140 ""2098 Atwood Ave [SEP]  Madison  WI"" Tex Tubbs Taco Palace",0
+"Las Fuentes (773) 935-2004 ""2558 N. Halsted Street [SEP]  Chicago  IL"" Karyns Fresh Corner Raw",0
+"Layla's Persian Food (608) 216-4511 ""141 South Butler Street [SEP]  Madison  WI"" Laylas Persian Food",1
+"Leelin Bakery & Cafe (213) 382-2351 ""209 S Vermont Ave [SEP]  Los Angeles  CA"" Dok Dok Chicken",0
+"Liholiho Yacht Club (415) 440-5446 ""871 Sutter Street [SEP]  San Francisco  CA"" Liholiho Yacht Club",1
+"Lula Cafe (773) 489-9554 ""2537 N. Kedzie Boulevard [SEP]  Chicago  IL"" Lula Cafe",1
+"Mad City Frites (608) 204-6150 ""320 State St [SEP]  Madison  WI"" Mad City Crabhouse",0
+"Maharana (608) 246-8525 ""1707 Thierer Rd [SEP]  Madison  WI"" Maharaja Restaurant",1
+"MaMa Ji's (415) 626-4416 ""4415 18th Street [SEP]  San Francisco  CA"" MaMa Jis",1
+"Mamoun's Falafel (212) 674-8685 ""119 MacDougal Street [SEP]  New York  NY"" The Up & Up",0
+"Manna Cafe & Bakery (608) 663-5500 ""611 N Sherman Ave [SEP]  Madison  WI"" IGo VeGo",0
+"Manna Cafe & Bakery (608) 663-5500 ""611 N Sherman Ave [SEP]  Madison  WI"" Manna Cafe & Bakery",1
+"Manna Korean Restaurant (415) 665-5969 ""845 Irving Street [SEP]  San Francisco  CA"" Yummy Yummy",0
+"Manos Nouveau (415) 638-6109 ""3115 22nd Street [SEP]  San Francisco  CA"" Minas Brazilian Restaurant & Cachaaria",0
+"Marigold Kitchen (608) 661-5559 ""118 S Pinckney St [SEP]  Madison  WI"" Marigold Kitchen",1
+"Mariscos Jalisco (323) 528-6701 ""3040 E Olympic Blvd [SEP]  Los Angeles  CA"" Yu Chun Chic Naeng Myun",0
+"Marlowe (415) 777-1413 ""500 Brannan Street [SEP]  San Francisco  CA"" Marlowe",1
+"Marnee Thai (415) 665-9500 ""2225 Irving Street [SEP]  San Francisco  CA"" Yummy Yummy",0
+"Marrakesh Restaurant (608) 238-7111 ""5510 University Ave [SEP]  Madison  WI"" Marrakesh",1
+"Masa of Echo Park (213) 989-1558 ""1800 W Sunset Blvd [SEP]  Los Angeles  CA"" Ostrich Farm",0
+"Mazza Luna (415) 829-2730 ""810 S Van Ness Street [SEP]  San Francisco  CA"" Dim Sum Club",0
+"Mecca Supper Club (773) 775-1077 ""6666 N. Northwest Highway [SEP]  Chicago  IL"" Mecca Supper Club",1
+"Mediterranean Cafe (608) 251-8510 ""625 State St [SEP]  Madison  WI"" Naf Naf Grill",0
+"Men Oh (415) 386-8802 ""5120 Geary Boulevard [SEP]  San Francisco  CA"" New World Market",0
+"Metro Diner (212) 866-0800 ""2641 Broadway [SEP]  New York  NY"" Met Photo",0
+"Mickey's Tavern (608) 251-9964 ""1524 Williamson St [SEP]  Madison  WI"" Ricks Olde Gold",0
+"Milan's Restaurant (718) 788-7384 ""710 5th Avenue [SEP]  Brooklyn  NY"" Milan Restaurant",1
+"Milio's Sandwiches (608) 301-9999 ""5534 Eastpark Blvd [SEP]  Madison  WI"" Milios Sandwiches",1
+"Mom's Old Recipe (773) 467-1009 ""5760 N. Milwaukee Avenue [SEP]  Chicago  IL"" Angie M.'s review of Small Cheva",0
+"Mom's Old Recipe (773) 467-1009 ""5760 N. Milwaukee Avenue [SEP]  Chicago  IL"" Pot Pan",0
+"Mooyah (855) 666-9247 ""6309 McKee Rd [SEP]  Fitchburg  WI"" ""MOOYAH Burgers",1
+"Mr. Pizza (213) 625-0077 ""350 E 1st St [SEP]  Los Angeles  CA"" Men Oh Tokushima Ramen",0
+"Mullen's on Clark (773) 325-2319 ""3527 N. Clark Street [SEP]  Chicago  IL"" Clark St. Ale House",0
+"Nacional 27 (312) 664-2727 ""325 W. Huron Street [SEP]  Chicago  IL"" Nacional 27",1
+"Nana (312) 929-2486 ""3267 S. Halsted Street [SEP]  Chicago  IL"" South Kawa",0
+"Natsumi Bar And Lounge (212) 258-2988 ""226 W 50th Street [SEP]  New York  NY"" Chris A.'s review of Arts and Crafts Beer Parlo",0
+"Nature's Bakery Cooperative (608) 257-3649 ""1019 Williamson St [SEP]  Madison  WI"" Lao Laan",0
+"Nature's Bakery Cooperative (608) 257-3649 ""1019 Williamson St [SEP]  Madison  WI"" Lao Laan",0
+"Nature's Bakery Cooperative (608) 257-3649 ""1019 Williamson St [SEP]  Madison  WI"" Ricks Olde Gold",0
+"New Fortune Dim Sum And Cafe (415) 399-1511 ""811 Stockton Street [SEP]  San Francisco  CA"" New Golden Daisy",0
+"New Orient House (608) 250-8880 ""626 S. Park St [SEP]  Madison  WI"" Oriental Wok",0
+"Nick's Pit Stop (773) 342-9736 ""2023 N. Damen Avenue [SEP]  Chicago  IL"" Nicks Pit Stop",1
+"Noodles & Company (608) 829-0202 ""7050 Mineral Point Rd [SEP]  Madison  WI"" Noodles & Company",1
+"Nori (773) 292-9992 ""1393 N. Milwaukee Avenue [SEP]  Chicago  IL"" Pork & Mindys",0
+"North Beach Pizza (415) 433-2444 ""1462 Grant Avenue [SEP]  San Francisco  CA"" Hong Kong Clay Pot Restaurant",0
+"Novela (415) 896-6500 ""662 Mission Street [SEP]  San Francisco  CA"" Super Duper Burgers",0
+"Oakcrest Tavern (608) 233-1243 ""5371 Old Middleton Rd [SEP]  Madison  WI"" Oakcrest Tavern",1
+"Oriental Garden (212) 619-0085 ""14 Elizabeth Street [SEP]  New York  NY"" Siggys Good Food",0
+"Oriental Wok (608) 255-1288 ""532 S Park St [SEP]  Madison  WI"" Orient House",0
+"Original Pancake House (608) 222-1137 ""518 River Pl [SEP]  Monona  WI"" Original Pancake House",1
+"Original Pancake House (608) 231-3666 ""5518 University Ave [SEP]  Madison  WI"" Great Harvest Bread Company",0
+"Original Pancake House (608) 231-3666 ""5518 University Ave [SEP]  Madison  WI"" Original Pancake House",1
+"Otto's Tacos (646) 678-4018 ""141 2nd Avenue [SEP]  New York  NY"" Lan Larb",0
+"Paciugo (773) 248-8433 ""3241 N. Broadway Street [SEP]  Chicago  IL"" Ping Pong",0
+"Pakwan (415) 255-2440 ""3182 16th Street [SEP]  San Francisco  CA"" Pakwan Restaurant",1
+"Palermo Ristorante Italiano (323) 663-1178 ""1858 N Vermont Ave [SEP]  Los Angeles  CA"" Dok Dok Chicken",0
+"Palmyra Mediterranean Grill 1245 ""419 State St [SEP]  Madison  WI"" Alan Koa Salon & Spa",0
+"Palmyra Mediterranean Grill 1245 ""419 State St [SEP]  Madison  WI"" Palmyra Mediterranean Grill",1
+"Palmyra Mediterranean Grill 1245 ""419 State St [SEP]  Madison  WI"" Palmyra Mediterranean Grill",1
+"Palmyra Mediterranean Grill 1245 ""419 State St [SEP]  Madison  WI"" Soga Shabu Shabu",0
+"Palmyra Mediterranean Grill 1245 ""419 State St [SEP]  Madison  WI"" Which Wich",0
+"Pampas Grill (323) 931-1928 ""6333 W 3rd St [SEP]  Los Angeles  CA"" Son of a Gun",1
+"Pampas Grill (323) 931-1928 ""6333 W 3rd St [SEP]  Los Angeles  CA"" Spear Steak & Seafood House",0
+"Pampas Grill (323) 931-1928 ""6333 W 3rd St [SEP]  Los Angeles  CA"" Sun Nong Dan",0
+"Pampas Grill (323) 931-1928 ""6333 W 3rd St [SEP]  Los Angeles  CA"" Yang San Bak",0
+"Pancake Cafe (608) 204-7040 ""6220 Nesbitt Rd Ste B [SEP]  Fitchburg  WI"" Ten Pin Alley",0
+"Paradise Lounge (608) 256-2263 ""119 W Main St [SEP]  Madison  WI"" Good Food",0
+"Paradise Lounge (608) 256-2263 ""119 W Main St [SEP]  Madison  WI"" The Paradise Lounge",1
+"Parthenon Gyros Restaurant (608) 251-6311 ""316 State St [SEP]  Madison  WI"" Casa de Lara",0
+"Parthenon Gyros Restaurant (608) 251-6311 ""316 State St [SEP]  Madison  WI"" Naf Naf Grill",0
+"Parthenon Gyros Restaurant (608) 251-6311 ""316 State St [SEP]  Madison  WI"" Pantheon Bar",1
+"Parthenon Gyros Restaurant (608) 251-6311 ""316 State St [SEP]  Madison  WI"" Which Wich",0
+"Pho Nam (608) 836-7040 ""610 Junction Rd Suite 109 [SEP]  Madison  WI"" Capriottis Sandwich Shop",0
+"Pho Nam (608) 836-7040 ""610 Junction Rd Suite 109 [SEP]  Madison  WI"" Pho Nam Noodle House",1
+"Pisco Latin Lounge (415) 874-9951 ""1817 Market Street [SEP]  San Francisco  CA"" Super Duper Burgers",0
+"Pizza Capri (312) 280-5700 ""1733 N. Halsted Street [SEP]  Chicago  IL"" Sapori Trattoria",0
+"Pizza Hut (608) 467-0588 ""520 S Park St [SEP]  Madison  WI"" Pizza Hut",1
+"Pizza Pit Extreme (608) 833-3344 ""6628 Odana Rd [SEP]  Madison  WI"" Pizza Pit Extreme",1
+"Pizza Pit Extreme (608) 833-3344 ""6628 Odana Rd [SEP]  Madison  WI"" VIP",0
+"Pizzarito (310) 823-7333 ""4371 Glencoe Ave B-7 [SEP]  Marina Del Rey  CA"" Pizzarito New York Pizza By the Slice",1
+"Plaza Tavern & Grill (608) 255-6592 ""319 N Henry St [SEP]  Madison  WI"" The Plaza Tavern",1
+"Pomp & Circumstance (312) 951-7667 ""1400 N. Wells Street [SEP]  Chicago  IL"" Pomp & Circumstance",1
+"Porta Bella (608) 256-3186 ""425 N Frances St [SEP]  Madison  WI"" Porta Bella",1
+"Porteno (212) 695-9694 ""299 Tenth Avenue [SEP]  New York  NY"" Porteno Restaurant",1
+"Prado (323) 467-3871 ""244 North Larchmont Boulevard [SEP]  Los Angeles  CA"" Prado Restaurant",1
+"Prune (212) 677-6221 ""54 E 1st Street [SEP]  New York  NY"" Cup & Cup",0
+"Qdoba Mexican Grill (608) 280-8720 ""548 State St [SEP]  Madison  WI"" Casa de Lara",0
+"Quaker Steak & Lube (608) 831-5823 ""2259 Deming Way [SEP]  Middleton  WI"" Ruths Chris Steak House",0
+"Quickly (415) 665-3090 ""2116 Irving Street [SEP]  San Francisco  CA"" Yummy Yummy",0
+"Quivey's Grove (608) 273-4900 ""6261 Nesbitt Rd [SEP]  Fitchburg  WI"" Nina O.'s review of Ten Pin Alle",0
+"Ramen Hayatemaru (310) 212-0055 ""11678 W Olympic Blvd [SEP]  Los Angeles  CA"" Gam Ja Gol",0
+"Ramen Hayatemaru (310) 212-0055 ""11678 W Olympic Blvd [SEP]  Los Angeles  CA"" Yu Chun Chic Naeng Myun",0
+"Ramen Takeya (312) 666-7710 ""819 W. Fulton Market [SEP]  Chicago  IL"" Ramen Takeya",1
+"Rin's (415) 821-4776 ""4301 24th Street [SEP]  San Francisco  CA"" Minas Brazilian Restaurant & Cachaaria",0
+"Rio Grande (608) 877-0160 ""524 W Main St [SEP]  Stoughton  WI"" El Rio Grande",1
+"Rio Grande (608) 877-0160 ""524 W Main St [SEP]  Stoughton  WI"" Elsings 2nd Hand Shop",0
+"Rising Sons (608) 661-4334 ""617 State St [SEP]  Madison  WI"" Naf Naf Grill",0
+"Roam Artisan Burgers (415) 440-7626 ""1785 Union Street [SEP]  San Francisco  CA"" Umami Burger",0
+"Roast Public House (608) 260-0088 ""529 State St [SEP]  Madison  WI"" Alan Koa Salon & Spa",0
+"Roast Public House (608) 260-0088 ""529 State St [SEP]  Madison  WI"" Casa de Lara",0
+"Roka Akor (312) 477-7652 ""456 N. Clark Street [SEP]  Chicago  IL"" Ora",0
+"Rolling Pin Bake Shop (608) 270-9611 ""2935 S Fish Hatchery Rd [SEP]  Fitchburg  WI"" Chang Jiang",0
+"Rosamunde Sausage Grill (415) 437-6851 ""545 Haight Street [SEP]  San Francisco  CA"" Cha Cha Cha",0
+"Rosie's Main Tap Incorporated (608) 835-3330 ""121 S Main St [SEP]  Oregon  WI"" Aces Main Tap",1
+"Rosie's Main Tap Incorporated (608) 835-3330 ""121 S Main St [SEP]  Oregon  WI"" Ming Moon",0
+"RP Adler's Pub & Grill (608) 828-1250 ""8202 Watts Rd [SEP]  Madison  WI"" RP Adlers",1
+"Ruay Thai Restaurant (212) 545-7829 ""625 Second Avenue [SEP]  New York  NY  NY""",1
+"Ruth's Chris Steak House (608) 828-7884 ""2137 Deming Way [SEP]  Middleton  WI"" Quaker Steak & Lube",0
+"Ruth's Chris Steak House (608) 828-7884 ""2137 Deming Way [SEP]  Middleton  WI"" Which Wich",0
+"Sa Bai Thong (608) 238-3100 ""2840 University Ave [SEP]  Madison  WI"" BJs Kolaches",0
+"Saigon Sandwich (415) 474-5698 ""560 Larkin Street [SEP]  San Francisco  CA"" Saigon Sandwich",1
+"Samba Grill Cafe (213) 749-0260 ""735 E 12th St [SEP]  Los Angeles  CA"" BAR Ama",0
+"Samba Grill Cafe (213) 749-0260 ""735 E 12th St [SEP]  Los Angeles  CA"" Sun Nong Dan",0
+"Samba Grill Cafe (213) 749-0260 ""735 E 12th St [SEP]  Los Angeles  CA"" Yang San Bak",0
+"Sardine (608) 441-1600 ""617 Williamson St [SEP]  Madison  WI"" Ricks Olde Gold",0
+"Sardine (608) 441-1600 ""617 Williamson St [SEP]  Madison  WI"" Sali C.'s review of Lao Laan",0
+"Sardine (608) 441-1600 ""617 Williamson St [SEP]  Madison  WI"" Sardine",1
+"Sarku Japan (608) 833-8808 ""111 W Towne Mall [SEP]  Madison  WI"" Sarku Japan",1
+"Sarku Japan (608) 833-8808 ""111 W Towne Mall [SEP]  Madison  WI"" Sarku Japan",0
+"Semiramis (773) 279-8900 ""4639 N. Kedzie Avenue [SEP]  Chicago  IL"" J J Fish",0
+"Shallots Bistro (847) 677-3463 ""7016 Carpenter Road [SEP]  Skokie  IL"" Shallots Bistro",1
+"Silly Yak Bakery (608) 833-5965 ""7866 Mineral Point Road [SEP]  Madison  WI"" North and South Seafood & Smokehouse",0
+"Slide Food Cart (608) 630-4824 ""711 State St [SEP]  Madison  WI"" Alan Koa Salon & Spa",0
+"Son of a Gun Restaurant (323) 782-9033 ""8370 W 3rd St [SEP]  Los Angeles  CA"" Au Lac DTLA",0
+"Son of a Gun Restaurant (323) 782-9033 ""8370 W 3rd St [SEP]  Los Angeles  CA"" Barrel Down",0
+"Son of a Gun Restaurant (323) 782-9033 ""8370 W 3rd St [SEP]  Los Angeles  CA"" Chunju Han",0
+"Son of a Gun Restaurant (323) 782-9033 ""8370 W 3rd St [SEP]  Los Angeles  CA"" Dan Sung Sa",0
+"Son of a Gun Restaurant (323) 782-9033 ""8370 W 3rd St [SEP]  Los Angeles  CA"" El Carmen",0
+"Son of a Gun Restaurant (323) 782-9033 ""8370 W 3rd St [SEP]  Los Angeles  CA"" Han Bat Sul Lung Tang",0
+"Son of a Gun Restaurant (323) 782-9033 ""8370 W 3rd St [SEP]  Los Angeles  CA"" Jun Won Restaurant",0
+"Son of a Gun Restaurant (323) 782-9033 ""8370 W 3rd St [SEP]  Los Angeles  CA"" Sixth St Tavern",0
+"Son of a Gun Restaurant (323) 782-9033 ""8370 W 3rd St [SEP]  Los Angeles  CA"" Wood Spoon",0
+"Sotto Mare (415) 398-3181 ""552 Green Street [SEP]  San Francisco  CA"" Sotto Mare",1
+"Spur Tree Lounge (212) 477-9977 ""74 Orchard Street [SEP]  New York  NY"" Black Tree",0
+"St. Mary's Pub (415) 529-1325 ""3845 Mission Street [SEP]  San Francisco  CA"" Club Puertorriqueno De San Francisco",0
+"St. Vincent (415) 285-1200 ""1270 Valencia Street [SEP]  San Francisco  CA"" Pica Pica Arepa Kitchen",0
+"State Street Brats (608) 255-5544 ""603 State St [SEP]  Madison  WI"" Casa de Lara",0
+"State Street Brats (608) 255-5544 ""603 State St [SEP]  Madison  WI"" Four Star Video Cooperative",0
+"State Street Brats (608) 255-5544 ""603 State St [SEP]  Madison  WI"" Tutto Pasta State Street",0
+"Steak Escape (608) 833-9771 ""118 W Towne Mall [SEP]  Madison  WI"" Steak Escape",1
+"Stout Restaurant & Bar (212) 629-6191 ""133 W 33rd Street [SEP]  New York  NY"" Kopi Kopi NYC",0
+"Subway (608) 441-6887 ""2850 University Ave [SEP]  Madison  WI"" Don the Car Care Man",0
+"Subway (608) 441-6887 ""2850 University Ave [SEP]  Madison  WI"" Great Harvest Bread Company",0
+"Subway (608) 441-6887 ""2850 University Ave [SEP]  Madison  WI"" Subway",1
+"Supply House (646) 861-3585 ""1647 2nd Avenue [SEP]  New York  NY"" Lan Larb",0
+"Sushi Boat (415) 781-5111 ""389 Geary Street [SEP]  San Francisco  CA"" Hong Kong Lounge II",0
+"Sushi Boat (415) 781-5111 ""389 Geary Street [SEP]  San Francisco  CA"" San Dong Best",0
+"Sushi Express (608) 467-9688 ""610 University Ave [SEP]  Madison  WI"" Don the Car Care Man",0
+"Sushi Express (608) 467-9688 ""610 University Ave [SEP]  Madison  WI"" Great Harvest Bread Company",0
+"Sushi Komasa (213) 680-1792 ""351 E 2nd St [SEP]  Los Angeles  CA"" Son of a Gun",0
+"Suwanasak Thai Cuisine (608) 270-4440 ""811 S. Gammon Rd. [SEP]  Madison  WI"" Chang Jiang",0
+"Suwanasak Thai Cuisine (608) 270-4440 ""811 S. Gammon Rd. [SEP]  Madison  WI"" Chang Jiang Chinese Restaurant",0
+"Swagat Restaurant (608) 836-9399 ""707 N High Point Rd [SEP]  Madison  WI"" Swagat",1
+"Swagat Restaurant (608) 836-9399 ""707 N High Point Rd [SEP]  Madison  WI"" Swagat Indian Restaurant",1
+"Sweet Maple (415) 655-9169 ""2101 Sutter Street [SEP]  San Francisco  CA"" Sweet Maple",1
+"Sweet Maple (415) 655-9169 ""2101 Sutter Street [SEP]  San Francisco  CA"" Sweet Maple",1
+"Taco Bell (608) 249-7312 ""4120 E Washington Ave [SEP]  Madison  WI"" Ellas Deli",0
+"Taco in a Bag (773) 954-2114 ""4703 N. Lincoln Avenue [SEP]  Chicago  IL"" Via Lima",0
+"Taqueria Los Comales (773) 276-0627 ""2148 N. Milwaukee Avenue [SEP]  Chicago  IL"" Pot Pan",0
+"Teddywedgers (608) 230-5360 ""101 State St [SEP]  Madison  WI"" Alan Koa Salon & Spa",0
+"Teddywedgers (608) 230-5360 ""101 State St [SEP]  Madison  WI"" Naf Naf Grill",0
+"Teddywedgers (608) 230-5360 ""101 State St [SEP]  Madison  WI"" Pita Pit",0
+"Tehuitzingo (212) 397-5956 ""695 10th Avenue [SEP]  New York  NY"" Pio Pio",0
+"Teriyaki Sushi Express (608) 271-4000 ""3044 Fish Hatchery Rd [SEP]  Fitchburg  WI"" Chang Jiang",0
+"Teriyaki Sushi Express (608) 271-4000 ""3044 Fish Hatchery Rd [SEP]  Fitchburg  WI"" Teriyaki Sushi Express",1
+"Thai Noodles (608) 270-9527 ""5957 Mckee Rd [SEP]  Fitchburg  WI"" Thai Noodles",1
+"The Briks (213) 746-7766 ""1111 S Hope St [SEP]  Los Angeles  CA"" Beau Ideal House of Beauty",0
+"The Buena Vista (415) 474-5044 ""2765 Hyde Street [SEP]  San Francisco  CA"" Buena Vista Cafe",1
+"The Counter (213) 228-7800 ""725 W 7th St [SEP]  Los Angeles  CA"" Beau Ideal House of Beauty",0
+"The Counter (213) 228-7800 ""725 W 7th St [SEP]  Los Angeles  CA"" Spear Steak & Seafood House",0
+"The Cricketers Arms (212) 619-5550 ""57 Murray Street [SEP]  New York  NY"" Shake Shack",0
+"The Edison (213) 613-0000 ""108 W 2nd St [SEP]  Los Angeles  CA"" Son of a Gun",0
+"The Escondite (213) 626-1800 ""410 Boyd St [SEP]  Los Angeles  CA"" Beau Ideal House of Beauty",0
+"The Escondite (213) 626-1800 ""410 Boyd St [SEP]  Los Angeles  CA"" Son of a Gun",0
+"The Green Owl Cafe (608) 285-5290 ""1970 Atwood Ave [SEP]  Madison  WI"" Lao Laan",0
+"The Green Owl Cafe (608) 285-5290 ""1970 Atwood Ave [SEP]  Madison  WI"" The Green Owl",1
+"The Little Door (323) 951-1210 ""8164 W 3rd St [SEP]  Los Angeles  CA"" Jack N Jills Too",0
+"The Little Door (323) 951-1210 ""8164 W 3rd St [SEP]  Los Angeles  CA"" Kang Ho Dong Baekjeong",0
+"The Little Door (323) 951-1210 ""8164 W 3rd St [SEP]  Los Angeles  CA"" Men Oh Tokushima Ramen",0
+"The Little Door (323) 951-1210 ""8164 W 3rd St [SEP]  Los Angeles  CA"" Spear Steak & Seafood House",0
+"The Little Door (323) 951-1210 ""8164 W 3rd St [SEP]  Los Angeles  CA"" Sun Nong Dan",0
+"The Little Door (323) 951-1210 ""8164 W 3rd St [SEP]  Los Angeles  CA"" The Little Easy",0
+"The Little Owl (212) 741-4695 ""90 Bedford Street [SEP]  New York  NY"" The Little Owl",1
+"The Meatball Shop (212) 257-6121 ""1462 2nd Avenue [SEP]  New York  NY"" Lan Larb",0
+"The Nitty Gritty (608) 251-2521 ""223 N Frances St [SEP]  Madison  WI"" Dotty Dumplings Dowry",0
+"The Old Fashioned (608) 310-4545 ""23 N Pinckney St [SEP]  Madison  WI"" The Old Fashioned",1
+"The Pastry Cupboard (415) 864-2755 ""1596 Market Street [SEP]  San Francisco  CA"" Pasta Moto",0
+"The Pastry Cupboard (415) 864-2755 ""1596 Market Street [SEP]  San Francisco  CA"" Super Duper Burgers",0
+"The Publican (312) 733-9555 ""837 W. Fulton Market [SEP]  Chicago  IL"" The Publican",1
+"The Taco Shop (608) 250-8226 ""604 University Ave [SEP]  Madison  WI"" The Taco Bros",1
+"The Victory Madison (608) 240-0366 ""2710 Atwood Ave [SEP]  Madison  WI"" Lao Laan",0
+"The Victory Madison (608) 240-0366 ""2710 Atwood Ave [SEP]  Madison  WI"" Lao Laan",0
+"Three Dots and a Dash (312) 610-4200 ""435 N. Clark Street [SEP]  Chicago  IL"" Bill D.'s review of Chez Delisay Cajun Cuisin",0
+"Tinga (323) 954-9566 ""142 S La Brea [SEP]  Los Angeles  CA"" Tinga",1
+"Tokyo Express (608) 280-8338 ""617 State St [SEP]  Madison  WI"" Tokyo Express",1
+"Tommy's Mexican (415) 387-4747 ""5929 Geary Boulevard [SEP]  San Francisco  CA"" Colibri Mexican Bistro",0
+"Tony Maroni's Famous Gourmet (310) 966-5050 ""11645 Wilshire Blvd [SEP]  Los Angeles  CA"" BCD Tofu House",0
+"Tous Les Jours (212) 967-9661 ""31 West 32nd Street [SEP]  New York  NY"" St. Thomas Church Fifth Avenue",0
+"True Coffee Roasters (608) 277-1455 ""6250 Nesbitt Rd [SEP]  Fitchburg  WI"" Ten Pin Alley",0
+"Tuba (415) 826-8822 ""1007 Guerrero Street [SEP]  San Francisco  CA"" Tuba",1
+"Tuba (415) 826-8822 ""1007 Guerrero Street [SEP]  San Francisco  CA"" Tuba",1
+"Umami Food Cart (608) 819-6319 ""700 State St [SEP]  Madison  WI"" Alan Koa Salon & Spa",0
+"Umami Food Cart (608) 819-6319 ""700 State St [SEP]  Madison  WI"" Casa de Lara",0
+"Umami Ramen & Dumpling Bar (608) 819-6319 ""923 Williamson St. [SEP]  Madison  WI"" Lao Laan",0
+"Umami Ramen & Dumpling Bar (608) 819-6319 ""923 Williamson St. [SEP]  Madison  WI"" Ricks Olde Gold",0
+"Vee Vee's (773) 465-2424 ""6232 N. Broadway Street [SEP]  Chicago  IL"" Ping Pong",0
+"Via Lima (773) 348-4900 ""4024 N. Lincoln Avenue [SEP]  Chicago  IL"" Big Bricks",0
+"Vibe (213) 268-9948 ""721 S Western Ave [SEP]  Los Angeles  CA"" The Vape Shop",0
+"Villa Dolce (608) 833-0033 ""1828 Parmenter St [SEP]  Middleton  WI"" Villa Dolce",1
+"Village Pizzeria (323) 465-5566 ""131 N Larchmont Blvd [SEP]  Los Angeles  CA"" Larchmont Village Wine Spirits & Cheese",0
+"Vinoteque on Melrose (310) 860-6060 ""7469 Melrose Ave [SEP]  Los Angeles  CA"" Franco On Melrose",0
+"Vinoteque on Melrose (310) 860-6060 ""7469 Melrose Ave [SEP]  Los Angeles  CA"" Vinoteque On Melrose",1
+"Wasabi Japanese Restaurant (608) 255-5020 ""449 State St Ste 2G [SEP]  Madison  WI"" Casa de Lara",0
+"Wasabi Japanese Restaurant (608) 255-5020 ""449 State St Ste 2G [SEP]  Madison  WI"" Naf Naf Grill",0
+"Watertower Chop House (608) 318-1857 ""109 W Main St [SEP]  Sun Prairie  WI"" Chang Jiang",0
+"Waypoint Public House (608) 222-3900 ""320 W Broadway [SEP]  Madison  WI"" Waypoint Public House",1
+"Weary Traveler Freehouse (608) 442-6207 ""1201 Williamson St [SEP]  Madison  WI"" Lao Laan",0
+"Weary Traveler Freehouse (608) 442-6207 ""1201 Williamson St [SEP]  Madison  WI"" Ricks Olde Gold",0
+"Wildberry Pancakes & Cafe (312) 938-9777 ""130 E. Randolph Street [SEP]  Chicago  IL"" Wildberry Pancakes and Cafe",1
+"Willalby's Cafe (608) 259-9032 ""1351 Williamson St [SEP]  Madison  WI"" Sali C.'s review of Lao Laan",0
+"Wings Over Madison (608) 467-3300 ""2739 University Ave [SEP]  Madison  WI"" Don the Car Care Man",0
+"Wings Over Madison (608) 467-3300 ""2739 University Ave [SEP]  Madison  WI"" Great Harvest Bread Company",0
+"Winton Deli (510) 786-2444 ""2042 W Winton Avenue [SEP]  Hayward  CA"" Winton Deli Cafe",1
+"Woodhouse Fish Company (415) 437-2722 ""2073 Market Street [SEP]  San Francisco  CA"" The Hot Spot",0
+"Yang Chow (213) 625-0811 ""819 N Broadway [SEP]  Los Angeles  CA"" The Heights Deli & Bottle Shop",0
+"Yu Chun Chic Naeng Myun (213) 382-3815 ""3185 W Olympic Blvd [SEP]  Los Angeles  CA"" Gam Ja Gol",0
+"Yu Chun Chic Naeng Myun (213) 382-3815 ""3185 W Olympic Blvd [SEP]  Los Angeles  CA"" Yu Chun Chic Naeng Myun",1
+"Yum Yum Bangkok (212) 262-7244 ""650 9th Avenue [SEP]  New York  NY"" At nine Restaurant & Bar",0
+"Yum Yum Bangkok (212) 262-7244 ""650 9th Avenue [SEP]  New York  NY"" Riposo 46",0
+"Zuzu Cafe (608) 260-9898 ""1336 Drake St [SEP]  Madison  WI"" ZuZu Cafe & Market",1

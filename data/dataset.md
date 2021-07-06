@@ -1,0 +1,14 @@
+### datasets
+- ab: Abt-Buy
+- wa1: Walmart-Amazon
+- ds: DBLP-Scholar
+- da: DBLP-ACM
+- fz: Fodors-Zagats
+- dzy: Zomato-Yelp
+- ia: iTunes-Amazon
+- ri: RottenTomatoes-IMDB
+- b2: Books2
+- computers: WDC-Computers
+- cameras: WDC-Cameras
+- watches: WDC-Watches
+- shoes: WDC-Shoes

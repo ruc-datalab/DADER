@@ -1,0 +1,7 @@
+pandas==1.1.5
+demjson==2.2.4
+scipy==1.5.4
+numpy==1.19.5
+transformers==4.6.1
+jieba==0.42.1
+scikit_learn==0.24.2
