@@ -31,7 +31,7 @@ def parse_arguments():
     parser.add_argument('--seed', type=int, default=42,
                         help="Specify random state")
 
-    parser.add_argument('--train_seed', type=int, default=3000,
+    parser.add_argument('--train_seed', type=int, default=42,
                         help="Specify random state")
 
     parser.add_argument('--load', default=False, action='store_true',
@@ -92,7 +92,7 @@ def main():
     print("max_seq_length: " + str(args.max_seq_length))
     print("batch_size: " + str(args.batch_size))
     print("num_epochs: " + str(args.num_epochs))
-    print("reverse weight: " + str(args.alpha))
+    print("gradient reverse weight: " + str(args.alpha))
     print("domain loss weight: " + str(args.beta))
     print("temperature: " + str(args.temperature))
     set_seed(args.train_seed)
@@ -101,7 +101,6 @@ def main():
 
     # preprocess data
     print("=== Processing datasets ===")
-
     src_x, src_y = CSV2Array(os.path.join('../data', args.src, args.src + '.csv'))
 
     tgt_x, tgt_y = CSV2Array(os.path.join('../data', args.tgt, args.tgt + '.csv'))
@@ -124,23 +123,24 @@ def main():
     # load models
     if args.model == 'bert':
         src_encoder = BertEncoder()
+        tgt_encoder = BertEncoder()
         src_classifier = BertClassifier()
     dom_classifier = DomainClassifier()
     if args.load:
-        src_encoder = init_model(args, src_encoder, restore=param.src_encoder_path)
-        src_classifier = init_model(args, src_classifier, restore=param.src_classifier_path)
-        dom_classifier = init_model(args, dom_classifier, restore=param.d_model_path)
+        src_encoder = init_model(args, src_encoder, restore=param.src_encoder_path+'grlbestmodel')
+        src_classifier = init_model(args, src_classifier, restore=param.src_classifier_path+'grlbestmodel')
+        dom_classifier = init_model(args, dom_classifier, restore=param.d_model_path+'grlbestmodel')
     else:
         src_encoder = init_model(args, src_encoder)
-        src_classifier = init_model(args, src_classifier)
+        src_classifier = init_model(args, src_classifier) 
         dom_classifier = init_model(args, dom_classifier)
-
+    
     # train source model
     print("=== Training classifier for source domain ===")
     src_encoder, src_classifier,bestf1 = train(args, src_encoder, src_classifier, dom_classifier,src_data_loader, tgt_data_train_loader, tgt_data_valid_loader) 
     print("=== Result of GRL: ===")
     print(bestf1)
 
+
 if __name__ == '__main__':
     main()
-

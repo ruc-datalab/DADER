@@ -121,8 +121,8 @@ def main():
         src_encoder = BertEncoder()
         src_classifier = BertClassifier()
     if args.load:
-        src_encoder = init_model(args, src_encoder, restore=param.src_encoder_path+'bestmodel')
-        src_classifier = init_model(args, src_classifier, restore=param.src_classifier_path+'bestmodel')
+        src_encoder = init_model(args, src_encoder, restore=param.src_encoder_path+'mmdbestmodel')
+        src_classifier = init_model(args, src_classifier, restore=param.src_classifier_path+'mmdbestmodel')
     else:
         src_encoder = init_model(args, src_encoder)
         src_classifier = init_model(args, src_classifier)

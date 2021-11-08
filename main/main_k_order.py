@@ -1,7 +1,7 @@
 import sys
 sys.path.append("../")
 import param
-from train.adapt_coral import train, evaluate
+from train.adapt_k_order import train, evaluate
 from modules.extractor import BertEncoder
 from modules.matcher import BertClassifier
 from utils import CSV2Array, convert_examples_to_features, get_data_loader, init_model, save_model
@@ -92,7 +92,7 @@ def main():
     print("batch_size: " + str(args.batch_size))
     print("num_epochs: " + str(args.num_epochs))
     print("cls loss weight: " + str(args.alpha))
-    print("mmd loss weight: " + str(args.beta))
+    print("k-order loss weight: " + str(args.beta))
     print("temperature: " + str(args.temperature))
     set_seed(args.train_seed)
 
@@ -100,12 +100,10 @@ def main():
 
     # preprocess data
     print("=== Processing datasets ===")
- 
     src_x, src_y = CSV2Array(os.path.join('../data', args.src, args.src + '.csv'))
+
     tgt_x, tgt_y = CSV2Array(os.path.join('../data', args.tgt, args.tgt + '.csv'))
-    
-    tgt_valid_x, tgt_valid_y = CSV2Array(os.path.join('../data', args.tgt, args.tgt + '.csv'))
-    
+
     tgt_train_x, tgt_valid_x, tgt_train_y, tgt_valid_y = train_test_split(tgt_x, tgt_y,
                                                                         test_size=0.1,
                                                                         stratify=tgt_y,
@@ -124,20 +122,21 @@ def main():
     # load models
     if args.model == 'bert':
         src_encoder = BertEncoder()
+        tgt_encoder = BertEncoder()
         src_classifier = BertClassifier()
 
     if args.load:
-        src_encoder = init_model(args, src_encoder, restore=param.src_encoder_path+'bestmodel')
-        src_classifier = init_model(args, src_classifier, restore=param.src_classifier_path+'bestmodel')
+        src_encoder = init_model(args, src_encoder, restore=param.src_encoder_path+'korderbestmodel')
+        src_classifier = init_model(args, src_classifier, restore=param.src_classifier_path+'korderbestmodel')
     else:
         src_encoder = init_model(args, src_encoder)
         src_classifier = init_model(args, src_classifier)
     
     # train source model
     print("=== Training classifier for source domain ===")
-    src_encoder, src_classifier, best_res = train(args, src_encoder, src_classifier, src_data_loader, tgt_data_train_loader, tgt_data_valid_loader) 
-    #evaluate(args,src_encoder, src_classifier, tgt_data_train_loader, None, pattern=10000)
+    src_encoder, src_classifier,bestf1 = train(args, src_encoder, src_classifier, src_data_loader, tgt_data_train_loader, tgt_data_valid_loader)
     print("=== Result of k-order: ===")
-    print(best_res)
+    print(best_res) 
+
 if __name__ == '__main__':
     main()

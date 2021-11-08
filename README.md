@@ -17,10 +17,16 @@ Step 2: Run
 -    `  cd main`
 
 Run the main function and indicate source data and target data:
--    ` python main_[mmd/k-order/grl/invgan/invgan_kd/ed/noda].py --src [source data] --tgt [target data]`
+-    ` python main_[mmd/k_order/grl/invgan/invgan_kd/ed/noda].py --src [source data] --tgt [target data]`
 
 An example:
 -    ` python main_invgan_kd.py --src b2 --tgt fz`
+
+## Scripts
+We provide scripts to run baseline and six methods in "scripts/":
+
+-    `  cd scripts`
+-    `  bash [mmd/k_order/grl/invgan/invgan_kd/ed/noda].sh`
 
 #### This repository contains the implementation code of six representative methods of DADER: MMD, K-order, GRL, InvGAN, InvGAN+KD, ED.
 - Folder "modules/" contains the implementation of three component: Feature Extractor, Feature Alignment, Matcher.
@@ -28,3 +34,4 @@ An example:
 - Folder "train/" contains the implementation of six representative alignment.
 - Folder "metrics/" contains some statistical metrics for discrepancy-based methods.
 - Folder "data/" contains the datasets in our paper.
+- Folder "scripts/" contains the scripts to run the experiments.
