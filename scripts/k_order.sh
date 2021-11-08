@@ -8,23 +8,9 @@ cudaid=3
 
 for seed in 3000 1000 42 10 0
 do 
-    for i in 3 6 7 10 11
+    for i in 0 1 2 3 4 6 7 8 9 10 11
     do
-        CUDA_VISIBLE_DEVICES=$cudaid python ../main/main_k_order.py \
-            --src ${srcd[$i]} \
-            --tgt ${tgtd[$i]} \
-            --max_seq_length 128 \
-            --train_seed $seed \
-            --num_epochs $ne \
-            --beta 1
-    done
-done
-
-for seed in 3000 1000 42 10 0
-do 
-    for i in 0 1 2 4 8 9
-    do
-        CUDA_VISIBLE_DEVICES=$cudaid python ../main/main_k_order.py \
+        CUDA_VISIBLE_DEVICES=$cudaid python ../main/main_coral.py \
             --src ${srcd[$i]} \
             --tgt ${tgtd[$i]} \
             --max_seq_length 128 \
@@ -38,7 +24,7 @@ for seed in 3000 1000 42 10 0
 do 
     for i in 5
     do
-        CUDA_VISIBLE_DEVICES=$cudaid python ../main/main_k_order.py \
+        CUDA_VISIBLE_DEVICES=$cudaid python ../main/main_coral.py \
             --src ${srcd[$i]} \
             --tgt ${tgtd[$i]} \
             --max_seq_length 128 \
@@ -57,7 +43,7 @@ for seed in 3000 1000 42 10 0
 do 
     for i in 0 1 2 3 4 5 6
     do 
-        CUDA_VISIBLE_DEVICES=$cudaid python ../main/main_k_order.py \
+        CUDA_VISIBLE_DEVICES=$cudaid python ../main/main_coral.py \
             --src ${srcd[$i]} \
             --tgt ${tgtd[$i]} \
             --max_seq_length 256 \
