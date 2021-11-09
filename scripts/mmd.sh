@@ -3,11 +3,11 @@
 srcd=(wa1 ab ds da dzy fz ri ri ia ia b2 b2)
 tgtd=(ab wa1 da ds fz dzy ab wa1 da ds fz dzy)
 ne=40
-cudaid=1
+cudaid=2
 
 for seed in 3000 1000 42 10 0
 do 
-    for i in 2 3
+    for i in 0 1 2 3 8
     do
         CUDA_VISIBLE_DEVICES=$cudaid python ../main/main_mmd.py \
             --src ${srcd[$i]} \
@@ -35,7 +35,7 @@ done
 
 for seed in 3000 1000 42 10 0
 do 
-    for i in 0 1 6 7 8
+    for i in 6 7
     do
         CUDA_VISIBLE_DEVICES=$cudaid python ../main/main_mmd.py \
             --src ${srcd[$i]} \
