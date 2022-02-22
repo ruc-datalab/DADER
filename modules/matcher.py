@@ -8,7 +8,7 @@ class BertClassifier(nn.Module):
     def __init__(self, dropout=0.1):
         super(BertClassifier, self).__init__()
         self.dropout = nn.Dropout(p=dropout)
-        self.classifier = nn.Linear(param.hidden_size, param.num_labels_dada)
+        self.classifier = nn.Linear(param.hidden_size, param.num_labels)
         self.apply(self.init_bert_weights)
 
     def forward(self, x):

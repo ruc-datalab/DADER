@@ -1,4 +1,4 @@
-"""Main script for InvGAN+KD."""
+"""Main script for InvGAN + Knowledge Distillation (KD)."""
 import sys
 sys.path.append("..")
 import param

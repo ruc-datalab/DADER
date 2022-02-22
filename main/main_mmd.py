@@ -1,17 +1,17 @@
+"""Main script for Maximum Mean Discrepancy (MMD)."""
 import sys
 sys.path.append("../")
 import param
-from train.adapt_mmd import train, evaluate
+from train.adapt_mmd import train
 from modules.extractor import BertEncoder
 from modules.matcher import BertClassifier
-from utils import CSV2Array, convert_examples_to_features, get_data_loader, init_model, save_model
+from utils import CSV2Array, convert_examples_to_features, get_data_loader, init_model
 from sklearn.model_selection import train_test_split
-from transformers import BertTokenizer, RobertaTokenizer
+from transformers import BertTokenizer
 import torch
 import os
 import random
 import argparse
-import csv
 
 def parse_arguments():
     # argument parsing

@@ -1,3 +1,4 @@
+"""Main script for K-order."""
 import sys
 sys.path.append("../")
 import param

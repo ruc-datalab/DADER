@@ -1,3 +1,4 @@
+"""Main script for Gradient reversal layer."""
 import sys
 sys.path.append("../")
 import param

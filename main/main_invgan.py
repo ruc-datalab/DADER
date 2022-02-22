@@ -1,4 +1,4 @@
-"""Main script for InvGAN."""
+"""Main script for Inverted Labels GAN (InvGAN)."""
 import sys
 sys.path.append("..")
 import param

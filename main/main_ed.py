@@ -1,8 +1,6 @@
-"""Main script for ED."""
+"""Main script for Encoder-Decoder."""
 import sys
 sys.path.append("..")
-import param
-from train.pretrain import pretrain,pretrain_best
 from train.adapt_ed import train, evaluate
 from modules.extractor import BartEncoder
 from modules.matcher import BertClassifier
@@ -14,8 +12,6 @@ import torch
 import os
 import random
 import argparse
-import datetime
-import csv
 
 def parse_arguments():
     # argument parsing
