@@ -16,10 +16,10 @@ Public datasets used in the paper are from [DeepMatcher](https://github.com/anha
 The main results on these benchmark datasets are summarized below:
 > * Finding1: DA can significantly improve ER when the model trained on the source does not perform well on the target.
 > * Finding2: Choosing a “close” source domain for DA is more beneficial.
-> * Finding3: For the Feature Aligner methods, discrepancybased methods (e.g., MMD) are more stable but adversarial-based method InvGAN+KD works the best when carefully tuning hyperparameters.
+> * Finding3: For the Feature Aligner methods, discrepancy-based methods (e.g., MMD) are more stable but adversarial-based method InvGAN+KD works the best when carefully tuning hyper-parameters.
 > * Finding4: Not all successful DA methods in CV and NLP are suitable to ER.
 > * Finding5: Pre-trained LM Feature Extractor works better than RNN based methods.
-> * Finding6: the feature-level DA approach that learns domain-invariant and discriminative features is much better than the instance-based approach.
+> * Finding6: the feature-level DA approach that learns domain-invariant and discriminative features is much better than the instance-based approach.
 > * Finding7: when the labels for target datasets are available, using DA requires much less training data from the target to achieve a high accuracy, comparing with the SOTA DL based methods with/without pre-trained languages models.
 
 ## Quick Start
